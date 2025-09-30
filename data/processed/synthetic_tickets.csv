@@ -1,0 +1,1001 @@
+ticket_id,category,priority,status,created_at,resolution_time,user_id,technician_id,satisfaction_score,description,composite_sentiment
+T0000,Network,Medium,Resolved,2024-01-01 00:00:00,7.029870967589413,U000,T00,4.71628434461008,Sample IT support ticket 0 with various issues and complexities,-0.4065071861300649
+T0001,Security,Medium,Resolved,2024-01-01 01:00:00,5.784649586010345,U001,T01,3.494737816667735,Sample IT support ticket 1 with various issues and complexities,0.41163995783885265
+T0002,Hardware,Medium,Open,2024-01-01 02:00:00,3.408843183378651,U002,T02,4.202532190430385,Sample IT support ticket 2 with various issues and complexities,0.1128807615558772
+T0003,Network,Low,Resolved,2024-01-01 03:00:00,12.49855066079174,U003,T03,4.656275210089965,Sample IT support ticket 3 with various issues and complexities,0.008806625966828657
+T0004,Network,Medium,Resolved,2024-01-01 04:00:00,0.8949474868178006,U004,T04,3.97310994823703,Sample IT support ticket 4 with various issues and complexities,-0.487683013639125
+T0005,Security,High,Resolved,2024-01-01 05:00:00,0.46282971127905803,U005,T05,4.363792729712907,Sample IT support ticket 5 with various issues and complexities,0.6517539659673796
+T0006,Hardware,Low,Resolved,2024-01-01 06:00:00,7.695552763571144,U006,T06,3.586856284889943,Sample IT support ticket 6 with various issues and complexities,0.33235137266655496
+T0007,Hardware,Low,Resolved,2024-01-01 07:00:00,2.313205847789906,U007,T07,3.8428267332575223,Sample IT support ticket 7 with various issues and complexities,-0.276460418683651
+T0008,Network,Low,Resolved,2024-01-01 08:00:00,7.5084552441303725,U008,T08,3.835312455295728,Sample IT support ticket 8 with various issues and complexities,0.5009124268409686
+T0009,Software,Medium,Resolved,2024-01-01 09:00:00,8.943079357148468,U009,T09,3.402737322767809,Sample IT support ticket 9 with various issues and complexities,-0.24878541919260358
+T0010,Network,Medium,Resolved,2024-01-01 10:00:00,0.2579731547503336,U010,T10,3.8585806695073743,Sample IT support ticket 10 with various issues and complexities,-0.3910017462555185
+T0011,Network,Medium,Resolved,2024-01-01 11:00:00,8.598246352281292,U011,T11,2.761105360909003,Sample IT support ticket 11 with various issues and complexities,-0.37985155874014354
+T0012,Network,Low,Closed,2024-01-01 12:00:00,2.379141594673699,U012,T12,3.6070770022863163,Sample IT support ticket 12 with various issues and complexities,-0.8855342765440456
+T0013,Network,Low,Open,2024-01-01 13:00:00,2.856931632984423,U013,T13,3.7720996053042635,Sample IT support ticket 13 with various issues and complexities,0.23577119020910287
+T0014,Security,Critical,In Progress,2024-01-01 14:00:00,3.9403399683412084,U014,T14,3.795056198003696,Sample IT support ticket 14 with various issues and complexities,-0.9155724391691751
+T0015,Hardware,Critical,Open,2024-01-01 15:00:00,10.435495838259103,U015,T15,3.806802043303377,Sample IT support ticket 15 with various issues and complexities,-0.6142219156328813
+T0016,Security,Medium,Resolved,2024-01-01 16:00:00,0.07720467746234337,U016,T16,3.950588640111897,Sample IT support ticket 16 with various issues and complexities,-1.0377940045392666
+T0017,Security,Low,Resolved,2024-01-01 17:00:00,2.591498255751293,U017,T17,4.383553214468851,Sample IT support ticket 17 with various issues and complexities,-0.04303484639544653
+T0018,Security,Low,In Progress,2024-01-01 18:00:00,4.655446392534634,U018,T18,4.699613659306018,Sample IT support ticket 18 with various issues and complexities,-0.07516023013593603
+T0019,Network,High,Closed,2024-01-01 19:00:00,5.130721670180418,U019,T19,3.480187818521386,Sample IT support ticket 19 with various issues and complexities,-0.16334810659318202
+T0020,Software,Medium,Open,2024-01-01 20:00:00,4.717542662844432,U020,T00,3.0374393156886845,Sample IT support ticket 20 with various issues and complexities,-0.5212888473352881
+T0021,Hardware,Medium,Closed,2024-01-01 21:00:00,0.5774918223812373,U021,T01,3.166364470205518,Sample IT support ticket 21 with various issues and complexities,-0.58611687671832
+T0022,Software,Low,Resolved,2024-01-01 22:00:00,1.4232474852390962,U022,T02,3.6102376630440585,Sample IT support ticket 22 with various issues and complexities,0.23218493177328708
+T0023,Security,Low,In Progress,2024-01-01 23:00:00,1.7771284896373387,U023,T03,3.7184629457467926,Sample IT support ticket 23 with various issues and complexities,-0.27527596585424385
+T0024,Security,Low,Resolved,2024-01-02 00:00:00,6.527495051146086,U024,T04,3.384003147042034,Sample IT support ticket 24 with various issues and complexities,0.15817916076807237
+T0025,Software,Medium,In Progress,2024-01-02 01:00:00,1.307132596706528,U025,T05,2.9631066686000844,Sample IT support ticket 25 with various issues and complexities,-0.44262434306211124
+T0026,Software,Medium,In Progress,2024-01-02 02:00:00,0.9464603649449942,U026,T06,3.6351033380206497,Sample IT support ticket 26 with various issues and complexities,0.09053137138554117
+T0027,Software,Medium,Resolved,2024-01-02 03:00:00,12.628115475800033,U027,T07,4.145141296091177,Sample IT support ticket 27 with various issues and complexities,0.6516390186580319
+T0028,Security,High,Resolved,2024-01-02 04:00:00,0.03561119068914095,U028,T08,4.476023572668452,Sample IT support ticket 28 with various issues and complexities,0.29308290019639166
+T0029,Security,Low,Resolved,2024-01-02 05:00:00,24.515291975616346,U029,T09,3.554061557513343,Sample IT support ticket 29 with various issues and complexities,-0.2062069091082402
+T0030,Hardware,Low,Resolved,2024-01-02 06:00:00,4.518199417747013,U030,T10,3.669601742285253,Sample IT support ticket 30 with various issues and complexities,0.12859948517796368
+T0031,Hardware,Low,Resolved,2024-01-02 07:00:00,7.05197206575348,U031,T11,3.2586413529221514,Sample IT support ticket 31 with various issues and complexities,-0.12033258726510651
+T0032,Security,Low,Resolved,2024-01-02 08:00:00,1.3960710340196825,U032,T12,3.974848663700179,Sample IT support ticket 32 with various issues and complexities,0.003940092347364076
+T0033,Software,Medium,In Progress,2024-01-02 09:00:00,0.057674918952046086,U033,T13,3.321257092647348,Sample IT support ticket 33 with various issues and complexities,-0.1628055260742518
+T0034,Software,Low,Resolved,2024-01-02 10:00:00,5.355651513738802,U034,T14,4.45850225059296,Sample IT support ticket 34 with various issues and complexities,-0.0821676029426956
+T0035,Hardware,Low,In Progress,2024-01-02 11:00:00,7.186555745973603,U035,T15,2.5713068064527107,Sample IT support ticket 35 with various issues and complexities,0.10604667653708762
+T0036,Security,Low,In Progress,2024-01-02 12:00:00,5.395626414192376,U036,T16,3.71229626203803,Sample IT support ticket 36 with various issues and complexities,-0.49667934979097533
+T0037,Hardware,High,Resolved,2024-01-02 13:00:00,0.6165707268408868,U037,T17,4.2408858713533935,Sample IT support ticket 37 with various issues and complexities,-0.5079394134949892
+T0038,Hardware,Medium,In Progress,2024-01-02 14:00:00,5.600403694417016,U038,T18,4.147067613058003,Sample IT support ticket 38 with various issues and complexities,-0.6942712769156055
+T0039,Network,High,Resolved,2024-01-02 15:00:00,5.860013390912066,U039,T19,5.0,Sample IT support ticket 39 with various issues and complexities,-0.800135552251855
+T0040,Network,Low,Resolved,2024-01-02 16:00:00,4.298104989327524,U040,T00,4.279840019654326,Sample IT support ticket 40 with various issues and complexities,-0.6086413461102397
+T0041,Network,Medium,In Progress,2024-01-02 17:00:00,5.811718902769653,U041,T01,3.196756322526392,Sample IT support ticket 41 with various issues and complexities,0.07973125340206459
+T0042,Software,High,Resolved,2024-01-02 18:00:00,7.48117069871522,U042,T02,3.9236286023287414,Sample IT support ticket 42 with various issues and complexities,-0.44639375774594203
+T0043,Security,Medium,In Progress,2024-01-02 19:00:00,3.8035712972517217,U043,T03,2.5790029332268385,Sample IT support ticket 43 with various issues and complexities,0.2568072321155481
+T0044,Security,Medium,Closed,2024-01-02 20:00:00,0.37111428957966297,U044,T04,3.9355202005625913,Sample IT support ticket 44 with various issues and complexities,0.01735687437628093
+T0045,Security,Medium,Resolved,2024-01-02 21:00:00,2.6748159351504888,U045,T05,3.333555154399393,Sample IT support ticket 45 with various issues and complexities,-0.9842521067190269
+T0046,Security,High,Resolved,2024-01-02 22:00:00,0.32331918629730133,U046,T06,4.732312220448129,Sample IT support ticket 46 with various issues and complexities,0.3274877921108449
+T0047,Network,Medium,Resolved,2024-01-02 23:00:00,2.093908139301341,U047,T07,3.5603677803235723,Sample IT support ticket 47 with various issues and complexities,0.40539932279585494
+T0048,Software,Medium,Open,2024-01-03 00:00:00,2.0909618922025244,U048,T08,3.9065872673638027,Sample IT support ticket 48 with various issues and complexities,-0.4969313374174267
+T0049,Software,Low,Resolved,2024-01-03 01:00:00,0.27315752229420304,U049,T09,3.4915537268764774,Sample IT support ticket 49 with various issues and complexities,0.2100957714474958
+T0050,Network,Medium,Closed,2024-01-03 02:00:00,1.7158799891975227,U050,T10,5.0,Sample IT support ticket 50 with various issues and complexities,-0.4282491187045995
+T0051,Software,Low,Resolved,2024-01-03 03:00:00,0.47062361951229004,U051,T11,3.7430057871056706,Sample IT support ticket 51 with various issues and complexities,0.0488351883741677
+T0052,Network,Medium,Resolved,2024-01-03 04:00:00,6.605942840301921,U052,T12,5.0,Sample IT support ticket 52 with various issues and complexities,-0.6322492034774828
+T0053,Security,Medium,Resolved,2024-01-03 05:00:00,11.802119940247994,U053,T13,4.651321409694614,Sample IT support ticket 53 with various issues and complexities,-0.8965532262672884
+T0054,Network,Low,In Progress,2024-01-03 06:00:00,0.3002585349298231,U054,T14,4.385653381868309,Sample IT support ticket 54 with various issues and complexities,-0.19140859480648434
+T0055,Security,Medium,In Progress,2024-01-03 07:00:00,12.414624936274743,U055,T15,4.294986517854015,Sample IT support ticket 55 with various issues and complexities,-0.06186447313741807
+T0056,Security,High,Resolved,2024-01-03 08:00:00,2.9574061975550445,U056,T16,4.3150378385730015,Sample IT support ticket 56 with various issues and complexities,-0.19883984680730202
+T0057,Hardware,Critical,Resolved,2024-01-03 09:00:00,1.4242187051144082,U057,T17,2.457861936523512,Sample IT support ticket 57 with various issues and complexities,-0.5920152791112797
+T0058,Network,Low,Resolved,2024-01-03 10:00:00,0.3199064989582883,U058,T18,3.776893284679395,Sample IT support ticket 58 with various issues and complexities,-0.19994953106556854
+T0059,Hardware,Medium,Closed,2024-01-03 11:00:00,2.7775859870855744,U059,T19,4.676126376947457,Sample IT support ticket 59 with various issues and complexities,0.134647376290367
+T0060,Network,Medium,Resolved,2024-01-03 12:00:00,6.329539560790471,U060,T00,3.9608822532207157,Sample IT support ticket 60 with various issues and complexities,-0.02244651506126849
+T0061,Network,High,In Progress,2024-01-03 13:00:00,4.911511431134599,U061,T01,2.87584812255714,Sample IT support ticket 61 with various issues and complexities,0.0912505152996067
+T0062,Hardware,High,Resolved,2024-01-03 14:00:00,0.20612491798418583,U062,T02,3.9580764395380243,Sample IT support ticket 62 with various issues and complexities,-0.33505760022711645
+T0063,Hardware,Critical,In Progress,2024-01-03 15:00:00,0.3027832962330099,U063,T03,5.0,Sample IT support ticket 63 with various issues and complexities,0.5858589573580798
+T0064,Network,Medium,Resolved,2024-01-03 16:00:00,2.0625037248643507,U064,T04,4.997513372427775,Sample IT support ticket 64 with various issues and complexities,-0.5880866682773903
+T0065,Software,Medium,Resolved,2024-01-03 17:00:00,1.399878437520196,U065,T05,3.9503967925071746,Sample IT support ticket 65 with various issues and complexities,0.2437801485433593
+T0066,Security,Medium,Resolved,2024-01-03 18:00:00,1.057864366930238,U066,T06,4.761159421646469,Sample IT support ticket 66 with various issues and complexities,0.5909455464799808
+T0067,Hardware,Medium,Open,2024-01-03 19:00:00,1.3196007138220465,U067,T07,3.7067943837055584,Sample IT support ticket 67 with various issues and complexities,0.2404540463744477
+T0068,Security,Low,Resolved,2024-01-03 20:00:00,6.508020124626864,U068,T08,2.636902730538625,Sample IT support ticket 68 with various issues and complexities,-0.10126211353241502
+T0069,Software,Medium,Resolved,2024-01-03 21:00:00,10.593170378173712,U069,T09,3.2604272094963562,Sample IT support ticket 69 with various issues and complexities,-0.2641485233314896
+T0070,Software,Medium,Resolved,2024-01-03 22:00:00,2.0774659367101345,U070,T10,5.0,Sample IT support ticket 70 with various issues and complexities,0.518043825523128
+T0071,Software,Low,In Progress,2024-01-03 23:00:00,9.462568272971561,U071,T11,3.7808055345365568,Sample IT support ticket 71 with various issues and complexities,-0.7114874626308365
+T0072,Hardware,Medium,Resolved,2024-01-04 00:00:00,1.5514578562289982,U072,T12,3.8052928164999855,Sample IT support ticket 72 with various issues and complexities,-0.4850621301898218
+T0073,Software,Medium,Resolved,2024-01-04 01:00:00,2.588391543958097,U073,T13,3.7601294429800953,Sample IT support ticket 73 with various issues and complexities,-0.1987788827458607
+T0074,Hardware,Low,In Progress,2024-01-04 02:00:00,1.0248834838911545,U074,T14,5.0,Sample IT support ticket 74 with various issues and complexities,0.6188268787559991
+T0075,Software,Low,Open,2024-01-04 03:00:00,4.0918978478861785,U075,T15,5.0,Sample IT support ticket 75 with various issues and complexities,0.18988381802044801
+T0076,Security,High,Open,2024-01-04 04:00:00,15.449335871905289,U076,T16,5.0,Sample IT support ticket 76 with various issues and complexities,-0.48402287925512266
+T0077,Security,Low,Resolved,2024-01-04 05:00:00,3.700247303240384,U077,T17,3.872763831679959,Sample IT support ticket 77 with various issues and complexities,-0.15515385269245183
+T0078,Network,Medium,Resolved,2024-01-04 06:00:00,1.7715097144267367,U078,T18,4.236499590997676,Sample IT support ticket 78 with various issues and complexities,-0.3071615720481472
+T0079,Security,Medium,Resolved,2024-01-04 07:00:00,4.174422473901935,U079,T19,2.786685960463367,Sample IT support ticket 79 with various issues and complexities,-0.35489449611676754
+T0080,Network,Medium,In Progress,2024-01-04 08:00:00,0.5246313770092427,U080,T00,5.0,Sample IT support ticket 80 with various issues and complexities,0.4894447792783896
+T0081,Security,Low,Resolved,2024-01-04 09:00:00,8.780633742665225,U081,T01,3.065776358985652,Sample IT support ticket 81 with various issues and complexities,-0.6858715646317528
+T0082,Hardware,Medium,Resolved,2024-01-04 10:00:00,2.7973367288129385,U082,T02,4.173420451010103,Sample IT support ticket 82 with various issues and complexities,0.8043904278671867
+T0083,Security,Medium,Resolved,2024-01-04 11:00:00,2.3866216476244073,U083,T03,3.1221579778937247,Sample IT support ticket 83 with various issues and complexities,0.4141148450923114
+T0084,Network,Medium,Closed,2024-01-04 12:00:00,3.5262510421598416,U084,T04,3.5289065386090432,Sample IT support ticket 84 with various issues and complexities,0.545430835301849
+T0085,Network,High,In Progress,2024-01-04 13:00:00,3.921012212607308,U085,T05,3.33019005516024,Sample IT support ticket 85 with various issues and complexities,-0.23146975601262915
+T0086,Software,High,Resolved,2024-01-04 14:00:00,0.2979279490226599,U086,T06,3.5136997914593455,Sample IT support ticket 86 with various issues and complexities,-0.07497035953955468
+T0087,Hardware,High,Resolved,2024-01-04 15:00:00,4.59058691809752,U087,T07,3.568701837480817,Sample IT support ticket 87 with various issues and complexities,-0.716575907262356
+T0088,Security,High,Resolved,2024-01-04 16:00:00,1.1079270635660419,U088,T08,3.5613849640599384,Sample IT support ticket 88 with various issues and complexities,-0.2623312035334015
+T0089,Software,High,Resolved,2024-01-04 17:00:00,5.006391445078134,U089,T09,4.666667129424246,Sample IT support ticket 89 with various issues and complexities,0.24682742382157544
+T0090,Security,High,Resolved,2024-01-04 18:00:00,6.915922855926876,U090,T10,3.116109765549984,Sample IT support ticket 90 with various issues and complexities,0.6480315308906981
+T0091,Security,Medium,Closed,2024-01-04 19:00:00,6.5177157839819175,U091,T11,4.176433141611094,Sample IT support ticket 91 with various issues and complexities,-0.5535784084012259
+T0092,Software,High,In Progress,2024-01-04 20:00:00,3.21632361229961,U092,T12,4.974367321844447,Sample IT support ticket 92 with various issues and complexities,-0.18275296849263292
+T0093,Software,Medium,In Progress,2024-01-04 21:00:00,2.937292720186521,U093,T13,3.589442908389283,Sample IT support ticket 93 with various issues and complexities,-0.07564961011626116
+T0094,Software,Low,Resolved,2024-01-04 22:00:00,0.6166905398570036,U094,T14,3.4256648874019184,Sample IT support ticket 94 with various issues and complexities,-0.6978946010962426
+T0095,Software,Medium,Resolved,2024-01-04 23:00:00,5.972778030549713,U095,T15,3.8155802998557995,Sample IT support ticket 95 with various issues and complexities,0.29567462087920016
+T0096,Software,Medium,In Progress,2024-01-05 00:00:00,1.266573076434426,U096,T16,4.943780166688568,Sample IT support ticket 96 with various issues and complexities,-0.36199516587130454
+T0097,Security,High,Open,2024-01-05 01:00:00,2.7462390835988906,U097,T17,4.155286104762686,Sample IT support ticket 97 with various issues and complexities,-0.09769517558851198
+T0098,Software,High,Open,2024-01-05 02:00:00,1.3378319866549684,U098,T18,3.575028564313921,Sample IT support ticket 98 with various issues and complexities,-0.22597468595593884
+T0099,Hardware,Critical,Resolved,2024-01-05 03:00:00,0.5746887796291847,U099,T19,4.387101320950432,Sample IT support ticket 99 with various issues and complexities,-0.39466925285983717
+T0100,Network,High,In Progress,2024-01-05 04:00:00,3.9722302939036895,U000,T00,3.118166280130861,Sample IT support ticket 100 with various issues and complexities,-0.0035224927402773497
+T0101,Software,Medium,Resolved,2024-01-05 05:00:00,0.22345503890366547,U001,T01,4.5450876083543585,Sample IT support ticket 101 with various issues and complexities,-0.10780478928401119
+T0102,Software,High,In Progress,2024-01-05 06:00:00,5.523559711672322,U002,T02,4.326885846161414,Sample IT support ticket 102 with various issues and complexities,-0.18592894113933278
+T0103,Security,High,Resolved,2024-01-05 07:00:00,1.5284797302155861,U003,T03,3.753753223088893,Sample IT support ticket 103 with various issues and complexities,-0.3642308108401714
+T0104,Software,High,Open,2024-01-05 08:00:00,0.0005388083056106948,U004,T04,3.329131361242215,Sample IT support ticket 104 with various issues and complexities,0.15976233539147772
+T0105,Software,Medium,Resolved,2024-01-05 09:00:00,2.862627651217781,U005,T05,3.2906552621732343,Sample IT support ticket 105 with various issues and complexities,0.8268086342461425
+T0106,Software,High,Open,2024-01-05 10:00:00,0.1919399694450087,U006,T06,4.427853869076728,Sample IT support ticket 106 with various issues and complexities,0.06994361641956369
+T0107,Security,Medium,Resolved,2024-01-05 11:00:00,1.2927924396391188,U007,T07,4.98318440199125,Sample IT support ticket 107 with various issues and complexities,0.4980591074555645
+T0108,Software,Medium,In Progress,2024-01-05 12:00:00,4.9100097023732925,U008,T08,3.4901538023769643,Sample IT support ticket 108 with various issues and complexities,-0.6951109625767313
+T0109,Network,Medium,Resolved,2024-01-05 13:00:00,0.25896321863530714,U009,T09,4.3667093628411875,Sample IT support ticket 109 with various issues and complexities,0.07888071964688474
+T0110,Security,Critical,Resolved,2024-01-05 14:00:00,7.3138222568591456,U010,T10,2.330378385118345,Sample IT support ticket 110 with various issues and complexities,-0.5486841594855333
+T0111,Network,Low,Resolved,2024-01-05 15:00:00,0.015308948785584227,U011,T11,3.53230581547424,Sample IT support ticket 111 with various issues and complexities,-0.7384624637659507
+T0112,Security,Medium,Resolved,2024-01-05 16:00:00,1.133824692365982,U012,T12,3.9751528537032783,Sample IT support ticket 112 with various issues and complexities,-0.36968570372951814
+T0113,Software,High,Resolved,2024-01-05 17:00:00,5.402227385244417,U013,T13,3.272253266414533,Sample IT support ticket 113 with various issues and complexities,0.5959496672067864
+T0114,Network,Low,Resolved,2024-01-05 18:00:00,1.520769580478999,U014,T14,3.250794900168323,Sample IT support ticket 114 with various issues and complexities,0.4750079143348228
+T0115,Security,Low,Resolved,2024-01-05 19:00:00,0.42986153097517404,U015,T15,3.465776354824891,Sample IT support ticket 115 with various issues and complexities,0.12150236102719984
+T0116,Hardware,High,Closed,2024-01-05 20:00:00,1.786610670259232,U016,T16,4.233754182661099,Sample IT support ticket 116 with various issues and complexities,-0.7663502799449654
+T0117,Software,Medium,Resolved,2024-01-05 21:00:00,1.2609985539550241,U017,T17,3.8501367852749,Sample IT support ticket 117 with various issues and complexities,-0.0981403256939684
+T0118,Security,Low,Resolved,2024-01-05 22:00:00,7.398704548548117,U018,T18,2.2094150133400223,Sample IT support ticket 118 with various issues and complexities,0.15085000445086777
+T0119,Hardware,Medium,Resolved,2024-01-05 23:00:00,1.503710181175359,U019,T19,2.3034398778919467,Sample IT support ticket 119 with various issues and complexities,0.08776811478929895
+T0120,Security,High,Resolved,2024-01-06 00:00:00,6.2223086309254025,U020,T00,3.5145078577142597,Sample IT support ticket 120 with various issues and complexities,-0.9218967917403729
+T0121,Hardware,High,Open,2024-01-06 01:00:00,8.897763630816113,U021,T01,4.366149268842841,Sample IT support ticket 121 with various issues and complexities,-0.4451589240099359
+T0122,Software,Medium,Resolved,2024-01-06 02:00:00,2.2753546901731854,U022,T02,1.8019961258198123,Sample IT support ticket 122 with various issues and complexities,-0.032038882074358316
+T0123,Network,Medium,Closed,2024-01-06 03:00:00,9.629256292644786,U023,T03,3.6002158590786957,Sample IT support ticket 123 with various issues and complexities,0.26814545475859497
+T0124,Hardware,Medium,In Progress,2024-01-06 04:00:00,1.8948776422380642,U024,T04,3.579001714786063,Sample IT support ticket 124 with various issues and complexities,-1.0980639105499732
+T0125,Security,Medium,Resolved,2024-01-06 05:00:00,13.305667808674864,U025,T05,5.0,Sample IT support ticket 125 with various issues and complexities,-0.08106198773992922
+T0126,Software,Medium,In Progress,2024-01-06 06:00:00,0.37412096724944605,U026,T06,3.6919825506297093,Sample IT support ticket 126 with various issues and complexities,0.07152438493947617
+T0127,Hardware,Medium,Resolved,2024-01-06 07:00:00,4.646454578639953,U027,T07,4.306391187792743,Sample IT support ticket 127 with various issues and complexities,0.42480599425810656
+T0128,Security,Critical,Open,2024-01-06 08:00:00,2.723404672924613,U028,T08,4.11300571206997,Sample IT support ticket 128 with various issues and complexities,0.34642879211871835
+T0129,Security,Medium,Resolved,2024-01-06 09:00:00,1.9617972550500524,U029,T09,2.295546816154239,Sample IT support ticket 129 with various issues and complexities,0.2912856594044026
+T0130,Security,Medium,Resolved,2024-01-06 10:00:00,4.006434669621311,U030,T10,4.61456577330539,Sample IT support ticket 130 with various issues and complexities,-0.3999702533509671
+T0131,Hardware,Low,Resolved,2024-01-06 11:00:00,4.867652570540497,U031,T11,4.17231720436503,Sample IT support ticket 131 with various issues and complexities,-0.9540010685616538
+T0132,Hardware,Medium,Resolved,2024-01-06 12:00:00,0.01749126596698565,U032,T12,4.406614911739672,Sample IT support ticket 132 with various issues and complexities,-0.19652637853070049
+T0133,Hardware,Medium,Resolved,2024-01-06 13:00:00,0.730661289484836,U033,T13,5.0,Sample IT support ticket 133 with various issues and complexities,0.50081591260428
+T0134,Network,High,Closed,2024-01-06 14:00:00,4.993734125074665,U034,T14,2.332709648401129,Sample IT support ticket 134 with various issues and complexities,0.6967272637622157
+T0135,Hardware,Medium,In Progress,2024-01-06 15:00:00,4.391075540669889,U035,T15,5.0,Sample IT support ticket 135 with various issues and complexities,0.35527455114889267
+T0136,Hardware,Medium,Resolved,2024-01-06 16:00:00,13.531171764162165,U036,T16,3.7700419844797155,Sample IT support ticket 136 with various issues and complexities,0.21467041140086718
+T0137,Hardware,High,In Progress,2024-01-06 17:00:00,5.725799431026962,U037,T17,4.229863123522407,Sample IT support ticket 137 with various issues and complexities,0.18981982419298274
+T0138,Network,Medium,Closed,2024-01-06 18:00:00,12.045228353507516,U038,T18,3.963590203759006,Sample IT support ticket 138 with various issues and complexities,-0.2780593733803903
+T0139,Hardware,Medium,Closed,2024-01-06 19:00:00,4.8499088115083495,U039,T19,3.660610933281565,Sample IT support ticket 139 with various issues and complexities,-0.06503014677681002
+T0140,Security,Critical,Resolved,2024-01-06 20:00:00,1.4155849960130593,U040,T00,3.544133657408993,Sample IT support ticket 140 with various issues and complexities,0.8345347629131655
+T0141,Hardware,Medium,Resolved,2024-01-06 21:00:00,0.4453575128481436,U041,T01,4.263606988458407,Sample IT support ticket 141 with various issues and complexities,-0.47127900289593816
+T0142,Security,High,Resolved,2024-01-06 22:00:00,6.089810304457923,U042,T02,2.7862610426626566,Sample IT support ticket 142 with various issues and complexities,0.8073893953549257
+T0143,Security,Medium,Resolved,2024-01-06 23:00:00,4.1329751898081,U043,T03,4.600463334017412,Sample IT support ticket 143 with various issues and complexities,-0.1610140772460292
+T0144,Security,High,Open,2024-01-07 00:00:00,0.19754261780616797,U044,T04,3.667044476091797,Sample IT support ticket 144 with various issues and complexities,0.6627160545475392
+T0145,Network,Low,Resolved,2024-01-07 01:00:00,1.7854638348310283,U045,T05,3.095944528767714,Sample IT support ticket 145 with various issues and complexities,-0.7034075047487691
+T0146,Network,Medium,In Progress,2024-01-07 02:00:00,12.567642050176458,U046,T06,3.6399897136033488,Sample IT support ticket 146 with various issues and complexities,0.29295210058232457
+T0147,Network,Medium,Resolved,2024-01-07 03:00:00,2.7757991759534018,U047,T07,5.0,Sample IT support ticket 147 with various issues and complexities,-0.368385067973811
+T0148,Hardware,Low,Resolved,2024-01-07 04:00:00,2.267673500290196,U048,T08,3.5717319303870214,Sample IT support ticket 148 with various issues and complexities,-0.7076335959620937
+T0149,Security,Medium,Resolved,2024-01-07 05:00:00,2.4477407881999955,U049,T09,4.286762894567696,Sample IT support ticket 149 with various issues and complexities,0.10926702120547284
+T0150,Network,High,Open,2024-01-07 06:00:00,0.9372362370103832,U050,T10,3.4152349794276216,Sample IT support ticket 150 with various issues and complexities,0.5047358942979844
+T0151,Network,Medium,Resolved,2024-01-07 07:00:00,1.8399418102366807,U051,T11,4.606337479938896,Sample IT support ticket 151 with various issues and complexities,-0.4224707192967482
+T0152,Hardware,Medium,In Progress,2024-01-07 08:00:00,1.8469563378081495,U052,T12,4.548406191032163,Sample IT support ticket 152 with various issues and complexities,-0.7495079802292006
+T0153,Network,Medium,Resolved,2024-01-07 09:00:00,0.21510136294439125,U053,T13,5.0,Sample IT support ticket 153 with various issues and complexities,-0.045922382167477564
+T0154,Hardware,Medium,Open,2024-01-07 10:00:00,5.836623886452199,U054,T14,3.8595488436006278,Sample IT support ticket 154 with various issues and complexities,-0.04371766438859054
+T0155,Software,High,Closed,2024-01-07 11:00:00,2.154873690655079,U055,T15,4.534923843806325,Sample IT support ticket 155 with various issues and complexities,0.27415981377724935
+T0156,Network,Medium,Resolved,2024-01-07 12:00:00,6.907931359131592,U056,T16,4.078454031631155,Sample IT support ticket 156 with various issues and complexities,0.4747972856822441
+T0157,Software,Medium,Resolved,2024-01-07 13:00:00,7.597770750955429,U057,T17,5.0,Sample IT support ticket 157 with various issues and complexities,-0.029707590636247047
+T0158,Hardware,Medium,Resolved,2024-01-07 14:00:00,0.9529985774162499,U058,T18,3.4249340899130156,Sample IT support ticket 158 with various issues and complexities,0.9277516573971315
+T0159,Security,Medium,Resolved,2024-01-07 15:00:00,4.284223693885238,U059,T19,4.596004250301825,Sample IT support ticket 159 with various issues and complexities,0.11211737226764588
+T0160,Network,Medium,Resolved,2024-01-07 16:00:00,2.5567714310429728,U060,T00,3.844242163106655,Sample IT support ticket 160 with various issues and complexities,-0.1732132530034498
+T0161,Hardware,Low,Resolved,2024-01-07 17:00:00,8.48628215720944,U061,T01,3.9486494583132017,Sample IT support ticket 161 with various issues and complexities,-0.805783679551414
+T0162,Security,Medium,Closed,2024-01-07 18:00:00,0.9720621878651889,U062,T02,4.073401987558698,Sample IT support ticket 162 with various issues and complexities,-0.13132976015808387
+T0163,Security,High,Resolved,2024-01-07 19:00:00,4.530495113533779,U063,T03,4.201792317141342,Sample IT support ticket 163 with various issues and complexities,-0.16819347270556811
+T0164,Software,High,Closed,2024-01-07 20:00:00,3.7434451913723605,U064,T04,3.9070167655024335,Sample IT support ticket 164 with various issues and complexities,0.4801523981407352
+T0165,Hardware,High,Resolved,2024-01-07 21:00:00,1.399940781560636,U065,T05,4.171770546536421,Sample IT support ticket 165 with various issues and complexities,0.23124181203342703
+T0166,Security,High,In Progress,2024-01-07 22:00:00,0.5875129699227502,U066,T06,5.0,Sample IT support ticket 166 with various issues and complexities,-0.5896845608163086
+T0167,Network,High,Closed,2024-01-07 23:00:00,4.2180726543417135,U067,T07,4.788359748492175,Sample IT support ticket 167 with various issues and complexities,0.08612719320551875
+T0168,Network,High,In Progress,2024-01-08 00:00:00,5.366775015141884,U068,T08,4.6953236739975175,Sample IT support ticket 168 with various issues and complexities,0.3357655858645267
+T0169,Software,Medium,Resolved,2024-01-08 01:00:00,1.517010762640707,U069,T09,3.6355683791809033,Sample IT support ticket 169 with various issues and complexities,0.7640156796939164
+T0170,Security,High,Resolved,2024-01-08 02:00:00,4.140664250721993,U070,T10,3.2886073374173406,Sample IT support ticket 170 with various issues and complexities,0.4437519837070297
+T0171,Hardware,Low,Resolved,2024-01-08 03:00:00,2.01097288232547,U071,T11,4.764240446590202,Sample IT support ticket 171 with various issues and complexities,0.3804233271557389
+T0172,Network,High,Resolved,2024-01-08 04:00:00,4.995976683331002,U072,T12,4.7008374340238355,Sample IT support ticket 172 with various issues and complexities,0.030042997307581806
+T0173,Security,Medium,Resolved,2024-01-08 05:00:00,0.888652502824284,U073,T13,5.0,Sample IT support ticket 173 with various issues and complexities,0.1941560027117248
+T0174,Security,Medium,Resolved,2024-01-08 06:00:00,8.836925581091966,U074,T14,3.5168154992246166,Sample IT support ticket 174 with various issues and complexities,0.6247524503530794
+T0175,Software,Low,Resolved,2024-01-08 07:00:00,1.355393970938475,U075,T15,3.8163610757117223,Sample IT support ticket 175 with various issues and complexities,-0.6663886987398249
+T0176,Network,High,Open,2024-01-08 08:00:00,1.8341092607533558,U076,T16,2.6884126699796527,Sample IT support ticket 176 with various issues and complexities,-0.17471966360847796
+T0177,Network,Medium,Resolved,2024-01-08 09:00:00,0.23939049137482435,U077,T17,3.6860231151513014,Sample IT support ticket 177 with various issues and complexities,-0.38628437437812035
+T0178,Hardware,Low,In Progress,2024-01-08 10:00:00,0.47293750542684543,U078,T18,4.797256408463558,Sample IT support ticket 178 with various issues and complexities,0.18957655936306206
+T0179,Network,Low,Resolved,2024-01-08 11:00:00,2.9015403519536243,U079,T19,3.6268036966174417,Sample IT support ticket 179 with various issues and complexities,0.6151110878253938
+T0180,Hardware,Low,Resolved,2024-01-08 12:00:00,1.2456738689028983,U080,T00,4.512383836160659,Sample IT support ticket 180 with various issues and complexities,-0.29848714336053694
+T0181,Network,Medium,Closed,2024-01-08 13:00:00,7.218898030988025,U081,T01,3.847597515201751,Sample IT support ticket 181 with various issues and complexities,-1.195152183734719
+T0182,Software,High,Resolved,2024-01-08 14:00:00,0.05920962277776683,U082,T02,4.259245622577248,Sample IT support ticket 182 with various issues and complexities,-0.20611037251223507
+T0183,Network,Medium,Resolved,2024-01-08 15:00:00,1.9063026226188287,U083,T03,3.0818468881474663,Sample IT support ticket 183 with various issues and complexities,0.4567368660087033
+T0184,Hardware,Low,In Progress,2024-01-08 16:00:00,1.646006445366572,U084,T04,4.0681675597071205,Sample IT support ticket 184 with various issues and complexities,0.26881495147493983
+T0185,Hardware,Medium,Resolved,2024-01-08 17:00:00,0.07806740667950846,U085,T05,1.6070912232794212,Sample IT support ticket 185 with various issues and complexities,0.21409312390528806
+T0186,Software,Medium,Closed,2024-01-08 18:00:00,0.5312392932183548,U086,T06,3.850483073470412,Sample IT support ticket 186 with various issues and complexities,-0.13999665093723987
+T0187,Network,Medium,Resolved,2024-01-08 19:00:00,2.135303621902982,U087,T07,2.6956214050278877,Sample IT support ticket 187 with various issues and complexities,-0.6395153681098932
+T0188,Network,Low,Resolved,2024-01-08 20:00:00,2.715908876935968,U088,T08,4.964795613237452,Sample IT support ticket 188 with various issues and complexities,0.2576471608122337
+T0189,Software,High,Resolved,2024-01-08 21:00:00,2.0720035329588877,U089,T09,4.621925882211609,Sample IT support ticket 189 with various issues and complexities,-0.4171409050173124
+T0190,Network,Medium,In Progress,2024-01-08 22:00:00,3.0280785500532903,U090,T10,4.373336785572865,Sample IT support ticket 190 with various issues and complexities,1.092048366690228
+T0191,Network,Medium,Resolved,2024-01-08 23:00:00,3.616773551854067,U091,T11,5.0,Sample IT support ticket 191 with various issues and complexities,0.285253604177258
+T0192,Hardware,Medium,Resolved,2024-01-09 00:00:00,0.03989356183261087,U092,T12,3.24086678334013,Sample IT support ticket 192 with various issues and complexities,-0.29032415127697553
+T0193,Network,High,In Progress,2024-01-09 01:00:00,2.4951946798664757,U093,T13,5.0,Sample IT support ticket 193 with various issues and complexities,-0.3056926236943141
+T0194,Network,High,Resolved,2024-01-09 02:00:00,13.241688884038552,U094,T14,4.745753251408308,Sample IT support ticket 194 with various issues and complexities,-0.04647210330679414
+T0195,Software,Medium,Open,2024-01-09 03:00:00,2.9278204863393023,U095,T15,3.8107557702248434,Sample IT support ticket 195 with various issues and complexities,-0.11975096101087489
+T0196,Software,Medium,Open,2024-01-09 04:00:00,4.527132852895586,U096,T16,4.908496117746355,Sample IT support ticket 196 with various issues and complexities,0.5584168877649771
+T0197,Security,Medium,In Progress,2024-01-09 05:00:00,1.4950743187595215,U097,T17,3.1149651900706927,Sample IT support ticket 197 with various issues and complexities,0.09320808487202316
+T0198,Hardware,High,Closed,2024-01-09 06:00:00,5.94872852268399,U098,T18,3.340388670777861,Sample IT support ticket 198 with various issues and complexities,-0.36581586945426403
+T0199,Network,Medium,Resolved,2024-01-09 07:00:00,5.92983770595872,U099,T19,3.5131282214082398,Sample IT support ticket 199 with various issues and complexities,0.9452203425778913
+T0200,Network,Medium,Closed,2024-01-09 08:00:00,2.9466917048110264,U000,T00,3.576817833548788,Sample IT support ticket 200 with various issues and complexities,0.024654165760111316
+T0201,Security,High,Resolved,2024-01-09 09:00:00,14.921110338143379,U001,T01,3.1547538857917976,Sample IT support ticket 201 with various issues and complexities,0.3844198379844484
+T0202,Network,Medium,Resolved,2024-01-09 10:00:00,0.5366416291374996,U002,T02,4.97846645367626,Sample IT support ticket 202 with various issues and complexities,-0.30411325372237963
+T0203,Hardware,High,Resolved,2024-01-09 11:00:00,0.0683716802338688,U003,T03,3.7929164797041346,Sample IT support ticket 203 with various issues and complexities,0.1815578138722617
+T0204,Security,High,Resolved,2024-01-09 12:00:00,5.881456335839131,U004,T04,4.282003974685503,Sample IT support ticket 204 with various issues and complexities,0.1555549955715976
+T0205,Hardware,Low,In Progress,2024-01-09 13:00:00,6.583485232263785,U005,T05,3.5437189068690556,Sample IT support ticket 205 with various issues and complexities,-0.9448246460480765
+T0206,Security,Medium,Resolved,2024-01-09 14:00:00,0.5122755475138826,U006,T06,2.543517359561186,Sample IT support ticket 206 with various issues and complexities,1.00763755523032
+T0207,Security,Low,In Progress,2024-01-09 15:00:00,1.2347122573921394,U007,T07,4.216045886713138,Sample IT support ticket 207 with various issues and complexities,0.6453222304612736
+T0208,Software,Medium,Resolved,2024-01-09 16:00:00,0.07083293082586001,U008,T08,2.4701960196641783,Sample IT support ticket 208 with various issues and complexities,-0.19859765807299382
+T0209,Hardware,Medium,Resolved,2024-01-09 17:00:00,1.3886448634066264,U009,T09,3.9450927631316253,Sample IT support ticket 209 with various issues and complexities,-0.5511348702279277
+T0210,Network,Low,In Progress,2024-01-09 18:00:00,5.933721808512448,U010,T10,2.905347968933752,Sample IT support ticket 210 with various issues and complexities,0.173780806901776
+T0211,Network,Medium,Open,2024-01-09 19:00:00,2.91891710228828,U011,T11,5.0,Sample IT support ticket 211 with various issues and complexities,0.04334884970719829
+T0212,Hardware,Medium,Resolved,2024-01-09 20:00:00,1.7114293723733665,U012,T12,4.729090177739778,Sample IT support ticket 212 with various issues and complexities,0.1778344742816147
+T0213,Network,Medium,Resolved,2024-01-09 21:00:00,1.8592002526374616,U013,T13,4.084603033017184,Sample IT support ticket 213 with various issues and complexities,0.09578869809704481
+T0214,Network,Medium,Open,2024-01-09 22:00:00,0.005418170777391259,U014,T14,5.0,Sample IT support ticket 214 with various issues and complexities,0.25312049465296305
+T0215,Hardware,Low,Closed,2024-01-09 23:00:00,1.4255600956448282,U015,T15,3.3229472180274113,Sample IT support ticket 215 with various issues and complexities,0.7236528496959033
+T0216,Security,Low,Open,2024-01-10 00:00:00,4.15902034624207,U016,T16,4.4347835029360745,Sample IT support ticket 216 with various issues and complexities,0.28405160256432305
+T0217,Hardware,Low,Resolved,2024-01-10 01:00:00,14.628661817140719,U017,T17,4.159848346974971,Sample IT support ticket 217 with various issues and complexities,-0.5248277494549706
+T0218,Security,High,Closed,2024-01-10 02:00:00,7.510859994498765,U018,T18,4.211216065066936,Sample IT support ticket 218 with various issues and complexities,0.681281426356226
+T0219,Network,Medium,In Progress,2024-01-10 03:00:00,0.095511133662066,U019,T19,5.0,Sample IT support ticket 219 with various issues and complexities,0.8203072817441437
+T0220,Network,Low,In Progress,2024-01-10 04:00:00,9.153174996889035,U020,T00,4.585993682223842,Sample IT support ticket 220 with various issues and complexities,1.5760283672560425
+T0221,Network,High,In Progress,2024-01-10 05:00:00,6.11509076284061,U021,T01,4.230978930260019,Sample IT support ticket 221 with various issues and complexities,-0.561747016619799
+T0222,Software,High,Resolved,2024-01-10 06:00:00,6.063355393395998,U022,T02,2.676090051017363,Sample IT support ticket 222 with various issues and complexities,0.1214410065751375
+T0223,Security,Medium,In Progress,2024-01-10 07:00:00,2.449925811425784,U023,T03,3.231962963776429,Sample IT support ticket 223 with various issues and complexities,-1.0410493515944936
+T0224,Software,Medium,Resolved,2024-01-10 08:00:00,2.0300265039807828,U024,T04,3.9018328531234205,Sample IT support ticket 224 with various issues and complexities,0.27657457818960457
+T0225,Software,Low,Open,2024-01-10 09:00:00,1.4433958799292521,U025,T05,4.074697899421321,Sample IT support ticket 225 with various issues and complexities,-0.2741001490833863
+T0226,Hardware,High,Resolved,2024-01-10 10:00:00,0.27180876253708347,U026,T06,3.095837020260861,Sample IT support ticket 226 with various issues and complexities,0.9617228974124766
+T0227,Software,Low,Closed,2024-01-10 11:00:00,1.03630260173211,U027,T07,5.0,Sample IT support ticket 227 with various issues and complexities,-0.38730748500929096
+T0228,Hardware,High,Resolved,2024-01-10 12:00:00,1.1326552340037332,U028,T08,5.0,Sample IT support ticket 228 with various issues and complexities,-0.8445915189836308
+T0229,Hardware,High,Resolved,2024-01-10 13:00:00,2.647191538237468,U029,T09,4.481694656313987,Sample IT support ticket 229 with various issues and complexities,-0.23563187035125982
+T0230,Software,High,Resolved,2024-01-10 14:00:00,5.504495530426863,U030,T10,4.057629489026996,Sample IT support ticket 230 with various issues and complexities,-0.9877438856085687
+T0231,Security,Low,Resolved,2024-01-10 15:00:00,2.5683703544626195,U031,T11,3.830232824079079,Sample IT support ticket 231 with various issues and complexities,0.37554972725365504
+T0232,Security,Medium,Resolved,2024-01-10 16:00:00,0.23833956024993633,U032,T12,3.2384652319822114,Sample IT support ticket 232 with various issues and complexities,-1.0325415231281603
+T0233,Security,Medium,Resolved,2024-01-10 17:00:00,12.660373617587027,U033,T13,4.06198441481509,Sample IT support ticket 233 with various issues and complexities,0.01422879059157944
+T0234,Security,Medium,In Progress,2024-01-10 18:00:00,11.439516649408175,U034,T14,4.2062020321142,Sample IT support ticket 234 with various issues and complexities,-1.0389059099280984
+T0235,Security,Low,Resolved,2024-01-10 19:00:00,6.151996942911671,U035,T15,3.0065915396147007,Sample IT support ticket 235 with various issues and complexities,-0.16014890226832096
+T0236,Software,Medium,Resolved,2024-01-10 20:00:00,18.990577933439774,U036,T16,4.267341133795918,Sample IT support ticket 236 with various issues and complexities,0.821689077902267
+T0237,Software,Low,In Progress,2024-01-10 21:00:00,3.145283106585159,U037,T17,3.875792760940201,Sample IT support ticket 237 with various issues and complexities,0.18032394571789748
+T0238,Network,Medium,Resolved,2024-01-10 22:00:00,13.1623843191316,U038,T18,2.473753953698087,Sample IT support ticket 238 with various issues and complexities,-0.431746802482467
+T0239,Security,Medium,Resolved,2024-01-10 23:00:00,0.3144634137966793,U039,T19,3.3116919913763985,Sample IT support ticket 239 with various issues and complexities,-0.015601744469541988
+T0240,Software,Medium,Resolved,2024-01-11 00:00:00,1.8208115985851074,U040,T00,3.6691155732626846,Sample IT support ticket 240 with various issues and complexities,0.009008436022223293
+T0241,Network,Medium,Resolved,2024-01-11 01:00:00,1.0215373175943643,U041,T01,5.0,Sample IT support ticket 241 with various issues and complexities,0.23631517292170282
+T0242,Security,Medium,Resolved,2024-01-11 02:00:00,0.8717936982092328,U042,T02,4.445242499627007,Sample IT support ticket 242 with various issues and complexities,-0.6834291816404132
+T0243,Hardware,Medium,Open,2024-01-11 03:00:00,0.60702794948434,U043,T03,2.931614744720087,Sample IT support ticket 243 with various issues and complexities,0.29628363692366533
+T0244,Network,High,Resolved,2024-01-11 04:00:00,3.8958238895679242,U044,T04,4.38882903153411,Sample IT support ticket 244 with various issues and complexities,-1.3521958158013876
+T0245,Software,Low,Resolved,2024-01-11 05:00:00,6.080617164492639,U045,T05,2.7621568088493076,Sample IT support ticket 245 with various issues and complexities,-0.3149422761819052
+T0246,Hardware,Medium,Open,2024-01-11 06:00:00,3.453829290783307,U046,T06,4.866152843109659,Sample IT support ticket 246 with various issues and complexities,-0.24413692122577232
+T0247,Hardware,Medium,In Progress,2024-01-11 07:00:00,0.6358080626713006,U047,T07,3.623100278545697,Sample IT support ticket 247 with various issues and complexities,0.31666341303561923
+T0248,Hardware,Low,Resolved,2024-01-11 08:00:00,6.666653383258617,U048,T08,3.9250910490086635,Sample IT support ticket 248 with various issues and complexities,0.01131542633843457
+T0249,Network,Medium,In Progress,2024-01-11 09:00:00,4.041907952869588,U049,T09,5.0,Sample IT support ticket 249 with various issues and complexities,-0.7027815269281433
+T0250,Software,High,Resolved,2024-01-11 10:00:00,1.9651751791111234,U050,T10,2.9702691451326,Sample IT support ticket 250 with various issues and complexities,-0.4924965629085076
+T0251,Hardware,Low,In Progress,2024-01-11 11:00:00,4.485030628268272,U051,T11,2.882305451909607,Sample IT support ticket 251 with various issues and complexities,0.09934000477370344
+T0252,Security,Medium,Open,2024-01-11 12:00:00,1.2039067783948685,U052,T12,3.533120538923196,Sample IT support ticket 252 with various issues and complexities,-0.039533670932278143
+T0253,Hardware,Medium,In Progress,2024-01-11 13:00:00,1.6936541379758514,U053,T13,4.830703080815454,Sample IT support ticket 253 with various issues and complexities,-0.2895620548178732
+T0254,Hardware,High,Closed,2024-01-11 14:00:00,9.979141607850819,U054,T14,2.7845231396185257,Sample IT support ticket 254 with various issues and complexities,-0.24041689475598968
+T0255,Network,Low,Resolved,2024-01-11 15:00:00,1.372804531561856,U055,T15,1.7342755215115448,Sample IT support ticket 255 with various issues and complexities,0.3480839985796445
+T0256,Network,Medium,Closed,2024-01-11 16:00:00,2.5394245485195768,U056,T16,3.639072913272801,Sample IT support ticket 256 with various issues and complexities,-0.25884628643460733
+T0257,Software,Medium,Resolved,2024-01-11 17:00:00,8.834235217047002,U057,T17,4.441392639928736,Sample IT support ticket 257 with various issues and complexities,-0.04404562201453664
+T0258,Security,Low,In Progress,2024-01-11 18:00:00,4.920190607374929,U058,T18,4.960209399791063,Sample IT support ticket 258 with various issues and complexities,1.0849682940402714
+T0259,Network,Low,Resolved,2024-01-11 19:00:00,0.256888049896291,U059,T19,3.6294709103316807,Sample IT support ticket 259 with various issues and complexities,-0.7118413184419615
+T0260,Hardware,High,Resolved,2024-01-11 20:00:00,0.6374042536186231,U060,T00,3.6708587143071982,Sample IT support ticket 260 with various issues and complexities,-0.9259213657873293
+T0261,Software,Medium,Resolved,2024-01-11 21:00:00,0.03148999089589446,U061,T01,4.923120587404598,Sample IT support ticket 261 with various issues and complexities,0.39179483239930335
+T0262,Hardware,High,Open,2024-01-11 22:00:00,3.986986827205966,U062,T02,2.5042066402436634,Sample IT support ticket 262 with various issues and complexities,-0.3393215306470516
+T0263,Hardware,Medium,Resolved,2024-01-11 23:00:00,2.374463148040935,U063,T03,3.6891833798535925,Sample IT support ticket 263 with various issues and complexities,-0.15911876387131013
+T0264,Network,Critical,In Progress,2024-01-12 00:00:00,0.576751202360414,U064,T04,4.152339111940046,Sample IT support ticket 264 with various issues and complexities,-0.3905781890655571
+T0265,Software,Medium,Resolved,2024-01-12 01:00:00,12.674073373260889,U065,T05,4.359374977028027,Sample IT support ticket 265 with various issues and complexities,-0.12990007038375626
+T0266,Security,Low,Resolved,2024-01-12 02:00:00,3.0171954185138508,U066,T06,3.5921546454472937,Sample IT support ticket 266 with various issues and complexities,0.7992690560481707
+T0267,Security,Low,Resolved,2024-01-12 03:00:00,1.107724521236819,U067,T07,4.027552809364673,Sample IT support ticket 267 with various issues and complexities,0.40106422930905966
+T0268,Network,Medium,Resolved,2024-01-12 04:00:00,2.7774202082100623,U068,T08,2.0093381172696083,Sample IT support ticket 268 with various issues and complexities,0.43111175594348855
+T0269,Network,Low,Resolved,2024-01-12 05:00:00,4.552994105093025,U069,T09,3.4734012701329213,Sample IT support ticket 269 with various issues and complexities,-0.7081135278963228
+T0270,Software,High,Resolved,2024-01-12 06:00:00,0.31720853908020324,U070,T10,4.362806970043574,Sample IT support ticket 270 with various issues and complexities,-0.5755768682764346
+T0271,Security,Low,Resolved,2024-01-12 07:00:00,1.2847007063403715,U071,T11,3.2141647725962565,Sample IT support ticket 271 with various issues and complexities,-1.4195393297427135
+T0272,Security,High,Resolved,2024-01-12 08:00:00,6.579545209403408,U072,T12,4.047187377271678,Sample IT support ticket 272 with various issues and complexities,-0.404690410541377
+T0273,Security,Medium,Closed,2024-01-12 09:00:00,2.462262886229389,U073,T13,4.357498000642158,Sample IT support ticket 273 with various issues and complexities,0.4783515931928292
+T0274,Hardware,Low,Resolved,2024-01-12 10:00:00,3.163720510423214,U074,T14,3.725960639313788,Sample IT support ticket 274 with various issues and complexities,0.25847325787418546
+T0275,Security,High,Resolved,2024-01-12 11:00:00,2.268286067209245,U075,T15,4.1363710167972565,Sample IT support ticket 275 with various issues and complexities,-0.11075663147606195
+T0276,Hardware,High,Resolved,2024-01-12 12:00:00,0.17957083560062811,U076,T16,3.22981394777231,Sample IT support ticket 276 with various issues and complexities,-0.011150141859026526
+T0277,Software,Medium,Resolved,2024-01-12 13:00:00,0.7248875897007746,U077,T17,3.8347109762431626,Sample IT support ticket 277 with various issues and complexities,-0.3444427712877028
+T0278,Hardware,Medium,In Progress,2024-01-12 14:00:00,2.3590542696891044,U078,T18,4.488172935671378,Sample IT support ticket 278 with various issues and complexities,0.10237944120089208
+T0279,Software,Medium,Resolved,2024-01-12 15:00:00,0.938767232996096,U079,T19,4.125578368774748,Sample IT support ticket 279 with various issues and complexities,0.3829391397403074
+T0280,Security,Medium,Open,2024-01-12 16:00:00,0.20508487814450738,U080,T00,3.5307749843488514,Sample IT support ticket 280 with various issues and complexities,-0.8079433937052364
+T0281,Security,Medium,Closed,2024-01-12 17:00:00,7.422624185549723,U081,T01,4.179373123432635,Sample IT support ticket 281 with various issues and complexities,0.14982384391867407
+T0282,Software,Medium,Resolved,2024-01-12 18:00:00,15.894004412780959,U082,T02,4.571687832509294,Sample IT support ticket 282 with various issues and complexities,0.46621743547733363
+T0283,Network,Medium,Resolved,2024-01-12 19:00:00,6.30290774627097,U083,T03,2.3600469771380173,Sample IT support ticket 283 with various issues and complexities,-0.2075501444816848
+T0284,Software,High,Resolved,2024-01-12 20:00:00,7.6907064090779125,U084,T04,4.927259251964719,Sample IT support ticket 284 with various issues and complexities,0.3503503060602918
+T0285,Network,Low,Resolved,2024-01-12 21:00:00,1.1081668908368454,U085,T05,3.7309962090551423,Sample IT support ticket 285 with various issues and complexities,1.4073272222362765
+T0286,Hardware,Medium,Resolved,2024-01-12 22:00:00,12.938697419435153,U086,T06,4.3403919465921845,Sample IT support ticket 286 with various issues and complexities,-0.05217139649344596
+T0287,Hardware,Medium,Resolved,2024-01-12 23:00:00,0.8772321873655129,U087,T07,4.957797538916182,Sample IT support ticket 287 with various issues and complexities,0.1966535250026618
+T0288,Hardware,Medium,Open,2024-01-13 00:00:00,12.098981272808206,U088,T08,2.902661042215627,Sample IT support ticket 288 with various issues and complexities,-0.3690285418306958
+T0289,Security,Low,Resolved,2024-01-13 01:00:00,21.05125572795718,U089,T09,3.4324471980579627,Sample IT support ticket 289 with various issues and complexities,0.0906255813010252
+T0290,Hardware,High,In Progress,2024-01-13 02:00:00,4.975331126738728,U090,T10,3.769161043299436,Sample IT support ticket 290 with various issues and complexities,0.23013581249115192
+T0291,Network,Medium,Resolved,2024-01-13 03:00:00,15.883639557705784,U091,T11,3.3729971831004573,Sample IT support ticket 291 with various issues and complexities,0.09742117013506903
+T0292,Hardware,Medium,Resolved,2024-01-13 04:00:00,3.371601450237625,U092,T12,5.0,Sample IT support ticket 292 with various issues and complexities,-0.5098476598544284
+T0293,Software,Medium,Resolved,2024-01-13 05:00:00,1.201944289969278,U093,T13,3.3145823249385655,Sample IT support ticket 293 with various issues and complexities,0.10318088566272535
+T0294,Software,Critical,Open,2024-01-13 06:00:00,2.2978733719712383,U094,T14,3.5555625764105065,Sample IT support ticket 294 with various issues and complexities,0.7310979693588184
+T0295,Security,Low,Open,2024-01-13 07:00:00,3.6012850550464712,U095,T15,4.163511225282382,Sample IT support ticket 295 with various issues and complexities,0.22431788225726365
+T0296,Software,Low,Resolved,2024-01-13 08:00:00,0.3035588088553755,U096,T16,3.038280379139129,Sample IT support ticket 296 with various issues and complexities,0.4809935945359205
+T0297,Network,Medium,Open,2024-01-13 09:00:00,3.895078413579804,U097,T17,3.683455430594989,Sample IT support ticket 297 with various issues and complexities,-0.11850598500631386
+T0298,Hardware,Medium,Open,2024-01-13 10:00:00,15.890880831501553,U098,T18,4.253962609000141,Sample IT support ticket 298 with various issues and complexities,0.37495011971185527
+T0299,Security,Low,Open,2024-01-13 11:00:00,0.8434157644613348,U099,T19,3.733711676493991,Sample IT support ticket 299 with various issues and complexities,0.13963391910826298
+T0300,Hardware,Medium,Closed,2024-01-13 12:00:00,6.29232974462498,U000,T00,3.9252905128800415,Sample IT support ticket 300 with various issues and complexities,-0.475455364843616
+T0301,Hardware,High,Resolved,2024-01-13 13:00:00,9.53946895580503,U001,T01,3.5765343100413034,Sample IT support ticket 301 with various issues and complexities,0.15926050239943723
+T0302,Network,Medium,Resolved,2024-01-13 14:00:00,11.508356143569983,U002,T02,2.7884237526553863,Sample IT support ticket 302 with various issues and complexities,-0.49584833172015524
+T0303,Software,Medium,In Progress,2024-01-13 15:00:00,12.889086777792794,U003,T03,4.257274569071391,Sample IT support ticket 303 with various issues and complexities,-0.31644013744239596
+T0304,Software,Medium,Resolved,2024-01-13 16:00:00,2.9480588882278176,U004,T04,5.0,Sample IT support ticket 304 with various issues and complexities,0.09466415364618706
+T0305,Hardware,Medium,Resolved,2024-01-13 17:00:00,15.142955139437424,U005,T05,4.01472130462675,Sample IT support ticket 305 with various issues and complexities,0.14862213669006202
+T0306,Security,Low,Resolved,2024-01-13 18:00:00,5.663884894896694,U006,T06,4.18021129379804,Sample IT support ticket 306 with various issues and complexities,-0.5946162325385645
+T0307,Software,Low,In Progress,2024-01-13 19:00:00,0.7053806979234251,U007,T07,4.554178204093487,Sample IT support ticket 307 with various issues and complexities,0.5269928855914381
+T0308,Security,Medium,In Progress,2024-01-13 20:00:00,2.5919313285532812,U008,T08,2.984535602762641,Sample IT support ticket 308 with various issues and complexities,0.28600313915023645
+T0309,Software,High,Open,2024-01-13 21:00:00,5.0680931156850075,U009,T09,5.0,Sample IT support ticket 309 with various issues and complexities,-0.3523642178054419
+T0310,Security,Low,Resolved,2024-01-13 22:00:00,1.1365683999191836,U010,T10,4.161863037138241,Sample IT support ticket 310 with various issues and complexities,-0.7687923982245877
+T0311,Network,Low,Resolved,2024-01-13 23:00:00,4.093446209845411,U011,T11,5.0,Sample IT support ticket 311 with various issues and complexities,-0.07245228954071566
+T0312,Security,High,In Progress,2024-01-14 00:00:00,4.3936549820758515,U012,T12,3.4135736035808084,Sample IT support ticket 312 with various issues and complexities,-0.22297185693058008
+T0313,Network,Low,Open,2024-01-14 01:00:00,0.7102901751940384,U013,T13,5.0,Sample IT support ticket 313 with various issues and complexities,0.056570228526511404
+T0314,Network,Low,Open,2024-01-14 02:00:00,3.3304215508346315,U014,T14,4.620124395227826,Sample IT support ticket 314 with various issues and complexities,-0.18155833057778326
+T0315,Security,Medium,Closed,2024-01-14 03:00:00,5.907098528165584,U015,T15,4.442432068681887,Sample IT support ticket 315 with various issues and complexities,-1.003728430372505
+T0316,Network,Medium,In Progress,2024-01-14 04:00:00,2.763763780639744,U016,T16,4.187219563482518,Sample IT support ticket 316 with various issues and complexities,-0.1941734691505792
+T0317,Hardware,Medium,Resolved,2024-01-14 05:00:00,0.04870782355080133,U017,T17,3.8011771055404404,Sample IT support ticket 317 with various issues and complexities,-0.15280955553415648
+T0318,Network,High,Resolved,2024-01-14 06:00:00,0.03631825540361714,U018,T18,4.960425326779098,Sample IT support ticket 318 with various issues and complexities,0.31683051238702936
+T0319,Software,Medium,Resolved,2024-01-14 07:00:00,1.766624767280427,U019,T19,4.1122878958784375,Sample IT support ticket 319 with various issues and complexities,-0.34909983730552485
+T0320,Security,Low,In Progress,2024-01-14 08:00:00,10.425264708209607,U020,T00,2.4263442371302784,Sample IT support ticket 320 with various issues and complexities,0.8393373366862831
+T0321,Hardware,Critical,In Progress,2024-01-14 09:00:00,1.0385910838556678,U021,T01,3.106250830634398,Sample IT support ticket 321 with various issues and complexities,-0.9558202753258785
+T0322,Security,Medium,Resolved,2024-01-14 10:00:00,4.02446450022088,U022,T02,3.8513233982458024,Sample IT support ticket 322 with various issues and complexities,0.6555837489013122
+T0323,Software,Medium,Resolved,2024-01-14 11:00:00,1.0045051189220389,U023,T03,4.247999186532444,Sample IT support ticket 323 with various issues and complexities,-0.1121594854390524
+T0324,Software,Medium,Resolved,2024-01-14 12:00:00,1.5524854741862228,U024,T04,3.9547292088800834,Sample IT support ticket 324 with various issues and complexities,0.4297924361717781
+T0325,Software,Low,Resolved,2024-01-14 13:00:00,7.5366068070165015,U025,T05,4.97517663183493,Sample IT support ticket 325 with various issues and complexities,0.03990074202936655
+T0326,Network,Medium,Open,2024-01-14 14:00:00,5.220501222505589,U026,T06,2.4391185087691003,Sample IT support ticket 326 with various issues and complexities,0.5697777680127346
+T0327,Network,Medium,Closed,2024-01-14 15:00:00,0.4010464921466759,U027,T07,4.1148703492041285,Sample IT support ticket 327 with various issues and complexities,-0.19368098227640562
+T0328,Security,Medium,Resolved,2024-01-14 16:00:00,2.2393774031207143,U028,T08,2.545616619690276,Sample IT support ticket 328 with various issues and complexities,-0.5493102125889061
+T0329,Security,Medium,In Progress,2024-01-14 17:00:00,0.11841463920900855,U029,T09,4.607769836387335,Sample IT support ticket 329 with various issues and complexities,0.7102521436355316
+T0330,Hardware,High,Closed,2024-01-14 18:00:00,2.622559018543223,U030,T10,3.9244330284463977,Sample IT support ticket 330 with various issues and complexities,-0.05674032294107059
+T0331,Hardware,Medium,Resolved,2024-01-14 19:00:00,4.343977067582182,U031,T11,4.335687977619295,Sample IT support ticket 331 with various issues and complexities,0.1107792368121053
+T0332,Security,High,Resolved,2024-01-14 20:00:00,0.5045330137478337,U032,T12,3.308893631528187,Sample IT support ticket 332 with various issues and complexities,0.6173759570223976
+T0333,Network,High,Resolved,2024-01-14 21:00:00,1.3636841293081379,U033,T13,5.0,Sample IT support ticket 333 with various issues and complexities,-0.5159776210472174
+T0334,Software,Medium,Resolved,2024-01-14 22:00:00,2.0289059371314013,U034,T14,4.833379731247081,Sample IT support ticket 334 with various issues and complexities,0.29774544881962867
+T0335,Security,Medium,Resolved,2024-01-14 23:00:00,10.07953427318844,U035,T15,4.4668354424095105,Sample IT support ticket 335 with various issues and complexities,-0.29494737823144546
+T0336,Hardware,Low,In Progress,2024-01-15 00:00:00,19.995824303609403,U036,T16,3.8963862025092473,Sample IT support ticket 336 with various issues and complexities,-0.06608467782218592
+T0337,Network,Medium,Resolved,2024-01-15 01:00:00,0.18380424872673096,U037,T17,4.463885828236106,Sample IT support ticket 337 with various issues and complexities,0.036139482692144446
+T0338,Security,Medium,Closed,2024-01-15 02:00:00,5.725299521202298,U038,T18,3.434485945610121,Sample IT support ticket 338 with various issues and complexities,-0.750110930723468
+T0339,Security,Medium,In Progress,2024-01-15 03:00:00,1.8591032972219559,U039,T19,4.68444452721657,Sample IT support ticket 339 with various issues and complexities,-0.3894185214102174
+T0340,Network,Critical,Resolved,2024-01-15 04:00:00,1.9933371075366924,U040,T00,5.0,Sample IT support ticket 340 with various issues and complexities,0.6755364462065696
+T0341,Security,Medium,Resolved,2024-01-15 05:00:00,5.614005803981367,U041,T01,4.856488447983349,Sample IT support ticket 341 with various issues and complexities,0.4430955942923978
+T0342,Network,High,Resolved,2024-01-15 06:00:00,10.02499997134869,U042,T02,3.4163180241540725,Sample IT support ticket 342 with various issues and complexities,-0.03131978866361743
+T0343,Software,Low,Resolved,2024-01-15 07:00:00,12.057915146348824,U043,T03,4.289133853818482,Sample IT support ticket 343 with various issues and complexities,0.12156172925644654
+T0344,Network,High,Closed,2024-01-15 08:00:00,3.442691773781855,U044,T04,2.9654867649930816,Sample IT support ticket 344 with various issues and complexities,-0.14712125281822883
+T0345,Network,Medium,In Progress,2024-01-15 09:00:00,1.767196002597656,U045,T05,4.4579122489405405,Sample IT support ticket 345 with various issues and complexities,0.678291692913991
+T0346,Network,High,In Progress,2024-01-15 10:00:00,6.196177238308395,U046,T06,4.360482730290031,Sample IT support ticket 346 with various issues and complexities,-0.10017628889708194
+T0347,Security,Low,In Progress,2024-01-15 11:00:00,1.1560725691150913,U047,T07,2.5041469283742686,Sample IT support ticket 347 with various issues and complexities,0.11592104606742402
+T0348,Security,Medium,Resolved,2024-01-15 12:00:00,3.321131363807094,U048,T08,3.070572924870109,Sample IT support ticket 348 with various issues and complexities,0.5730150720710325
+T0349,Network,Medium,Resolved,2024-01-15 13:00:00,1.7762736475066143,U049,T09,3.7734888826049864,Sample IT support ticket 349 with various issues and complexities,-0.3886857424229533
+T0350,Security,High,In Progress,2024-01-15 14:00:00,4.275799291951175,U050,T10,3.759312202287339,Sample IT support ticket 350 with various issues and complexities,0.779394592248447
+T0351,Hardware,Medium,Resolved,2024-01-15 15:00:00,1.0998474755540386,U051,T11,3.032418451664956,Sample IT support ticket 351 with various issues and complexities,-0.7652307048716884
+T0352,Hardware,High,Resolved,2024-01-15 16:00:00,0.8507582691377704,U052,T12,4.311182983481747,Sample IT support ticket 352 with various issues and complexities,0.8148210655563993
+T0353,Security,Low,Resolved,2024-01-15 17:00:00,10.015823927158747,U053,T13,4.20117888715241,Sample IT support ticket 353 with various issues and complexities,-0.1863377919759873
+T0354,Security,High,Closed,2024-01-15 18:00:00,0.42946647481516714,U054,T14,3.8445846944171844,Sample IT support ticket 354 with various issues and complexities,-0.12134937391264088
+T0355,Network,High,In Progress,2024-01-15 19:00:00,2.8205382336392706,U055,T15,3.3953667998733095,Sample IT support ticket 355 with various issues and complexities,-0.9450050855914714
+T0356,Software,Critical,Resolved,2024-01-15 20:00:00,0.9982210755621005,U056,T16,4.838965701133251,Sample IT support ticket 356 with various issues and complexities,-0.22739735868884645
+T0357,Security,Medium,Resolved,2024-01-15 21:00:00,0.1588319748554666,U057,T17,5.0,Sample IT support ticket 357 with various issues and complexities,-0.5199032655134421
+T0358,Hardware,Medium,Resolved,2024-01-15 22:00:00,0.1467340224453084,U058,T18,3.61315081292277,Sample IT support ticket 358 with various issues and complexities,-0.3038231726867363
+T0359,Network,High,Resolved,2024-01-15 23:00:00,0.7705629738333074,U059,T19,3.5102664662761436,Sample IT support ticket 359 with various issues and complexities,-0.0686554828944398
+T0360,Security,Low,Resolved,2024-01-16 00:00:00,8.06272392748289,U060,T00,4.392966132329597,Sample IT support ticket 360 with various issues and complexities,0.4788958072364528
+T0361,Hardware,Medium,Resolved,2024-01-16 01:00:00,1.3278108266721977,U061,T01,3.713576496202411,Sample IT support ticket 361 with various issues and complexities,0.10380167570031289
+T0362,Hardware,Medium,In Progress,2024-01-16 02:00:00,12.019832450143038,U062,T02,3.8884822394694125,Sample IT support ticket 362 with various issues and complexities,0.15383832670055692
+T0363,Software,Medium,Resolved,2024-01-16 03:00:00,3.485482596695455,U063,T03,4.5917225213797375,Sample IT support ticket 363 with various issues and complexities,-0.5477596944227812
+T0364,Network,Medium,Closed,2024-01-16 04:00:00,2.2951624392603507,U064,T04,2.4725151299941657,Sample IT support ticket 364 with various issues and complexities,-0.4403770448013651
+T0365,Network,Medium,Closed,2024-01-16 05:00:00,3.470848404776413,U065,T05,5.0,Sample IT support ticket 365 with various issues and complexities,0.899362509175656
+T0366,Software,High,Open,2024-01-16 06:00:00,2.9084574359803463,U066,T06,4.058144419463473,Sample IT support ticket 366 with various issues and complexities,-0.3676005173816233
+T0367,Software,High,In Progress,2024-01-16 07:00:00,5.688121474197393,U067,T07,3.6708054843502556,Sample IT support ticket 367 with various issues and complexities,0.8281041260286478
+T0368,Network,Low,In Progress,2024-01-16 08:00:00,1.3279073935949057,U068,T08,3.9286126766228406,Sample IT support ticket 368 with various issues and complexities,-0.12153059944043325
+T0369,Network,Low,Resolved,2024-01-16 09:00:00,1.7419474900905063,U069,T09,3.969943484016415,Sample IT support ticket 369 with various issues and complexities,0.0011439680717520247
+T0370,Security,Medium,Resolved,2024-01-16 10:00:00,8.980824909522083,U070,T10,2.6150389572440593,Sample IT support ticket 370 with various issues and complexities,0.5351825801149649
+T0371,Security,Medium,In Progress,2024-01-16 11:00:00,11.709044467776602,U071,T11,5.0,Sample IT support ticket 371 with various issues and complexities,0.6359462109693282
+T0372,Software,Medium,Resolved,2024-01-16 12:00:00,8.923224916789229,U072,T12,4.033060505816494,Sample IT support ticket 372 with various issues and complexities,-0.05540628013954375
+T0373,Security,Medium,Resolved,2024-01-16 13:00:00,2.175103573989976,U073,T13,4.3544017043579,Sample IT support ticket 373 with various issues and complexities,-0.19412152676076944
+T0374,Hardware,Critical,Resolved,2024-01-16 14:00:00,6.063161966206109,U074,T14,4.761239816459234,Sample IT support ticket 374 with various issues and complexities,-0.02796022426110656
+T0375,Security,High,Resolved,2024-01-16 15:00:00,2.5876180496467267,U075,T15,3.18307003395176,Sample IT support ticket 375 with various issues and complexities,0.16897876411605914
+T0376,Security,Medium,Resolved,2024-01-16 16:00:00,2.7529557997894782,U076,T16,4.378777519228183,Sample IT support ticket 376 with various issues and complexities,0.44565184343487774
+T0377,Hardware,Medium,Resolved,2024-01-16 17:00:00,0.9160434668641804,U077,T17,3.785887127280965,Sample IT support ticket 377 with various issues and complexities,0.0021149294970757883
+T0378,Software,Critical,In Progress,2024-01-16 18:00:00,3.5774350542959765,U078,T18,4.6774166201731955,Sample IT support ticket 378 with various issues and complexities,0.3094431490115768
+T0379,Hardware,High,Resolved,2024-01-16 19:00:00,0.8238475098973231,U079,T19,2.298218063718804,Sample IT support ticket 379 with various issues and complexities,0.8191798661354704
+T0380,Security,High,Resolved,2024-01-16 20:00:00,1.6112626782916735,U080,T00,3.9207245598069846,Sample IT support ticket 380 with various issues and complexities,0.19065480613239233
+T0381,Software,Medium,Resolved,2024-01-16 21:00:00,7.72491938116142,U081,T01,3.5177434753728307,Sample IT support ticket 381 with various issues and complexities,0.15582642800238916
+T0382,Security,Critical,Resolved,2024-01-16 22:00:00,0.9281106396524123,U082,T02,4.345810360507325,Sample IT support ticket 382 with various issues and complexities,-0.7594554125450339
+T0383,Hardware,High,Resolved,2024-01-16 23:00:00,0.2952677480121051,U083,T03,4.376035349894562,Sample IT support ticket 383 with various issues and complexities,-1.3153650684145317
+T0384,Hardware,Low,In Progress,2024-01-17 00:00:00,0.28601662827581853,U084,T04,3.433899284142379,Sample IT support ticket 384 with various issues and complexities,0.19418786461508417
+T0385,Security,High,Resolved,2024-01-17 01:00:00,11.306289173134184,U085,T05,3.4302609086591653,Sample IT support ticket 385 with various issues and complexities,-0.04741211564043612
+T0386,Network,Medium,Open,2024-01-17 02:00:00,2.8283389380631982,U086,T06,3.9114677051541364,Sample IT support ticket 386 with various issues and complexities,-0.257391337457371
+T0387,Network,High,In Progress,2024-01-17 03:00:00,2.106546999206655,U087,T07,3.2826862181478336,Sample IT support ticket 387 with various issues and complexities,0.12176510209317232
+T0388,Hardware,High,Resolved,2024-01-17 04:00:00,6.661464166647332,U088,T08,4.673586956361701,Sample IT support ticket 388 with various issues and complexities,-0.030201864598454146
+T0389,Hardware,High,Closed,2024-01-17 05:00:00,7.227311995523879,U089,T09,3.704634239642043,Sample IT support ticket 389 with various issues and complexities,0.5638901253169493
+T0390,Network,Medium,Open,2024-01-17 06:00:00,1.6150124962515504,U090,T10,1.6744094245426866,Sample IT support ticket 390 with various issues and complexities,0.04305543412948895
+T0391,Network,Low,Resolved,2024-01-17 07:00:00,4.731691108665395,U091,T11,3.700142354702555,Sample IT support ticket 391 with various issues and complexities,-0.3734616425350838
+T0392,Security,Low,Resolved,2024-01-17 08:00:00,5.898278932237048,U092,T12,3.169164943324822,Sample IT support ticket 392 with various issues and complexities,0.4950831194796445
+T0393,Security,Medium,In Progress,2024-01-17 09:00:00,4.252795489388882,U093,T13,2.694979347631244,Sample IT support ticket 393 with various issues and complexities,-0.10856553747310124
+T0394,Network,Medium,Resolved,2024-01-17 10:00:00,0.6575890041121972,U094,T14,3.010058689421942,Sample IT support ticket 394 with various issues and complexities,0.26326834183615355
+T0395,Security,High,Resolved,2024-01-17 11:00:00,8.346125130967792,U095,T15,4.087526777466376,Sample IT support ticket 395 with various issues and complexities,-0.23870535309640023
+T0396,Security,Medium,Resolved,2024-01-17 12:00:00,3.098249442283695,U096,T16,5.0,Sample IT support ticket 396 with various issues and complexities,-0.3249134427487182
+T0397,Software,Low,In Progress,2024-01-17 13:00:00,1.3277756077617748,U097,T17,4.250547579091984,Sample IT support ticket 397 with various issues and complexities,0.042084115092848075
+T0398,Security,Critical,Resolved,2024-01-17 14:00:00,2.2151286447510725,U098,T18,3.514797289427408,Sample IT support ticket 398 with various issues and complexities,0.00641432177184256
+T0399,Hardware,High,Resolved,2024-01-17 15:00:00,0.1531803028108091,U099,T19,4.364723356136562,Sample IT support ticket 399 with various issues and complexities,0.2399135176834165
+T0400,Security,High,Resolved,2024-01-17 16:00:00,0.547252463386656,U000,T00,3.6327277518248065,Sample IT support ticket 400 with various issues and complexities,-0.13432287665487128
+T0401,Security,Critical,Open,2024-01-17 17:00:00,5.801996294048561,U001,T01,3.4443197046694842,Sample IT support ticket 401 with various issues and complexities,-0.9181798918851987
+T0402,Network,High,Resolved,2024-01-17 18:00:00,4.6539292201729294e-05,U002,T02,3.0765098654136125,Sample IT support ticket 402 with various issues and complexities,-0.21638694179419432
+T0403,Hardware,Medium,Open,2024-01-17 19:00:00,2.155294600853084,U003,T03,2.5985369545986243,Sample IT support ticket 403 with various issues and complexities,0.3969092335719078
+T0404,Security,Medium,Resolved,2024-01-17 20:00:00,2.9568497637354922,U004,T04,3.688061034752444,Sample IT support ticket 404 with various issues and complexities,-0.14868803962155322
+T0405,Security,Low,In Progress,2024-01-17 21:00:00,0.22473427662598766,U005,T05,4.126442791936105,Sample IT support ticket 405 with various issues and complexities,-0.12319170125727401
+T0406,Software,Low,Closed,2024-01-17 22:00:00,14.459270145115102,U006,T06,3.922701063988088,Sample IT support ticket 406 with various issues and complexities,0.49318825295296853
+T0407,Security,Medium,Resolved,2024-01-17 23:00:00,1.0253813807324512,U007,T07,3.667226457642113,Sample IT support ticket 407 with various issues and complexities,-0.3559866136294614
+T0408,Security,Medium,Resolved,2024-01-18 00:00:00,1.4507647045366807,U008,T08,3.243403151442575,Sample IT support ticket 408 with various issues and complexities,-0.7714016091214498
+T0409,Software,Medium,In Progress,2024-01-18 01:00:00,1.4492920988958344,U009,T09,4.486596953347975,Sample IT support ticket 409 with various issues and complexities,-0.08031555976274718
+T0410,Network,Medium,Resolved,2024-01-18 02:00:00,1.0476241209015786,U010,T10,2.946294464042732,Sample IT support ticket 410 with various issues and complexities,-0.2420869756243685
+T0411,Security,Medium,Resolved,2024-01-18 03:00:00,0.005899636921540232,U011,T11,4.6208223310747805,Sample IT support ticket 411 with various issues and complexities,-0.483123159876627
+T0412,Software,Medium,Closed,2024-01-18 04:00:00,5.22763828429875,U012,T12,3.19822638485862,Sample IT support ticket 412 with various issues and complexities,-0.08768922794934536
+T0413,Hardware,Medium,Resolved,2024-01-18 05:00:00,13.626307275610996,U013,T13,3.398051810117572,Sample IT support ticket 413 with various issues and complexities,0.24575282362339182
+T0414,Network,Medium,Resolved,2024-01-18 06:00:00,1.015924121776844,U014,T14,2.8265718475074584,Sample IT support ticket 414 with various issues and complexities,-0.004644280783907873
+T0415,Hardware,Medium,Resolved,2024-01-18 07:00:00,4.351249573842349,U015,T15,3.5988782824914907,Sample IT support ticket 415 with various issues and complexities,0.15349053634311888
+T0416,Hardware,Medium,Resolved,2024-01-18 08:00:00,5.417575765122496,U016,T16,4.7802499667823835,Sample IT support ticket 416 with various issues and complexities,0.9067038492577115
+T0417,Software,Low,Resolved,2024-01-18 09:00:00,7.546708912148139,U017,T17,4.412502470755165,Sample IT support ticket 417 with various issues and complexities,-0.17143943077878204
+T0418,Security,Low,Resolved,2024-01-18 10:00:00,2.1970823175489023,U018,T18,4.782737689622428,Sample IT support ticket 418 with various issues and complexities,0.1391743173223348
+T0419,Software,High,Resolved,2024-01-18 11:00:00,1.4434829682373969,U019,T19,4.417714036747149,Sample IT support ticket 419 with various issues and complexities,-0.25460668129956726
+T0420,Software,Low,Resolved,2024-01-18 12:00:00,1.5739196772585415,U020,T00,3.1170641371757046,Sample IT support ticket 420 with various issues and complexities,-0.42317985994348645
+T0421,Software,Medium,Open,2024-01-18 13:00:00,4.987818143969693,U021,T01,3.735368620537954,Sample IT support ticket 421 with various issues and complexities,-0.2924538267088849
+T0422,Software,Low,Resolved,2024-01-18 14:00:00,6.788259002520212,U022,T02,3.37584069670603,Sample IT support ticket 422 with various issues and complexities,-0.23937928576084427
+T0423,Network,Low,Resolved,2024-01-18 15:00:00,0.8016845265665593,U023,T03,5.0,Sample IT support ticket 423 with various issues and complexities,0.17973789877356278
+T0424,Security,Medium,Resolved,2024-01-18 16:00:00,1.8541209598671216,U024,T04,3.0425690828589507,Sample IT support ticket 424 with various issues and complexities,1.1745378933503787
+T0425,Hardware,Critical,Open,2024-01-18 17:00:00,9.288710996708131,U025,T05,4.714958151511289,Sample IT support ticket 425 with various issues and complexities,-0.35802171813792016
+T0426,Hardware,Medium,Resolved,2024-01-18 18:00:00,6.573913474917483,U026,T06,4.714363096087015,Sample IT support ticket 426 with various issues and complexities,-0.20831265280773126
+T0427,Security,Medium,Resolved,2024-01-18 19:00:00,16.761238154729504,U027,T07,5.0,Sample IT support ticket 427 with various issues and complexities,-0.031561506555624126
+T0428,Hardware,Medium,Resolved,2024-01-18 20:00:00,5.613733753280163,U028,T08,3.672250725896402,Sample IT support ticket 428 with various issues and complexities,0.19789942435487354
+T0429,Security,Medium,Open,2024-01-18 21:00:00,1.9981924915346576,U029,T09,4.56985772766413,Sample IT support ticket 429 with various issues and complexities,0.13177540597739248
+T0430,Hardware,High,Resolved,2024-01-18 22:00:00,3.572620093199832,U030,T10,5.0,Sample IT support ticket 430 with various issues and complexities,0.6420478969740586
+T0431,Software,Low,Resolved,2024-01-18 23:00:00,4.327188881651697,U031,T11,3.5058866584530426,Sample IT support ticket 431 with various issues and complexities,-1.2131960352676041
+T0432,Hardware,Low,Resolved,2024-01-19 00:00:00,0.32681822181932446,U032,T12,2.771967801974112,Sample IT support ticket 432 with various issues and complexities,-1.1934649350978364
+T0433,Security,Medium,Resolved,2024-01-19 01:00:00,3.145411545409642,U033,T13,2.4959919728737887,Sample IT support ticket 433 with various issues and complexities,-0.24793908600507464
+T0434,Security,High,Resolved,2024-01-19 02:00:00,4.942140493427311,U034,T14,4.570169623089065,Sample IT support ticket 434 with various issues and complexities,0.5486500937718544
+T0435,Security,Medium,Resolved,2024-01-19 03:00:00,0.7324297212517787,U035,T15,2.493479833553133,Sample IT support ticket 435 with various issues and complexities,-0.7828240158027981
+T0436,Security,Critical,In Progress,2024-01-19 04:00:00,6.068013223896447,U036,T16,3.7021447576496618,Sample IT support ticket 436 with various issues and complexities,-1.5038161698468786
+T0437,Security,Low,Resolved,2024-01-19 05:00:00,3.5060958685877712,U037,T17,4.349850549631169,Sample IT support ticket 437 with various issues and complexities,0.28558970310960435
+T0438,Network,High,Resolved,2024-01-19 06:00:00,12.164742044442056,U038,T18,4.148140429463931,Sample IT support ticket 438 with various issues and complexities,0.12182861185135721
+T0439,Network,Medium,Open,2024-01-19 07:00:00,0.17339364208845,U039,T19,4.340355891347338,Sample IT support ticket 439 with various issues and complexities,-0.5451042033997149
+T0440,Hardware,Medium,Open,2024-01-19 08:00:00,1.233314411237752,U040,T00,4.177831884640684,Sample IT support ticket 440 with various issues and complexities,-0.49276980036046497
+T0441,Security,Medium,Resolved,2024-01-19 09:00:00,3.680731980648975,U041,T01,5.0,Sample IT support ticket 441 with various issues and complexities,-0.4848718598173372
+T0442,Hardware,Medium,Resolved,2024-01-19 10:00:00,1.407090276418541,U042,T02,3.2381468954089625,Sample IT support ticket 442 with various issues and complexities,0.055267658736970066
+T0443,Security,Low,Resolved,2024-01-19 11:00:00,5.012990640755036,U043,T03,3.4584038892331748,Sample IT support ticket 443 with various issues and complexities,-0.3131576380915035
+T0444,Security,High,Resolved,2024-01-19 12:00:00,5.691921059639391,U044,T04,3.3818724437833407,Sample IT support ticket 444 with various issues and complexities,0.24703195948775983
+T0445,Network,Critical,Resolved,2024-01-19 13:00:00,0.4326397841543763,U045,T05,4.6641534494900885,Sample IT support ticket 445 with various issues and complexities,-1.4273133314521955
+T0446,Network,High,Resolved,2024-01-19 14:00:00,2.8849889741803034,U046,T06,4.720318870716051,Sample IT support ticket 446 with various issues and complexities,-0.42842593256389966
+T0447,Software,Low,In Progress,2024-01-19 15:00:00,2.844353099959262,U047,T07,4.360980255454806,Sample IT support ticket 447 with various issues and complexities,-0.5630269804555251
+T0448,Network,Low,Resolved,2024-01-19 16:00:00,1.843577904749027,U048,T08,4.946794933511942,Sample IT support ticket 448 with various issues and complexities,-0.1281703391862461
+T0449,Software,Medium,Resolved,2024-01-19 17:00:00,10.807767335068702,U049,T09,3.0575673060988953,Sample IT support ticket 449 with various issues and complexities,-0.26902387924506926
+T0450,Software,Medium,Open,2024-01-19 18:00:00,7.029578720512327,U050,T10,5.0,Sample IT support ticket 450 with various issues and complexities,0.3989218899478833
+T0451,Software,Medium,In Progress,2024-01-19 19:00:00,4.778854966993519,U051,T11,5.0,Sample IT support ticket 451 with various issues and complexities,-0.9296683858300288
+T0452,Software,High,Resolved,2024-01-19 20:00:00,5.0116248153021985,U052,T12,4.588497597796597,Sample IT support ticket 452 with various issues and complexities,0.022745738165376
+T0453,Software,Low,Resolved,2024-01-19 21:00:00,2.4774769769171034,U053,T13,5.0,Sample IT support ticket 453 with various issues and complexities,0.27916821160585276
+T0454,Hardware,Medium,Closed,2024-01-19 22:00:00,10.152952302848151,U054,T14,2.6747014338577806,Sample IT support ticket 454 with various issues and complexities,0.9283237182809774
+T0455,Network,Medium,Closed,2024-01-19 23:00:00,4.744471653336836,U055,T15,3.5804414909898785,Sample IT support ticket 455 with various issues and complexities,-0.2408829855467376
+T0456,Software,Medium,Resolved,2024-01-20 00:00:00,5.222266309421133,U056,T16,3.411757231454438,Sample IT support ticket 456 with various issues and complexities,0.16222930217625853
+T0457,Security,Critical,Resolved,2024-01-20 01:00:00,7.9130570834862874,U057,T17,4.577183459005875,Sample IT support ticket 457 with various issues and complexities,-0.9019313962811825
+T0458,Network,High,Resolved,2024-01-20 02:00:00,1.281215507715098,U058,T18,3.1598874083182835,Sample IT support ticket 458 with various issues and complexities,-1.195978102156512
+T0459,Network,Medium,Resolved,2024-01-20 03:00:00,6.581730140498396,U059,T19,4.605996119469989,Sample IT support ticket 459 with various issues and complexities,0.42238718789084995
+T0460,Software,High,In Progress,2024-01-20 04:00:00,0.868847727596133,U060,T00,5.0,Sample IT support ticket 460 with various issues and complexities,-0.002780146824035283
+T0461,Hardware,Medium,Resolved,2024-01-20 05:00:00,1.694568976664058,U061,T01,4.5561623200672,Sample IT support ticket 461 with various issues and complexities,0.5892563448992114
+T0462,Software,High,Resolved,2024-01-20 06:00:00,1.6355465450809115,U062,T02,4.227000818929201,Sample IT support ticket 462 with various issues and complexities,-0.6867014444848746
+T0463,Hardware,Medium,Resolved,2024-01-20 07:00:00,15.363550489010462,U063,T03,3.209701327279401,Sample IT support ticket 463 with various issues and complexities,0.25995106976437626
+T0464,Security,Medium,Resolved,2024-01-20 08:00:00,7.76671870548977,U064,T04,3.322519227099708,Sample IT support ticket 464 with various issues and complexities,0.9344089202719266
+T0465,Network,Medium,Resolved,2024-01-20 09:00:00,4.831519863939552,U065,T05,4.999695124237333,Sample IT support ticket 465 with various issues and complexities,0.20985280417863295
+T0466,Security,Medium,In Progress,2024-01-20 10:00:00,5.193965693680857,U066,T06,4.6234792031242655,Sample IT support ticket 466 with various issues and complexities,0.13829075279552439
+T0467,Hardware,Medium,Resolved,2024-01-20 11:00:00,3.302810318736524,U067,T07,3.968784384497965,Sample IT support ticket 467 with various issues and complexities,0.004278040412174916
+T0468,Hardware,Medium,Resolved,2024-01-20 12:00:00,11.756702122036806,U068,T08,3.6656723633872876,Sample IT support ticket 468 with various issues and complexities,-0.7854407285629561
+T0469,Security,Medium,Open,2024-01-20 13:00:00,2.7427701652842233,U069,T09,2.3793537015108983,Sample IT support ticket 469 with various issues and complexities,0.677786467855174
+T0470,Hardware,Medium,Open,2024-01-20 14:00:00,1.9154846627286835,U070,T10,3.143318065052449,Sample IT support ticket 470 with various issues and complexities,-0.3054288199025329
+T0471,Security,Low,Resolved,2024-01-20 15:00:00,0.7118937117606069,U071,T11,5.0,Sample IT support ticket 471 with various issues and complexities,0.25224162819150847
+T0472,Network,Medium,In Progress,2024-01-20 16:00:00,6.170962871532479,U072,T12,2.9756355431980266,Sample IT support ticket 472 with various issues and complexities,-0.7815171532856268
+T0473,Security,High,Resolved,2024-01-20 17:00:00,5.30371712788881,U073,T13,4.151583856976864,Sample IT support ticket 473 with various issues and complexities,-0.5897298322538902
+T0474,Network,Critical,In Progress,2024-01-20 18:00:00,1.940339371396337,U074,T14,4.805955178556159,Sample IT support ticket 474 with various issues and complexities,0.7175436996111177
+T0475,Security,Medium,Closed,2024-01-20 19:00:00,0.1020648038175643,U075,T15,2.9960618655981657,Sample IT support ticket 475 with various issues and complexities,-0.17365114447892147
+T0476,Hardware,Medium,In Progress,2024-01-20 20:00:00,7.305337264442566,U076,T16,4.147768379824867,Sample IT support ticket 476 with various issues and complexities,0.7266377380212723
+T0477,Security,High,Resolved,2024-01-20 21:00:00,0.04593467641705422,U077,T17,4.750332430008524,Sample IT support ticket 477 with various issues and complexities,-0.039115329529258905
+T0478,Hardware,Medium,Resolved,2024-01-20 22:00:00,4.865528322640952,U078,T18,4.0099994575258,Sample IT support ticket 478 with various issues and complexities,-0.9209488864789287
+T0479,Security,Medium,Resolved,2024-01-20 23:00:00,14.060660631759248,U079,T19,5.0,Sample IT support ticket 479 with various issues and complexities,0.4460337998658603
+T0480,Security,Medium,In Progress,2024-01-21 00:00:00,2.3026039665478355,U080,T00,2.665120592897444,Sample IT support ticket 480 with various issues and complexities,-0.2949461588778039
+T0481,Software,Low,Resolved,2024-01-21 01:00:00,1.0713787241948276,U081,T01,4.846982823907103,Sample IT support ticket 481 with various issues and complexities,0.34934440675852174
+T0482,Hardware,High,Resolved,2024-01-21 02:00:00,4.881371056479193,U082,T02,3.8617586100828287,Sample IT support ticket 482 with various issues and complexities,0.012605433770041058
+T0483,Software,High,Resolved,2024-01-21 03:00:00,6.7958784040373015,U083,T03,4.61753612386934,Sample IT support ticket 483 with various issues and complexities,-0.7715591139714352
+T0484,Hardware,Medium,In Progress,2024-01-21 04:00:00,3.162425452755602,U084,T04,4.353045721359397,Sample IT support ticket 484 with various issues and complexities,0.08214738268528453
+T0485,Software,Medium,Open,2024-01-21 05:00:00,13.649268945612333,U085,T05,3.413475042312003,Sample IT support ticket 485 with various issues and complexities,1.0981115710763996
+T0486,Network,Medium,Resolved,2024-01-21 06:00:00,0.21220555217024656,U086,T06,4.183197113967473,Sample IT support ticket 486 with various issues and complexities,0.2464932292572296
+T0487,Security,Medium,Resolved,2024-01-21 07:00:00,2.811138675714295,U087,T07,2.5136788388813702,Sample IT support ticket 487 with various issues and complexities,-0.028758876502731564
+T0488,Hardware,High,Resolved,2024-01-21 08:00:00,5.069836989399112,U088,T08,4.482598000457115,Sample IT support ticket 488 with various issues and complexities,0.5376717009784489
+T0489,Hardware,Low,Resolved,2024-01-21 09:00:00,7.940613969722716,U089,T09,4.2385267727924205,Sample IT support ticket 489 with various issues and complexities,0.1053342326015554
+T0490,Security,Low,Resolved,2024-01-21 10:00:00,0.7901742406398196,U090,T10,4.510928134914482,Sample IT support ticket 490 with various issues and complexities,0.10476711513139716
+T0491,Hardware,Medium,In Progress,2024-01-21 11:00:00,6.43782128561617,U091,T11,4.8464946600697205,Sample IT support ticket 491 with various issues and complexities,-0.5458125860795513
+T0492,Hardware,Medium,Resolved,2024-01-21 12:00:00,3.2181663495993194,U092,T12,4.294095872167769,Sample IT support ticket 492 with various issues and complexities,0.11692401289479919
+T0493,Software,Medium,In Progress,2024-01-21 13:00:00,2.020392774011117,U093,T13,4.118471535838621,Sample IT support ticket 493 with various issues and complexities,0.5177217082084724
+T0494,Hardware,Medium,Resolved,2024-01-21 14:00:00,0.5649412404579709,U094,T14,3.295145330670966,Sample IT support ticket 494 with various issues and complexities,-0.41803107605001233
+T0495,Network,High,Resolved,2024-01-21 15:00:00,8.01869484241702,U095,T15,3.4302233890807594,Sample IT support ticket 495 with various issues and complexities,0.7122479106234738
+T0496,Network,Low,Closed,2024-01-21 16:00:00,0.684449855505244,U096,T16,4.949387696141865,Sample IT support ticket 496 with various issues and complexities,-0.04585301207256299
+T0497,Security,High,Open,2024-01-21 17:00:00,1.4830251128897298,U097,T17,5.0,Sample IT support ticket 497 with various issues and complexities,-0.44388475576927033
+T0498,Hardware,Low,Open,2024-01-21 18:00:00,1.3702177621108833,U098,T18,3.809511650950357,Sample IT support ticket 498 with various issues and complexities,0.49881603846012224
+T0499,Security,Medium,In Progress,2024-01-21 19:00:00,8.20463041480124,U099,T19,4.036802197802619,Sample IT support ticket 499 with various issues and complexities,-0.14339711786913464
+T0500,Network,High,In Progress,2024-01-21 20:00:00,4.467548982904518,U000,T00,3.276308500004987,Sample IT support ticket 500 with various issues and complexities,0.3797574437430539
+T0501,Hardware,Medium,In Progress,2024-01-21 21:00:00,6.371924233242563,U001,T01,4.938205476213956,Sample IT support ticket 501 with various issues and complexities,-0.14587931612926858
+T0502,Hardware,Low,Closed,2024-01-21 22:00:00,1.153224528772905,U002,T02,4.532333458953423,Sample IT support ticket 502 with various issues and complexities,-0.029913071764951848
+T0503,Security,Medium,In Progress,2024-01-21 23:00:00,3.921974299906265,U003,T03,5.0,Sample IT support ticket 503 with various issues and complexities,0.2467801021671458
+T0504,Network,Low,In Progress,2024-01-22 00:00:00,3.3921550484901437,U004,T04,3.297341538256209,Sample IT support ticket 504 with various issues and complexities,0.14544852879500295
+T0505,Hardware,Medium,Resolved,2024-01-22 01:00:00,7.15498509677167,U005,T05,3.697593680785426,Sample IT support ticket 505 with various issues and complexities,-0.9977658902258693
+T0506,Security,Medium,Resolved,2024-01-22 02:00:00,9.461548404840297,U006,T06,4.185156738020458,Sample IT support ticket 506 with various issues and complexities,-0.5606218700471959
+T0507,Network,Low,Resolved,2024-01-22 03:00:00,0.048925077635884995,U007,T07,4.5171916301806165,Sample IT support ticket 507 with various issues and complexities,0.46470499239540775
+T0508,Security,High,Open,2024-01-22 04:00:00,4.483676003558144,U008,T08,3.827465889961894,Sample IT support ticket 508 with various issues and complexities,-0.06606829445077363
+T0509,Software,Medium,Resolved,2024-01-22 05:00:00,0.21291033618489097,U009,T09,3.3016311276370396,Sample IT support ticket 509 with various issues and complexities,-0.2618656513857109
+T0510,Hardware,High,Open,2024-01-22 06:00:00,3.1838984294795583,U010,T10,4.705126023138857,Sample IT support ticket 510 with various issues and complexities,-0.6792870076287372
+T0511,Software,Low,Open,2024-01-22 07:00:00,1.356646682279544,U011,T11,4.5769082900364655,Sample IT support ticket 511 with various issues and complexities,-0.5398681606379242
+T0512,Network,Low,Closed,2024-01-22 08:00:00,1.4656118581178474,U012,T12,3.26698071954902,Sample IT support ticket 512 with various issues and complexities,-1.0108993199809737
+T0513,Software,Critical,In Progress,2024-01-22 09:00:00,1.7413793987164685,U013,T13,5.0,Sample IT support ticket 513 with various issues and complexities,-0.05064035935076644
+T0514,Software,Medium,Resolved,2024-01-22 10:00:00,3.883964020553045,U014,T14,4.936158967357283,Sample IT support ticket 514 with various issues and complexities,-0.29921879029052345
+T0515,Network,Low,Resolved,2024-01-22 11:00:00,1.626162539131336,U015,T15,4.107437197798235,Sample IT support ticket 515 with various issues and complexities,-0.4832939454926576
+T0516,Security,High,Resolved,2024-01-22 12:00:00,5.2775204159710745,U016,T16,4.063678289900829,Sample IT support ticket 516 with various issues and complexities,-0.03406171258397655
+T0517,Software,Medium,Resolved,2024-01-22 13:00:00,2.073599515095317,U017,T17,4.443246216892725,Sample IT support ticket 517 with various issues and complexities,0.18198531542636906
+T0518,Security,Low,Open,2024-01-22 14:00:00,0.28320602565435515,U018,T18,3.3106375437949933,Sample IT support ticket 518 with various issues and complexities,1.0465989661049724
+T0519,Software,Critical,Resolved,2024-01-22 15:00:00,6.125462594333334,U019,T19,4.024025183331266,Sample IT support ticket 519 with various issues and complexities,-0.7559417097816068
+T0520,Security,Medium,Closed,2024-01-22 16:00:00,1.3461355718068553,U020,T00,2.2780931643126556,Sample IT support ticket 520 with various issues and complexities,0.579690521650261
+T0521,Network,Medium,Resolved,2024-01-22 17:00:00,2.2679396506437715,U021,T01,4.701164516402349,Sample IT support ticket 521 with various issues and complexities,0.486550780507536
+T0522,Software,Low,Closed,2024-01-22 18:00:00,4.626371148127303,U022,T02,2.750805422046512,Sample IT support ticket 522 with various issues and complexities,-0.38954636968835027
+T0523,Network,Low,Open,2024-01-22 19:00:00,1.6166008347619911,U023,T03,5.0,Sample IT support ticket 523 with various issues and complexities,0.10161797729301551
+T0524,Software,Low,Resolved,2024-01-22 20:00:00,0.23299881529559235,U024,T04,3.7359039248268395,Sample IT support ticket 524 with various issues and complexities,-0.22881662466880762
+T0525,Network,Medium,In Progress,2024-01-22 21:00:00,1.8731151714085894,U025,T05,3.8306664144550586,Sample IT support ticket 525 with various issues and complexities,0.09284429020936946
+T0526,Network,Low,Resolved,2024-01-22 22:00:00,11.561784996672129,U026,T06,3.4978128751323956,Sample IT support ticket 526 with various issues and complexities,0.7545655067022753
+T0527,Software,Low,Closed,2024-01-22 23:00:00,4.105922642684448,U027,T07,3.769568900862339,Sample IT support ticket 527 with various issues and complexities,0.3028031163156565
+T0528,Software,Medium,In Progress,2024-01-23 00:00:00,4.452619874780166,U028,T08,5.0,Sample IT support ticket 528 with various issues and complexities,0.254304186616721
+T0529,Software,Low,Resolved,2024-01-23 01:00:00,4.001757426944554,U029,T09,2.009753074771936,Sample IT support ticket 529 with various issues and complexities,-0.2151546599773212
+T0530,Hardware,Critical,In Progress,2024-01-23 02:00:00,0.8875380717150904,U030,T10,5.0,Sample IT support ticket 530 with various issues and complexities,-0.7420283324621676
+T0531,Security,Medium,Resolved,2024-01-23 03:00:00,2.167434582043569,U031,T11,4.270418784881366,Sample IT support ticket 531 with various issues and complexities,-0.10423410527020395
+T0532,Hardware,High,Resolved,2024-01-23 04:00:00,5.560242552394696,U032,T12,3.0343826817142276,Sample IT support ticket 532 with various issues and complexities,0.6033040774319576
+T0533,Hardware,High,Closed,2024-01-23 05:00:00,0.42754848821745456,U033,T13,3.1397500855606095,Sample IT support ticket 533 with various issues and complexities,-0.7635839282948238
+T0534,Network,High,Resolved,2024-01-23 06:00:00,1.30210499857318,U034,T14,5.0,Sample IT support ticket 534 with various issues and complexities,-0.5275446840883475
+T0535,Software,Medium,Resolved,2024-01-23 07:00:00,1.293618965232408,U035,T15,3.243594496045815,Sample IT support ticket 535 with various issues and complexities,0.06313386811703409
+T0536,Security,Medium,In Progress,2024-01-23 08:00:00,2.2626687361839237,U036,T16,3.0773195915232323,Sample IT support ticket 536 with various issues and complexities,-0.4923273924236312
+T0537,Network,Medium,In Progress,2024-01-23 09:00:00,15.722528533118624,U037,T17,4.909851633891783,Sample IT support ticket 537 with various issues and complexities,-0.3962617235576063
+T0538,Hardware,High,In Progress,2024-01-23 10:00:00,0.27955543398449195,U038,T18,4.270842301028732,Sample IT support ticket 538 with various issues and complexities,-0.21179929086408855
+T0539,Software,Medium,In Progress,2024-01-23 11:00:00,2.9250662748237892,U039,T19,3.2496595387708807,Sample IT support ticket 539 with various issues and complexities,-0.6828087020950747
+T0540,Network,Medium,Resolved,2024-01-23 12:00:00,0.7907058427020452,U040,T00,4.173299980323695,Sample IT support ticket 540 with various issues and complexities,-0.48706092310818416
+T0541,Software,Low,Resolved,2024-01-23 13:00:00,14.117470340903095,U041,T01,3.179397853087778,Sample IT support ticket 541 with various issues and complexities,0.3517139583936544
+T0542,Network,Medium,Resolved,2024-01-23 14:00:00,0.48101010062217003,U042,T02,4.8806571187380845,Sample IT support ticket 542 with various issues and complexities,-0.653684891115482
+T0543,Software,Medium,In Progress,2024-01-23 15:00:00,2.067381507118955,U043,T03,4.849096771898507,Sample IT support ticket 543 with various issues and complexities,-0.7989360672474188
+T0544,Hardware,Low,Resolved,2024-01-23 16:00:00,5.355887529470833,U044,T04,4.425604959057554,Sample IT support ticket 544 with various issues and complexities,-0.3150124897669472
+T0545,Security,Medium,Resolved,2024-01-23 17:00:00,4.877082594812624,U045,T05,4.289328848997613,Sample IT support ticket 545 with various issues and complexities,0.3659777512549229
+T0546,Hardware,High,Open,2024-01-23 18:00:00,2.1977712920796386,U046,T06,5.0,Sample IT support ticket 546 with various issues and complexities,-0.09846090399844477
+T0547,Security,Critical,Resolved,2024-01-23 19:00:00,1.7017989157272817,U047,T07,3.99974906191058,Sample IT support ticket 547 with various issues and complexities,-0.23229053905780916
+T0548,Software,Low,Resolved,2024-01-23 20:00:00,2.0274166057365037,U048,T08,3.0545006996633592,Sample IT support ticket 548 with various issues and complexities,0.022179398757803524
+T0549,Network,Critical,Open,2024-01-23 21:00:00,1.2276023530801574,U049,T09,4.359579130265845,Sample IT support ticket 549 with various issues and complexities,-0.872853716429826
+T0550,Hardware,Low,Resolved,2024-01-23 22:00:00,0.91932817148535,U050,T10,5.0,Sample IT support ticket 550 with various issues and complexities,0.24735282688751623
+T0551,Security,Medium,Resolved,2024-01-23 23:00:00,2.6391567674735206,U051,T11,3.188192405451318,Sample IT support ticket 551 with various issues and complexities,0.19171751570182208
+T0552,Hardware,Low,In Progress,2024-01-24 00:00:00,1.2508168238157404,U052,T12,3.7108297866448114,Sample IT support ticket 552 with various issues and complexities,-0.20465423704786062
+T0553,Security,Low,Closed,2024-01-24 01:00:00,1.3556862585348552,U053,T13,4.333156830481162,Sample IT support ticket 553 with various issues and complexities,0.5029622558982083
+T0554,Hardware,Low,Resolved,2024-01-24 02:00:00,4.277255597532736,U054,T14,3.9568761207954086,Sample IT support ticket 554 with various issues and complexities,-0.5637480494765194
+T0555,Security,Medium,Resolved,2024-01-24 03:00:00,13.835814277225262,U055,T15,3.2141571356981484,Sample IT support ticket 555 with various issues and complexities,0.5639544966267845
+T0556,Security,Low,Resolved,2024-01-24 04:00:00,3.7017013077706693,U056,T16,4.897486284984376,Sample IT support ticket 556 with various issues and complexities,0.07724683279762556
+T0557,Software,Medium,Resolved,2024-01-24 05:00:00,0.32041519543978036,U057,T17,5.0,Sample IT support ticket 557 with various issues and complexities,-0.1682762949390867
+T0558,Security,Medium,Resolved,2024-01-24 06:00:00,0.3143706979542043,U058,T18,4.156905167219126,Sample IT support ticket 558 with various issues and complexities,-0.009936817684155785
+T0559,Software,Medium,Resolved,2024-01-24 07:00:00,12.09843862972972,U059,T19,3.2767453682111998,Sample IT support ticket 559 with various issues and complexities,-0.05363238290547087
+T0560,Security,Low,Open,2024-01-24 08:00:00,1.4112484588734377,U060,T00,2.7608315799572196,Sample IT support ticket 560 with various issues and complexities,0.6101414482088585
+T0561,Network,Low,Resolved,2024-01-24 09:00:00,0.38633870528322706,U061,T01,4.206380784976945,Sample IT support ticket 561 with various issues and complexities,-0.5383395637355067
+T0562,Network,Low,Resolved,2024-01-24 10:00:00,3.6556201910352963,U062,T02,4.883101874653006,Sample IT support ticket 562 with various issues and complexities,-0.3812596195732991
+T0563,Network,Medium,Resolved,2024-01-24 11:00:00,3.9089298852023355,U063,T03,4.3801341971963055,Sample IT support ticket 563 with various issues and complexities,0.5181514460362399
+T0564,Security,Medium,Open,2024-01-24 12:00:00,4.182237123292527,U064,T04,3.998076927264917,Sample IT support ticket 564 with various issues and complexities,-0.2977674675919296
+T0565,Software,Medium,Resolved,2024-01-24 13:00:00,1.2446327866782638,U065,T05,3.5285826785685552,Sample IT support ticket 565 with various issues and complexities,0.4502665386657958
+T0566,Software,High,In Progress,2024-01-24 14:00:00,0.060904055539564454,U066,T06,3.1262690938255284,Sample IT support ticket 566 with various issues and complexities,0.8497179915043548
+T0567,Security,High,In Progress,2024-01-24 15:00:00,13.411385764831852,U067,T07,4.667801061059905,Sample IT support ticket 567 with various issues and complexities,-0.20089751347081683
+T0568,Network,Medium,In Progress,2024-01-24 16:00:00,1.1554940380770633,U068,T08,4.731017297108469,Sample IT support ticket 568 with various issues and complexities,0.3406811632876527
+T0569,Network,Medium,Resolved,2024-01-24 17:00:00,4.508371609784644,U069,T09,2.7634161706474134,Sample IT support ticket 569 with various issues and complexities,-0.5768461406699292
+T0570,Software,Medium,Resolved,2024-01-24 18:00:00,4.905280897800305,U070,T10,5.0,Sample IT support ticket 570 with various issues and complexities,0.3773666490339046
+T0571,Network,High,Resolved,2024-01-24 19:00:00,3.766510232767279,U071,T11,4.459256976715201,Sample IT support ticket 571 with various issues and complexities,0.09971199299338356
+T0572,Hardware,Critical,In Progress,2024-01-24 20:00:00,1.501144793936357,U072,T12,5.0,Sample IT support ticket 572 with various issues and complexities,0.2365191410801076
+T0573,Software,Critical,Resolved,2024-01-24 21:00:00,1.2648543641302639,U073,T13,2.926297801211908,Sample IT support ticket 573 with various issues and complexities,-0.3227860360176975
+T0574,Network,Low,Resolved,2024-01-24 22:00:00,3.6419134528814356,U074,T14,2.9073406756676485,Sample IT support ticket 574 with various issues and complexities,-0.8305417077835863
+T0575,Software,Medium,Resolved,2024-01-24 23:00:00,8.042517669975961,U075,T15,3.8808245521861626,Sample IT support ticket 575 with various issues and complexities,0.2516260323747524
+T0576,Hardware,Medium,In Progress,2024-01-25 00:00:00,11.729807843770253,U076,T16,4.402227541516155,Sample IT support ticket 576 with various issues and complexities,-1.0317015762397272
+T0577,Software,Medium,Resolved,2024-01-25 01:00:00,0.44777658062970854,U077,T17,5.0,Sample IT support ticket 577 with various issues and complexities,-0.1586752461212674
+T0578,Software,High,Closed,2024-01-25 02:00:00,0.672863387452388,U078,T18,4.564863131052105,Sample IT support ticket 578 with various issues and complexities,0.47059093320998485
+T0579,Software,Low,Resolved,2024-01-25 03:00:00,11.582553038795677,U079,T19,3.8058549785503732,Sample IT support ticket 579 with various issues and complexities,0.09594886793651804
+T0580,Software,Low,Open,2024-01-25 04:00:00,5.3353424552348905,U080,T00,3.1789046338672864,Sample IT support ticket 580 with various issues and complexities,0.9741713223949066
+T0581,Hardware,High,Open,2024-01-25 05:00:00,8.582114265377788,U081,T01,4.98400045817532,Sample IT support ticket 581 with various issues and complexities,0.5125545762908867
+T0582,Security,Medium,Resolved,2024-01-25 06:00:00,0.9057590821999683,U082,T02,3.228235659399428,Sample IT support ticket 582 with various issues and complexities,-0.3269491941627882
+T0583,Software,Low,Closed,2024-01-25 07:00:00,3.542909069058836,U083,T03,5.0,Sample IT support ticket 583 with various issues and complexities,0.013656689925719334
+T0584,Software,Low,Resolved,2024-01-25 08:00:00,4.831114742284325,U084,T04,3.7724922803147924,Sample IT support ticket 584 with various issues and complexities,-0.023685351272217974
+T0585,Network,Medium,Resolved,2024-01-25 09:00:00,4.559135945396711,U085,T05,5.0,Sample IT support ticket 585 with various issues and complexities,-0.7910883816730636
+T0586,Software,Medium,In Progress,2024-01-25 10:00:00,2.0980196460157736,U086,T06,4.5431450320474225,Sample IT support ticket 586 with various issues and complexities,-0.4701994582421766
+T0587,Network,High,Resolved,2024-01-25 11:00:00,0.062058493857659894,U087,T07,3.890403608446033,Sample IT support ticket 587 with various issues and complexities,-0.2803804534899301
+T0588,Security,Low,Resolved,2024-01-25 12:00:00,3.497967004362685,U088,T08,3.5844829025390985,Sample IT support ticket 588 with various issues and complexities,-1.0181102514279683
+T0589,Hardware,High,Resolved,2024-01-25 13:00:00,1.167304129514058,U089,T09,3.727273698123136,Sample IT support ticket 589 with various issues and complexities,0.023746734125821477
+T0590,Hardware,Low,Resolved,2024-01-25 14:00:00,2.3931974933908013,U090,T10,4.34265335390019,Sample IT support ticket 590 with various issues and complexities,-0.12453592232652036
+T0591,Security,Medium,Closed,2024-01-25 15:00:00,12.640637038002174,U091,T11,4.061725196974173,Sample IT support ticket 591 with various issues and complexities,-0.8364469506557871
+T0592,Hardware,Medium,In Progress,2024-01-25 16:00:00,2.0368764438788487,U092,T12,3.524950873545036,Sample IT support ticket 592 with various issues and complexities,0.20210643263866604
+T0593,Security,Medium,Resolved,2024-01-25 17:00:00,7.325369094057767,U093,T13,3.8674948717458943,Sample IT support ticket 593 with various issues and complexities,0.35793637234547976
+T0594,Security,High,In Progress,2024-01-25 18:00:00,0.8356837246851861,U094,T14,4.06286162377532,Sample IT support ticket 594 with various issues and complexities,0.11351723943244445
+T0595,Security,High,Resolved,2024-01-25 19:00:00,4.46458645785189,U095,T15,2.29701272446815,Sample IT support ticket 595 with various issues and complexities,-0.1620340876044851
+T0596,Hardware,High,Resolved,2024-01-25 20:00:00,15.090253902742658,U096,T16,4.366534491830959,Sample IT support ticket 596 with various issues and complexities,0.29572107587592744
+T0597,Network,High,Resolved,2024-01-25 21:00:00,0.4298647056825105,U097,T17,3.2162230202265545,Sample IT support ticket 597 with various issues and complexities,0.34011018023834555
+T0598,Security,Low,Resolved,2024-01-25 22:00:00,0.03341898450097943,U098,T18,3.077334077435404,Sample IT support ticket 598 with various issues and complexities,0.1537017848598442
+T0599,Software,Medium,Resolved,2024-01-25 23:00:00,2.2736974273002755,U099,T19,2.6501245223114314,Sample IT support ticket 599 with various issues and complexities,-0.41230612521738047
+T0600,Hardware,High,Closed,2024-01-26 00:00:00,0.38879998295443996,U000,T00,2.5648860017056876,Sample IT support ticket 600 with various issues and complexities,0.13830038275559034
+T0601,Security,Low,Resolved,2024-01-26 01:00:00,5.519410211583044,U001,T01,2.9156419975101686,Sample IT support ticket 601 with various issues and complexities,0.5977403254127395
+T0602,Security,Low,In Progress,2024-01-26 02:00:00,9.839232931585263,U002,T02,3.4327832338956075,Sample IT support ticket 602 with various issues and complexities,-0.2983145293058651
+T0603,Software,Low,Resolved,2024-01-26 03:00:00,2.276793022884951,U003,T03,5.0,Sample IT support ticket 603 with various issues and complexities,1.0489696695662156
+T0604,Network,Low,Resolved,2024-01-26 04:00:00,1.197462329981277,U004,T04,3.579296259283837,Sample IT support ticket 604 with various issues and complexities,-0.2628154669926922
+T0605,Network,High,Resolved,2024-01-26 05:00:00,2.279496130133382,U005,T05,4.142200085014425,Sample IT support ticket 605 with various issues and complexities,0.016203506670068108
+T0606,Network,Medium,Resolved,2024-01-26 06:00:00,5.141423007824238,U006,T06,4.320385109205063,Sample IT support ticket 606 with various issues and complexities,-0.3362427980031681
+T0607,Security,Low,Closed,2024-01-26 07:00:00,0.03638159842891444,U007,T07,4.104852148972679,Sample IT support ticket 607 with various issues and complexities,0.11163541796013043
+T0608,Security,Medium,In Progress,2024-01-26 08:00:00,3.561069089157912,U008,T08,3.938045231419205,Sample IT support ticket 608 with various issues and complexities,-0.8711108463176376
+T0609,Security,High,Closed,2024-01-26 09:00:00,3.800338311408583,U009,T09,3.0437649891206044,Sample IT support ticket 609 with various issues and complexities,-0.2730208994083606
+T0610,Hardware,Low,In Progress,2024-01-26 10:00:00,4.0610009654126715,U010,T10,5.0,Sample IT support ticket 610 with various issues and complexities,-0.5460606001742836
+T0611,Software,High,In Progress,2024-01-26 11:00:00,1.1084040921056064,U011,T11,5.0,Sample IT support ticket 611 with various issues and complexities,0.06766917394614545
+T0612,Security,High,In Progress,2024-01-26 12:00:00,5.007791330529346,U012,T12,2.653873044701851,Sample IT support ticket 612 with various issues and complexities,0.4972236877544537
+T0613,Software,Medium,Resolved,2024-01-26 13:00:00,0.383363822423344,U013,T13,3.1807771272908965,Sample IT support ticket 613 with various issues and complexities,0.32300309355727574
+T0614,Software,Medium,Resolved,2024-01-26 14:00:00,0.8889275503575936,U014,T14,3.7761517260983952,Sample IT support ticket 614 with various issues and complexities,-1.1858296804294461
+T0615,Network,Medium,In Progress,2024-01-26 15:00:00,8.397599047122084,U015,T15,3.228369764071847,Sample IT support ticket 615 with various issues and complexities,1.0210348264639402
+T0616,Hardware,High,Resolved,2024-01-26 16:00:00,5.368698834581317,U016,T16,4.404772442764692,Sample IT support ticket 616 with various issues and complexities,0.1476399703104342
+T0617,Security,Low,Resolved,2024-01-26 17:00:00,0.05536359543570593,U017,T17,3.4173822380747096,Sample IT support ticket 617 with various issues and complexities,-0.38824957024650014
+T0618,Network,Medium,Open,2024-01-26 18:00:00,1.1420777059347231,U018,T18,5.0,Sample IT support ticket 618 with various issues and complexities,0.07856395949547042
+T0619,Network,High,Resolved,2024-01-26 19:00:00,0.9652630970338906,U019,T19,4.952438875474877,Sample IT support ticket 619 with various issues and complexities,0.08809491125134619
+T0620,Security,Low,Resolved,2024-01-26 20:00:00,1.2632636570771112,U020,T00,4.170059224505772,Sample IT support ticket 620 with various issues and complexities,-0.33342435847578183
+T0621,Software,Low,Resolved,2024-01-26 21:00:00,1.1377348578284898,U021,T01,4.821589010655786,Sample IT support ticket 621 with various issues and complexities,0.09895833367103775
+T0622,Network,Low,Closed,2024-01-26 22:00:00,0.2582662812932588,U022,T02,4.884720339485847,Sample IT support ticket 622 with various issues and complexities,-0.3037361438101536
+T0623,Software,Low,Resolved,2024-01-26 23:00:00,2.456904221368542,U023,T03,3.5488420095534052,Sample IT support ticket 623 with various issues and complexities,-0.20218099634501138
+T0624,Hardware,Medium,Closed,2024-01-27 00:00:00,5.278035586797082,U024,T04,3.3470262043664283,Sample IT support ticket 624 with various issues and complexities,-0.34313956787754224
+T0625,Software,Medium,Resolved,2024-01-27 01:00:00,3.7330530627796694,U025,T05,4.062514450375718,Sample IT support ticket 625 with various issues and complexities,-0.7163356448698264
+T0626,Hardware,High,Resolved,2024-01-27 02:00:00,4.469610937212588,U026,T06,4.689308899598355,Sample IT support ticket 626 with various issues and complexities,0.07291823510769195
+T0627,Software,Medium,In Progress,2024-01-27 03:00:00,0.33852598731277983,U027,T07,4.111248318922734,Sample IT support ticket 627 with various issues and complexities,0.29264971825816904
+T0628,Network,Medium,Resolved,2024-01-27 04:00:00,12.103999826536056,U028,T08,2.738402814247202,Sample IT support ticket 628 with various issues and complexities,0.2574417980381861
+T0629,Network,Medium,Resolved,2024-01-27 05:00:00,7.292798292633157,U029,T09,3.357740444839326,Sample IT support ticket 629 with various issues and complexities,0.40996262631761715
+T0630,Hardware,Medium,In Progress,2024-01-27 06:00:00,6.54087599795279,U030,T10,3.9408217091244975,Sample IT support ticket 630 with various issues and complexities,0.1621701050074341
+T0631,Security,Medium,Open,2024-01-27 07:00:00,6.9260562146189235,U031,T11,3.939467516539336,Sample IT support ticket 631 with various issues and complexities,-0.26636274910845176
+T0632,Hardware,High,Resolved,2024-01-27 08:00:00,10.795004772785536,U032,T12,5.0,Sample IT support ticket 632 with various issues and complexities,0.4198319322155944
+T0633,Hardware,High,Resolved,2024-01-27 09:00:00,3.143278271400141,U033,T13,2.891209646080801,Sample IT support ticket 633 with various issues and complexities,-0.6787587699209675
+T0634,Software,Medium,Resolved,2024-01-27 10:00:00,0.8939845431973882,U034,T14,4.404471393468699,Sample IT support ticket 634 with various issues and complexities,-0.45033569125624007
+T0635,Software,High,Resolved,2024-01-27 11:00:00,3.836621827190313,U035,T15,5.0,Sample IT support ticket 635 with various issues and complexities,-0.48210003571162235
+T0636,Hardware,Low,Open,2024-01-27 12:00:00,5.432872744939342,U036,T16,5.0,Sample IT support ticket 636 with various issues and complexities,0.5400280295696551
+T0637,Network,Medium,Resolved,2024-01-27 13:00:00,5.3563821294936025,U037,T17,3.676482061452831,Sample IT support ticket 637 with various issues and complexities,0.4713942570700378
+T0638,Software,Medium,In Progress,2024-01-27 14:00:00,2.947970164786861,U038,T18,4.39314356217616,Sample IT support ticket 638 with various issues and complexities,0.24365261852249742
+T0639,Security,Medium,Resolved,2024-01-27 15:00:00,0.2836590943481483,U039,T19,4.455808285758917,Sample IT support ticket 639 with various issues and complexities,0.5359649326058986
+T0640,Software,Low,Resolved,2024-01-27 16:00:00,1.8552143630251778,U040,T00,4.156385385242633,Sample IT support ticket 640 with various issues and complexities,-0.43964139120599405
+T0641,Software,Medium,Resolved,2024-01-27 17:00:00,10.141429834813065,U041,T01,3.9209238390085552,Sample IT support ticket 641 with various issues and complexities,0.1742975599304902
+T0642,Security,Medium,Resolved,2024-01-27 18:00:00,3.512598845492327,U042,T02,4.348780311600037,Sample IT support ticket 642 with various issues and complexities,-0.06258721419158211
+T0643,Hardware,Medium,Resolved,2024-01-27 19:00:00,3.091636552139545,U043,T03,1.9742031318242517,Sample IT support ticket 643 with various issues and complexities,0.42344105194245696
+T0644,Security,Medium,Resolved,2024-01-27 20:00:00,1.2525657943434554,U044,T04,4.545655592050105,Sample IT support ticket 644 with various issues and complexities,-0.057612116276098795
+T0645,Hardware,Low,Resolved,2024-01-27 21:00:00,1.8383058142125888,U045,T05,4.100942322929574,Sample IT support ticket 645 with various issues and complexities,-0.1924714442050406
+T0646,Hardware,Low,Resolved,2024-01-27 22:00:00,9.028385840236023,U046,T06,3.822020082577388,Sample IT support ticket 646 with various issues and complexities,0.270454259280495
+T0647,Hardware,Medium,Resolved,2024-01-27 23:00:00,4.392006470984261,U047,T07,5.0,Sample IT support ticket 647 with various issues and complexities,0.4380845835956164
+T0648,Security,Low,Resolved,2024-01-28 00:00:00,6.1931271722998416,U048,T08,3.460052784967558,Sample IT support ticket 648 with various issues and complexities,-0.33417259742340083
+T0649,Hardware,Low,Resolved,2024-01-28 01:00:00,2.423076585685194,U049,T09,3.6775392087479752,Sample IT support ticket 649 with various issues and complexities,-0.03053783567618805
+T0650,Network,Medium,Resolved,2024-01-28 02:00:00,3.979682629420087,U050,T10,5.0,Sample IT support ticket 650 with various issues and complexities,-0.5292203168208264
+T0651,Security,Low,In Progress,2024-01-28 03:00:00,1.1421168127853527,U051,T11,3.334350956120115,Sample IT support ticket 651 with various issues and complexities,-1.2490305087464697
+T0652,Network,Medium,Resolved,2024-01-28 04:00:00,4.889373122415937,U052,T12,3.5599077736507687,Sample IT support ticket 652 with various issues and complexities,0.1002298157068645
+T0653,Hardware,Medium,Resolved,2024-01-28 05:00:00,2.2316782452894492,U053,T13,3.88237966125532,Sample IT support ticket 653 with various issues and complexities,0.30445267812731597
+T0654,Software,Medium,In Progress,2024-01-28 06:00:00,2.337497679615901,U054,T14,4.672587585703639,Sample IT support ticket 654 with various issues and complexities,0.13103340454336276
+T0655,Hardware,Low,In Progress,2024-01-28 07:00:00,4.191551124212815,U055,T15,4.16624200588265,Sample IT support ticket 655 with various issues and complexities,-0.9747808588771836
+T0656,Network,High,In Progress,2024-01-28 08:00:00,11.013066188438954,U056,T16,2.9658997222781895,Sample IT support ticket 656 with various issues and complexities,-0.17542471503823728
+T0657,Network,Low,Resolved,2024-01-28 09:00:00,0.2645863323691963,U057,T17,3.5742651494982485,Sample IT support ticket 657 with various issues and complexities,-1.1091738800255406
+T0658,Security,Low,Resolved,2024-01-28 10:00:00,6.966012660828607,U058,T18,3.5141164534302307,Sample IT support ticket 658 with various issues and complexities,0.6848505538270924
+T0659,Software,Critical,Resolved,2024-01-28 11:00:00,1.3834097925845423,U059,T19,3.9382231638215637,Sample IT support ticket 659 with various issues and complexities,-0.543027291059043
+T0660,Security,Low,Resolved,2024-01-28 12:00:00,2.3473685169115854,U060,T00,4.340674926903863,Sample IT support ticket 660 with various issues and complexities,0.6277018047299482
+T0661,Network,High,Resolved,2024-01-28 13:00:00,0.08862796795787757,U061,T01,4.334564604710378,Sample IT support ticket 661 with various issues and complexities,0.4729348218420728
+T0662,Hardware,Medium,Resolved,2024-01-28 14:00:00,1.4326818342785552,U062,T02,2.5791905967612783,Sample IT support ticket 662 with various issues and complexities,-0.45029517626803084
+T0663,Software,Medium,Resolved,2024-01-28 15:00:00,2.793694245870517,U063,T03,4.851152790048685,Sample IT support ticket 663 with various issues and complexities,-0.5663924756338725
+T0664,Hardware,High,Resolved,2024-01-28 16:00:00,0.23126261139181997,U064,T04,4.202055076797299,Sample IT support ticket 664 with various issues and complexities,0.17518510819316913
+T0665,Hardware,Low,Closed,2024-01-28 17:00:00,2.7019814142558984,U065,T05,5.0,Sample IT support ticket 665 with various issues and complexities,-0.4221620185915355
+T0666,Software,Low,Resolved,2024-01-28 18:00:00,10.475249804498313,U066,T06,4.355358661832538,Sample IT support ticket 666 with various issues and complexities,0.051242321079103766
+T0667,Security,Medium,In Progress,2024-01-28 19:00:00,0.4454840283632983,U067,T07,4.8810583661886096,Sample IT support ticket 667 with various issues and complexities,-0.24141379540345917
+T0668,Hardware,Critical,Resolved,2024-01-28 20:00:00,5.783170846955205,U068,T08,4.373236249160102,Sample IT support ticket 668 with various issues and complexities,-0.8905792072328167
+T0669,Network,Medium,Resolved,2024-01-28 21:00:00,2.1083014431893004,U069,T09,5.0,Sample IT support ticket 669 with various issues and complexities,-1.1152340095622295
+T0670,Hardware,Medium,Resolved,2024-01-28 22:00:00,4.258858036480492,U070,T10,4.4178005088142225,Sample IT support ticket 670 with various issues and complexities,0.11334212424729859
+T0671,Software,Low,Open,2024-01-28 23:00:00,1.2056994836582609,U071,T11,3.921667802845677,Sample IT support ticket 671 with various issues and complexities,-0.2807788731653127
+T0672,Software,Medium,In Progress,2024-01-29 00:00:00,0.6949964815807331,U072,T12,5.0,Sample IT support ticket 672 with various issues and complexities,-0.27654490845706614
+T0673,Software,Medium,Resolved,2024-01-29 01:00:00,0.6996170805128757,U073,T13,4.711229697823914,Sample IT support ticket 673 with various issues and complexities,0.3479319195468927
+T0674,Security,Medium,In Progress,2024-01-29 02:00:00,0.29239922640268673,U074,T14,4.45899553680353,Sample IT support ticket 674 with various issues and complexities,0.5867211383162224
+T0675,Hardware,Medium,Resolved,2024-01-29 03:00:00,0.8214439347107564,U075,T15,2.978956466769331,Sample IT support ticket 675 with various issues and complexities,-0.1362723606809046
+T0676,Security,Low,In Progress,2024-01-29 04:00:00,4.365189055145328,U076,T16,2.96935390602917,Sample IT support ticket 676 with various issues and complexities,-0.17029935345493075
+T0677,Security,High,Resolved,2024-01-29 05:00:00,8.53780860903278,U077,T17,4.2341723857134825,Sample IT support ticket 677 with various issues and complexities,0.2500715165569419
+T0678,Software,Low,Resolved,2024-01-29 06:00:00,6.73073825064563,U078,T18,4.116416958214593,Sample IT support ticket 678 with various issues and complexities,-0.6784677848497876
+T0679,Software,Medium,Resolved,2024-01-29 07:00:00,4.622436446545828,U079,T19,3.5087019479933472,Sample IT support ticket 679 with various issues and complexities,0.1115765273738485
+T0680,Security,Low,Resolved,2024-01-29 08:00:00,0.46807669524252593,U080,T00,4.112786159689648,Sample IT support ticket 680 with various issues and complexities,0.275942985911077
+T0681,Hardware,Medium,In Progress,2024-01-29 09:00:00,1.3653860859377187,U081,T01,5.0,Sample IT support ticket 681 with various issues and complexities,0.3401151042088146
+T0682,Network,Medium,Open,2024-01-29 10:00:00,1.4831353188638543,U082,T02,4.556321979640239,Sample IT support ticket 682 with various issues and complexities,-0.9683763512512324
+T0683,Security,Low,Resolved,2024-01-29 11:00:00,1.1504986771848076,U083,T03,3.0871931921978093,Sample IT support ticket 683 with various issues and complexities,-0.3806776349044703
+T0684,Hardware,High,Resolved,2024-01-29 12:00:00,2.894472230469307,U084,T04,3.910792938285645,Sample IT support ticket 684 with various issues and complexities,-0.4391316264117333
+T0685,Software,Low,Closed,2024-01-29 13:00:00,3.067638331759376,U085,T05,3.3560268153179513,Sample IT support ticket 685 with various issues and complexities,0.04994347720460649
+T0686,Software,Medium,Resolved,2024-01-29 14:00:00,1.765732951669031,U086,T06,3.689840066873151,Sample IT support ticket 686 with various issues and complexities,0.24037228988399198
+T0687,Hardware,High,Resolved,2024-01-29 15:00:00,1.7465177951393285,U087,T07,3.6691074674962856,Sample IT support ticket 687 with various issues and complexities,0.7483552037229907
+T0688,Network,Medium,Resolved,2024-01-29 16:00:00,7.05398500390835,U088,T08,3.617883533916796,Sample IT support ticket 688 with various issues and complexities,-0.24748274018403654
+T0689,Software,Medium,Resolved,2024-01-29 17:00:00,6.229144065076313,U089,T09,2.995891702421284,Sample IT support ticket 689 with various issues and complexities,-0.24878624915460693
+T0690,Software,High,In Progress,2024-01-29 18:00:00,1.4714973038268149,U090,T10,3.897876254785448,Sample IT support ticket 690 with various issues and complexities,0.5748360094393735
+T0691,Software,Medium,Closed,2024-01-29 19:00:00,9.803804194011333,U091,T11,3.551513890522152,Sample IT support ticket 691 with various issues and complexities,0.14828846926515254
+T0692,Hardware,Medium,Resolved,2024-01-29 20:00:00,12.21471837538402,U092,T12,1.6564410479981855,Sample IT support ticket 692 with various issues and complexities,0.6338257555939869
+T0693,Security,Medium,Resolved,2024-01-29 21:00:00,1.582509879151161,U093,T13,5.0,Sample IT support ticket 693 with various issues and complexities,0.14436400150491815
+T0694,Software,Critical,In Progress,2024-01-29 22:00:00,1.7504552284967458,U094,T14,4.871015723373338,Sample IT support ticket 694 with various issues and complexities,-0.5785583093566354
+T0695,Security,Low,Resolved,2024-01-29 23:00:00,2.8179178230834405,U095,T15,3.698959420060003,Sample IT support ticket 695 with various issues and complexities,-0.6665641773889033
+T0696,Network,Low,Resolved,2024-01-30 00:00:00,11.329070417925411,U096,T16,4.015055239792479,Sample IT support ticket 696 with various issues and complexities,-0.7757561245294645
+T0697,Software,Low,Resolved,2024-01-30 01:00:00,8.360212443571148,U097,T17,3.0626765221459507,Sample IT support ticket 697 with various issues and complexities,0.3310259173792366
+T0698,Software,Medium,Resolved,2024-01-30 02:00:00,0.4328715432562171,U098,T18,5.0,Sample IT support ticket 698 with various issues and complexities,0.594298411543504
+T0699,Network,High,Resolved,2024-01-30 03:00:00,1.9951320009361906,U099,T19,5.0,Sample IT support ticket 699 with various issues and complexities,0.9246810706931905
+T0700,Software,Low,Closed,2024-01-30 04:00:00,3.2241097258726947,U000,T00,4.125354982597219,Sample IT support ticket 700 with various issues and complexities,0.42155266616162007
+T0701,Security,Critical,In Progress,2024-01-30 05:00:00,2.7977273311362727,U001,T01,4.818824515348275,Sample IT support ticket 701 with various issues and complexities,0.5814192887674929
+T0702,Hardware,Critical,Resolved,2024-01-30 06:00:00,0.8620066400327098,U002,T02,4.140229423147139,Sample IT support ticket 702 with various issues and complexities,-0.29000816632684234
+T0703,Security,Medium,Open,2024-01-30 07:00:00,7.8307869478234124,U003,T03,2.9306196488992553,Sample IT support ticket 703 with various issues and complexities,-0.5782079083719284
+T0704,Hardware,Medium,Resolved,2024-01-30 08:00:00,4.519678552752227,U004,T04,3.670541304829074,Sample IT support ticket 704 with various issues and complexities,0.42503966620877665
+T0705,Hardware,Low,Closed,2024-01-30 09:00:00,7.278374065197763,U005,T05,4.105542373417566,Sample IT support ticket 705 with various issues and complexities,0.20884037611970033
+T0706,Security,Medium,In Progress,2024-01-30 10:00:00,7.829300027221713,U006,T06,3.6363618250052445,Sample IT support ticket 706 with various issues and complexities,0.05372218717044627
+T0707,Security,Medium,Resolved,2024-01-30 11:00:00,5.518957228679005,U007,T07,3.8250773780519713,Sample IT support ticket 707 with various issues and complexities,0.19368574031649494
+T0708,Security,Medium,In Progress,2024-01-30 12:00:00,2.313639388952309,U008,T08,3.9268803539927086,Sample IT support ticket 708 with various issues and complexities,0.16159274122910294
+T0709,Security,Low,Closed,2024-01-30 13:00:00,3.772045837708199,U009,T09,3.935297201707631,Sample IT support ticket 709 with various issues and complexities,0.6419084299267807
+T0710,Network,Medium,Resolved,2024-01-30 14:00:00,0.6991539562932136,U010,T10,4.041806792397987,Sample IT support ticket 710 with various issues and complexities,0.6474927924084779
+T0711,Software,Medium,Resolved,2024-01-30 15:00:00,4.4790832489982275,U011,T11,3.151515946882719,Sample IT support ticket 711 with various issues and complexities,0.2721101761701735
+T0712,Hardware,High,Open,2024-01-30 16:00:00,0.7901627575756086,U012,T12,3.426387080697651,Sample IT support ticket 712 with various issues and complexities,0.4229014362814641
+T0713,Security,Low,Closed,2024-01-30 17:00:00,4.736021814809905,U013,T13,2.9723325874400244,Sample IT support ticket 713 with various issues and complexities,0.2570312762123879
+T0714,Security,Medium,Resolved,2024-01-30 18:00:00,1.0433721244402585,U014,T14,4.7822524397489605,Sample IT support ticket 714 with various issues and complexities,-0.23058486601730946
+T0715,Security,High,Resolved,2024-01-30 19:00:00,0.5002184893846513,U015,T15,2.3154824465277404,Sample IT support ticket 715 with various issues and complexities,0.37828233745657003
+T0716,Network,High,Resolved,2024-01-30 20:00:00,0.722657275772194,U016,T16,4.922872274653541,Sample IT support ticket 716 with various issues and complexities,-0.6972475344296308
+T0717,Security,Medium,In Progress,2024-01-30 21:00:00,0.007976488638842504,U017,T17,5.0,Sample IT support ticket 717 with various issues and complexities,0.5269457761479416
+T0718,Security,Medium,Resolved,2024-01-30 22:00:00,5.073897647385056,U018,T18,3.7582555304139027,Sample IT support ticket 718 with various issues and complexities,-0.5972614698830175
+T0719,Security,Medium,In Progress,2024-01-30 23:00:00,5.273063483935205,U019,T19,1.9174903297381611,Sample IT support ticket 719 with various issues and complexities,0.14290164339736647
+T0720,Software,Low,Resolved,2024-01-31 00:00:00,2.8938758985082047,U020,T00,3.7109515504261674,Sample IT support ticket 720 with various issues and complexities,-0.42257697921307946
+T0721,Network,High,Resolved,2024-01-31 01:00:00,0.7039083473630197,U021,T01,3.9486526709689445,Sample IT support ticket 721 with various issues and complexities,0.27669449153721337
+T0722,Security,Medium,Open,2024-01-31 02:00:00,0.3490100060960836,U022,T02,3.1915214240568694,Sample IT support ticket 722 with various issues and complexities,-0.01696261296395444
+T0723,Hardware,Low,In Progress,2024-01-31 03:00:00,0.07725716926859866,U023,T03,3.587825284953406,Sample IT support ticket 723 with various issues and complexities,-0.7973779790816662
+T0724,Hardware,Medium,Open,2024-01-31 04:00:00,0.7248799044602716,U024,T04,5.0,Sample IT support ticket 724 with various issues and complexities,0.21034981550923942
+T0725,Hardware,Medium,Resolved,2024-01-31 05:00:00,8.860331628598539,U025,T05,4.531941729841392,Sample IT support ticket 725 with various issues and complexities,-0.2889603884163553
+T0726,Network,Medium,Resolved,2024-01-31 06:00:00,1.1058442126473418,U026,T06,3.26034870849752,Sample IT support ticket 726 with various issues and complexities,0.44057336040668454
+T0727,Network,Medium,Resolved,2024-01-31 07:00:00,1.7495034984043751,U027,T07,2.721920664323654,Sample IT support ticket 727 with various issues and complexities,0.0006628443672036147
+T0728,Hardware,Low,In Progress,2024-01-31 08:00:00,0.4452706056438669,U028,T08,3.738386145912183,Sample IT support ticket 728 with various issues and complexities,0.19771049269401908
+T0729,Security,Medium,In Progress,2024-01-31 09:00:00,1.0059730586467321,U029,T09,3.8292345765196494,Sample IT support ticket 729 with various issues and complexities,-0.47878447750760594
+T0730,Network,Low,Resolved,2024-01-31 10:00:00,2.9294200040766576,U030,T10,4.396959349890653,Sample IT support ticket 730 with various issues and complexities,-0.29466611571368095
+T0731,Hardware,High,Open,2024-01-31 11:00:00,3.7434509106469593,U031,T11,3.571746629945873,Sample IT support ticket 731 with various issues and complexities,-0.22931931805054226
+T0732,Hardware,High,Closed,2024-01-31 12:00:00,1.1260171196951478,U032,T12,4.409199660289489,Sample IT support ticket 732 with various issues and complexities,0.42835124012127784
+T0733,Security,Critical,Resolved,2024-01-31 13:00:00,0.23786285115072614,U033,T13,5.0,Sample IT support ticket 733 with various issues and complexities,0.8386885439027446
+T0734,Software,Medium,Resolved,2024-01-31 14:00:00,1.9839639400935032,U034,T14,4.65240081795541,Sample IT support ticket 734 with various issues and complexities,-0.4025858758714381
+T0735,Network,Medium,Resolved,2024-01-31 15:00:00,1.0673545671402234,U035,T15,3.961529194135382,Sample IT support ticket 735 with various issues and complexities,0.5384240723288402
+T0736,Security,Low,Resolved,2024-01-31 16:00:00,0.9915585178880919,U036,T16,3.853479623157364,Sample IT support ticket 736 with various issues and complexities,-1.084838708862851
+T0737,Hardware,Medium,In Progress,2024-01-31 17:00:00,12.861807046024028,U037,T17,3.714661492656103,Sample IT support ticket 737 with various issues and complexities,-0.5970947005461447
+T0738,Hardware,Low,Open,2024-01-31 18:00:00,3.831582192603987,U038,T18,4.9445127299617155,Sample IT support ticket 738 with various issues and complexities,-0.4793892280933874
+T0739,Security,High,In Progress,2024-01-31 19:00:00,3.255644607723781,U039,T19,3.4981492432389576,Sample IT support ticket 739 with various issues and complexities,-0.6762543447203612
+T0740,Network,Low,Resolved,2024-01-31 20:00:00,2.1498770943119005,U040,T00,4.036178167199986,Sample IT support ticket 740 with various issues and complexities,-0.79179419489379
+T0741,Software,Low,Open,2024-01-31 21:00:00,2.241074337853888,U041,T01,4.040958321504868,Sample IT support ticket 741 with various issues and complexities,0.20649945606889877
+T0742,Software,Low,Resolved,2024-01-31 22:00:00,3.1139925080792654,U042,T02,3.5985726457507745,Sample IT support ticket 742 with various issues and complexities,-0.10703384886393069
+T0743,Hardware,Low,Closed,2024-01-31 23:00:00,4.76856966769522,U043,T03,2.9020275616927194,Sample IT support ticket 743 with various issues and complexities,0.18970269880255486
+T0744,Network,Low,Resolved,2024-02-01 00:00:00,4.844608673340184,U044,T04,4.258379602894134,Sample IT support ticket 744 with various issues and complexities,0.3452363430607565
+T0745,Software,Medium,Resolved,2024-02-01 01:00:00,0.7534900649049108,U045,T05,3.9511968225156933,Sample IT support ticket 745 with various issues and complexities,0.13280849658626673
+T0746,Network,High,Open,2024-02-01 02:00:00,2.7734908405723355,U046,T06,4.400192375549256,Sample IT support ticket 746 with various issues and complexities,0.32888158807518686
+T0747,Network,Critical,Resolved,2024-02-01 03:00:00,2.123828266696289,U047,T07,3.5731197548486664,Sample IT support ticket 747 with various issues and complexities,-0.03476614312113469
+T0748,Hardware,Low,Resolved,2024-02-01 04:00:00,8.177130613066474,U048,T08,4.976657039050439,Sample IT support ticket 748 with various issues and complexities,-0.5934966941528723
+T0749,Software,Medium,In Progress,2024-02-01 05:00:00,3.99237827089484,U049,T09,3.298580975030524,Sample IT support ticket 749 with various issues and complexities,0.5289070904103981
+T0750,Security,Low,Open,2024-02-01 06:00:00,3.041458514028916,U050,T10,5.0,Sample IT support ticket 750 with various issues and complexities,-0.2945560663905635
+T0751,Hardware,Medium,Closed,2024-02-01 07:00:00,0.49045462717442745,U051,T11,2.6018907921373904,Sample IT support ticket 751 with various issues and complexities,-0.46779814938121295
+T0752,Software,High,Resolved,2024-02-01 08:00:00,3.721942916530943,U052,T12,4.347816051645513,Sample IT support ticket 752 with various issues and complexities,-0.08895893790219908
+T0753,Software,High,Resolved,2024-02-01 09:00:00,0.49864411522139096,U053,T13,4.380344546021298,Sample IT support ticket 753 with various issues and complexities,-0.4564054596482565
+T0754,Software,Medium,Resolved,2024-02-01 10:00:00,1.6451676574749217,U054,T14,3.363554345647294,Sample IT support ticket 754 with various issues and complexities,-0.2087151909947161
+T0755,Software,Medium,Resolved,2024-02-01 11:00:00,0.616531889069701,U055,T15,4.33951515028881,Sample IT support ticket 755 with various issues and complexities,0.17202696078173324
+T0756,Software,High,Resolved,2024-02-01 12:00:00,4.711578553265154,U056,T16,5.0,Sample IT support ticket 756 with various issues and complexities,0.17417086962306344
+T0757,Network,Medium,Resolved,2024-02-01 13:00:00,0.9239575675177857,U057,T17,2.2265449285167485,Sample IT support ticket 757 with various issues and complexities,-0.4489150332128147
+T0758,Hardware,High,Resolved,2024-02-01 14:00:00,1.9893965186467393,U058,T18,4.402195845992652,Sample IT support ticket 758 with various issues and complexities,-0.2438526864743723
+T0759,Network,Medium,Resolved,2024-02-01 15:00:00,9.04096848354852,U059,T19,2.0053833437359376,Sample IT support ticket 759 with various issues and complexities,0.5371665023851219
+T0760,Security,Medium,Resolved,2024-02-01 16:00:00,0.9142145549206142,U060,T00,3.2274681571814337,Sample IT support ticket 760 with various issues and complexities,0.24820005886697055
+T0761,Software,Low,Resolved,2024-02-01 17:00:00,2.835521717979876,U061,T01,5.0,Sample IT support ticket 761 with various issues and complexities,1.0375325196742708
+T0762,Hardware,Medium,Resolved,2024-02-01 18:00:00,2.173888826536962,U062,T02,3.5345743732863566,Sample IT support ticket 762 with various issues and complexities,0.5900640868707638
+T0763,Software,Medium,Resolved,2024-02-01 19:00:00,0.0731611732662606,U063,T03,3.060896028472822,Sample IT support ticket 763 with various issues and complexities,0.5721465342799695
+T0764,Hardware,Critical,Resolved,2024-02-01 20:00:00,6.295474537823697,U064,T04,3.8416498168122546,Sample IT support ticket 764 with various issues and complexities,-0.693934275227901
+T0765,Network,High,Resolved,2024-02-01 21:00:00,0.286181246117488,U065,T05,5.0,Sample IT support ticket 765 with various issues and complexities,0.3819301758167113
+T0766,Hardware,Medium,Resolved,2024-02-01 22:00:00,2.571756058270097,U066,T06,2.534654202235179,Sample IT support ticket 766 with various issues and complexities,-0.026553400848455325
+T0767,Security,Medium,Resolved,2024-02-01 23:00:00,3.290093283730611,U067,T07,3.1589520706885246,Sample IT support ticket 767 with various issues and complexities,-0.2754909017691248
+T0768,Security,Medium,In Progress,2024-02-02 00:00:00,3.9600338842563674,U068,T08,5.0,Sample IT support ticket 768 with various issues and complexities,0.08400767026626425
+T0769,Hardware,Medium,Resolved,2024-02-02 01:00:00,4.667114384228758,U069,T09,5.0,Sample IT support ticket 769 with various issues and complexities,0.4726057673057418
+T0770,Hardware,Medium,In Progress,2024-02-02 02:00:00,1.168219187687978,U070,T10,3.9172550205677727,Sample IT support ticket 770 with various issues and complexities,0.2504157955021058
+T0771,Hardware,Low,Resolved,2024-02-02 03:00:00,0.04011559345819217,U071,T11,3.008757837978686,Sample IT support ticket 771 with various issues and complexities,-0.43923690067103
+T0772,Hardware,Low,Resolved,2024-02-02 04:00:00,5.141362903957594,U072,T12,5.0,Sample IT support ticket 772 with various issues and complexities,0.37122945679631014
+T0773,Security,Critical,Resolved,2024-02-02 05:00:00,3.068523651490777,U073,T13,5.0,Sample IT support ticket 773 with various issues and complexities,-0.31879377103798195
+T0774,Software,Medium,Closed,2024-02-02 06:00:00,7.234427245251541,U074,T14,4.543157590209787,Sample IT support ticket 774 with various issues and complexities,0.10834155948214311
+T0775,Hardware,High,Resolved,2024-02-02 07:00:00,6.890165821325784,U075,T15,3.350078120850064,Sample IT support ticket 775 with various issues and complexities,-0.1516750337385671
+T0776,Hardware,High,Resolved,2024-02-02 08:00:00,7.4143565458716845,U076,T16,3.9607765273295708,Sample IT support ticket 776 with various issues and complexities,-0.10943312586781286
+T0777,Security,Low,Resolved,2024-02-02 09:00:00,2.6550888039930776,U077,T17,3.8717119351641354,Sample IT support ticket 777 with various issues and complexities,0.38312148752025477
+T0778,Security,High,Resolved,2024-02-02 10:00:00,1.6236311993479535,U078,T18,4.2646810436924625,Sample IT support ticket 778 with various issues and complexities,-0.520096859907949
+T0779,Network,Medium,Open,2024-02-02 11:00:00,6.272381703327717,U079,T19,5.0,Sample IT support ticket 779 with various issues and complexities,0.9725975371384665
+T0780,Hardware,Medium,In Progress,2024-02-02 12:00:00,2.4007708241290824,U080,T00,4.703533632909923,Sample IT support ticket 780 with various issues and complexities,-0.9105430346472482
+T0781,Network,Medium,Resolved,2024-02-02 13:00:00,0.8106302988617161,U081,T01,3.1380991384121932,Sample IT support ticket 781 with various issues and complexities,-0.29883384162742854
+T0782,Security,Medium,Resolved,2024-02-02 14:00:00,7.723369508693826,U082,T02,5.0,Sample IT support ticket 782 with various issues and complexities,0.1851059449708705
+T0783,Security,Critical,Open,2024-02-02 15:00:00,8.567306659338792,U083,T03,4.250505712010524,Sample IT support ticket 783 with various issues and complexities,0.29215708321765493
+T0784,Software,Medium,In Progress,2024-02-02 16:00:00,2.51175870401803,U084,T04,4.549652636687133,Sample IT support ticket 784 with various issues and complexities,-0.05023786028585257
+T0785,Hardware,Medium,In Progress,2024-02-02 17:00:00,0.3148731587518314,U085,T05,5.0,Sample IT support ticket 785 with various issues and complexities,-0.028695351500771203
+T0786,Network,High,Closed,2024-02-02 18:00:00,1.9629554801405982,U086,T06,3.110735800389159,Sample IT support ticket 786 with various issues and complexities,0.20527504266380828
+T0787,Security,Medium,Resolved,2024-02-02 19:00:00,6.509138068997753,U087,T07,3.9713395370348294,Sample IT support ticket 787 with various issues and complexities,-0.11553473872884015
+T0788,Security,Critical,Resolved,2024-02-02 20:00:00,9.281938493999068,U088,T08,3.574836358912628,Sample IT support ticket 788 with various issues and complexities,0.6965906289674529
+T0789,Network,High,In Progress,2024-02-02 21:00:00,0.9099757144803404,U089,T09,2.7457124597076352,Sample IT support ticket 789 with various issues and complexities,0.4196745571158011
+T0790,Software,Medium,Resolved,2024-02-02 22:00:00,0.2772871824145389,U090,T10,4.277367982083936,Sample IT support ticket 790 with various issues and complexities,0.4364121755028173
+T0791,Security,High,In Progress,2024-02-02 23:00:00,8.393696811216572,U091,T11,5.0,Sample IT support ticket 791 with various issues and complexities,-0.4830783616852085
+T0792,Hardware,Medium,In Progress,2024-02-03 00:00:00,1.9732851497785038,U092,T12,2.527937804395398,Sample IT support ticket 792 with various issues and complexities,-0.03969421220285144
+T0793,Security,Medium,Resolved,2024-02-03 01:00:00,3.121457275748542,U093,T13,3.9741755111604236,Sample IT support ticket 793 with various issues and complexities,-0.15023297436035185
+T0794,Hardware,Low,Open,2024-02-03 02:00:00,13.776312482116845,U094,T14,4.512434348059819,Sample IT support ticket 794 with various issues and complexities,-0.5028006878447329
+T0795,Network,High,Open,2024-02-03 03:00:00,0.27553462943650936,U095,T15,4.098462561324945,Sample IT support ticket 795 with various issues and complexities,0.18008209197288347
+T0796,Hardware,High,In Progress,2024-02-03 04:00:00,4.180111767938999,U096,T16,3.909497557987408,Sample IT support ticket 796 with various issues and complexities,-0.26882287888990825
+T0797,Network,High,Open,2024-02-03 05:00:00,0.3079795923604999,U097,T17,2.9606269092433406,Sample IT support ticket 797 with various issues and complexities,0.3277019149251185
+T0798,Hardware,Medium,In Progress,2024-02-03 06:00:00,1.8830167855888067,U098,T18,4.1862293943521305,Sample IT support ticket 798 with various issues and complexities,-0.5350957814471659
+T0799,Network,Medium,Resolved,2024-02-03 07:00:00,6.514779476488592,U099,T19,3.394588818387259,Sample IT support ticket 799 with various issues and complexities,0.8595203064209105
+T0800,Hardware,Critical,Resolved,2024-02-03 08:00:00,2.27291673711808,U000,T00,2.248062636017157,Sample IT support ticket 800 with various issues and complexities,-0.4481663292960309
+T0801,Software,Low,Resolved,2024-02-03 09:00:00,23.487413839843732,U001,T01,4.955673776410984,Sample IT support ticket 801 with various issues and complexities,0.10965116860021804
+T0802,Hardware,High,Resolved,2024-02-03 10:00:00,3.275379382230829,U002,T02,4.766708655873634,Sample IT support ticket 802 with various issues and complexities,0.3959296551940338
+T0803,Hardware,Medium,In Progress,2024-02-03 11:00:00,1.5494919635785898,U003,T03,4.041328781480864,Sample IT support ticket 803 with various issues and complexities,-0.2853202151000564
+T0804,Software,Medium,Closed,2024-02-03 12:00:00,0.99441638001468,U004,T04,4.183259750564562,Sample IT support ticket 804 with various issues and complexities,0.4262343217164753
+T0805,Security,Low,Resolved,2024-02-03 13:00:00,1.7263362356015268,U005,T05,4.859454410172449,Sample IT support ticket 805 with various issues and complexities,-0.6145917989002081
+T0806,Security,Medium,Open,2024-02-03 14:00:00,1.8642585411750248,U006,T06,4.1794717254224665,Sample IT support ticket 806 with various issues and complexities,0.7260588495912802
+T0807,Hardware,Low,Resolved,2024-02-03 15:00:00,0.2847540250505802,U007,T07,4.723214043809051,Sample IT support ticket 807 with various issues and complexities,0.007074632482879146
+T0808,Software,Medium,In Progress,2024-02-03 16:00:00,1.8454392558828856,U008,T08,3.7620142393009197,Sample IT support ticket 808 with various issues and complexities,-0.2982057039844398
+T0809,Hardware,Low,Resolved,2024-02-03 17:00:00,2.496264865865925,U009,T09,5.0,Sample IT support ticket 809 with various issues and complexities,-0.14959088621371724
+T0810,Network,High,Resolved,2024-02-03 18:00:00,5.131165911411684,U010,T10,4.256628580746147,Sample IT support ticket 810 with various issues and complexities,0.4044596346963597
+T0811,Network,Low,Resolved,2024-02-03 19:00:00,4.276945873501232,U011,T11,4.155241554884699,Sample IT support ticket 811 with various issues and complexities,-0.2922276459252191
+T0812,Hardware,Medium,Resolved,2024-02-03 20:00:00,4.934508109626667,U012,T12,2.983951129030374,Sample IT support ticket 812 with various issues and complexities,-0.3746788447113888
+T0813,Security,Low,Resolved,2024-02-03 21:00:00,0.033595414848467155,U013,T13,4.229564683441367,Sample IT support ticket 813 with various issues and complexities,-0.11076829879186909
+T0814,Security,Medium,Closed,2024-02-03 22:00:00,0.9819012345213719,U014,T14,3.334436066004439,Sample IT support ticket 814 with various issues and complexities,-0.588481056384984
+T0815,Hardware,Medium,In Progress,2024-02-03 23:00:00,4.335103045884948,U015,T15,3.4893738187772048,Sample IT support ticket 815 with various issues and complexities,0.9102719539709078
+T0816,Hardware,Medium,In Progress,2024-02-04 00:00:00,2.646511637640098,U016,T16,3.347699497347103,Sample IT support ticket 816 with various issues and complexities,-0.2831972956073616
+T0817,Network,Medium,Resolved,2024-02-04 01:00:00,0.021310569541892813,U017,T17,3.14701205448062,Sample IT support ticket 817 with various issues and complexities,0.4158083930902018
+T0818,Security,High,Resolved,2024-02-04 02:00:00,6.52866998196562,U018,T18,5.0,Sample IT support ticket 818 with various issues and complexities,0.1047350418238863
+T0819,Hardware,High,Resolved,2024-02-04 03:00:00,5.9278669159355095,U019,T19,5.0,Sample IT support ticket 819 with various issues and complexities,-0.49226702524098404
+T0820,Network,High,Closed,2024-02-04 04:00:00,3.1800035246489395,U020,T00,5.0,Sample IT support ticket 820 with various issues and complexities,-0.0029773546063646917
+T0821,Security,High,Resolved,2024-02-04 05:00:00,0.2751001199057116,U021,T01,3.021683984355549,Sample IT support ticket 821 with various issues and complexities,0.392001389655374
+T0822,Software,Low,Resolved,2024-02-04 06:00:00,5.818550623639917,U022,T02,4.057002999928714,Sample IT support ticket 822 with various issues and complexities,-0.09413066754315327
+T0823,Network,High,Resolved,2024-02-04 07:00:00,3.5055270583668725,U023,T03,2.9651938998367235,Sample IT support ticket 823 with various issues and complexities,0.596556472925514
+T0824,Security,Low,Resolved,2024-02-04 08:00:00,6.092306568101123,U024,T04,3.443444098242349,Sample IT support ticket 824 with various issues and complexities,0.5107576963909319
+T0825,Security,Medium,Closed,2024-02-04 09:00:00,5.573227443628173,U025,T05,3.26549841326674,Sample IT support ticket 825 with various issues and complexities,0.45945742732916467
+T0826,Network,High,Resolved,2024-02-04 10:00:00,6.498248271407724,U026,T06,4.99166720515325,Sample IT support ticket 826 with various issues and complexities,-0.22982838613649847
+T0827,Software,Low,Open,2024-02-04 11:00:00,2.919311601403511,U027,T07,3.683016257518592,Sample IT support ticket 827 with various issues and complexities,-0.5399212238907435
+T0828,Network,Medium,Resolved,2024-02-04 12:00:00,0.6048012307376963,U028,T08,4.854703466955213,Sample IT support ticket 828 with various issues and complexities,-0.3067938026813972
+T0829,Security,Medium,Open,2024-02-04 13:00:00,4.4487051411764105,U029,T09,4.483296711670814,Sample IT support ticket 829 with various issues and complexities,0.09812047033336023
+T0830,Hardware,Medium,In Progress,2024-02-04 14:00:00,3.8753264277411374,U030,T10,5.0,Sample IT support ticket 830 with various issues and complexities,0.27289335676617776
+T0831,Hardware,Medium,Open,2024-02-04 15:00:00,5.423110086513585,U031,T11,2.8164446214882206,Sample IT support ticket 831 with various issues and complexities,-1.0857857023802238
+T0832,Network,High,Resolved,2024-02-04 16:00:00,0.7447448890540487,U032,T12,5.0,Sample IT support ticket 832 with various issues and complexities,-0.004056600805875145
+T0833,Security,Low,Resolved,2024-02-04 17:00:00,0.8675287778433475,U033,T13,4.917152696320582,Sample IT support ticket 833 with various issues and complexities,0.07904461266159221
+T0834,Hardware,Low,In Progress,2024-02-04 18:00:00,8.844018976725835,U034,T14,3.221296929578372,Sample IT support ticket 834 with various issues and complexities,-0.1387721281577758
+T0835,Security,Medium,Resolved,2024-02-04 19:00:00,5.54482223548484,U035,T15,4.8057066691785275,Sample IT support ticket 835 with various issues and complexities,0.6456369195079394
+T0836,Network,High,Resolved,2024-02-04 20:00:00,9.553813455782242,U036,T16,4.268915970420983,Sample IT support ticket 836 with various issues and complexities,0.21089003712543544
+T0837,Hardware,Medium,Resolved,2024-02-04 21:00:00,5.687111210491123,U037,T17,3.8180189920372736,Sample IT support ticket 837 with various issues and complexities,0.6550959540404485
+T0838,Security,High,In Progress,2024-02-04 22:00:00,3.636816663908461,U038,T18,3.3408516104224004,Sample IT support ticket 838 with various issues and complexities,-0.10798026017511611
+T0839,Hardware,Critical,Resolved,2024-02-04 23:00:00,4.246800842235702,U039,T19,3.4247124388406514,Sample IT support ticket 839 with various issues and complexities,0.46873874625346246
+T0840,Network,Medium,Resolved,2024-02-05 00:00:00,8.797512840798614,U040,T00,5.0,Sample IT support ticket 840 with various issues and complexities,0.8175331972637597
+T0841,Security,Medium,Open,2024-02-05 01:00:00,3.458654140816142,U041,T01,4.000546255165986,Sample IT support ticket 841 with various issues and complexities,0.6558467246363305
+T0842,Hardware,Low,Open,2024-02-05 02:00:00,4.002945151725624,U042,T02,4.625704001225167,Sample IT support ticket 842 with various issues and complexities,-0.5460707967143665
+T0843,Network,Medium,Resolved,2024-02-05 03:00:00,0.6806710934021715,U043,T03,3.3672804946659576,Sample IT support ticket 843 with various issues and complexities,-0.1268380387711905
+T0844,Hardware,Medium,Closed,2024-02-05 04:00:00,2.5692172232667585,U044,T04,3.376117643022689,Sample IT support ticket 844 with various issues and complexities,-0.17258235272489822
+T0845,Hardware,Medium,Resolved,2024-02-05 05:00:00,5.040721203485714,U045,T05,4.865587847399954,Sample IT support ticket 845 with various issues and complexities,0.2446272675381638
+T0846,Software,Medium,Resolved,2024-02-05 06:00:00,1.2640117877199422,U046,T06,2.9203390307587744,Sample IT support ticket 846 with various issues and complexities,0.34317677750726655
+T0847,Software,Medium,Resolved,2024-02-05 07:00:00,0.9038610169271706,U047,T07,3.667828985675783,Sample IT support ticket 847 with various issues and complexities,-0.41944633701286815
+T0848,Network,Low,Resolved,2024-02-05 08:00:00,1.506500867901197,U048,T08,4.027221928857785,Sample IT support ticket 848 with various issues and complexities,0.03391925695846884
+T0849,Software,Critical,Open,2024-02-05 09:00:00,1.1056532325373827,U049,T09,4.089098081472042,Sample IT support ticket 849 with various issues and complexities,-1.0099636660780682
+T0850,Network,Low,Resolved,2024-02-05 10:00:00,0.9678411079701998,U050,T10,3.856725371987075,Sample IT support ticket 850 with various issues and complexities,0.720972502900945
+T0851,Software,Medium,Closed,2024-02-05 11:00:00,2.2125034724657446,U051,T11,4.316655824876738,Sample IT support ticket 851 with various issues and complexities,-0.2561871203383468
+T0852,Hardware,Medium,Resolved,2024-02-05 12:00:00,9.536851827075553,U052,T12,4.554284604654249,Sample IT support ticket 852 with various issues and complexities,0.027931969922248483
+T0853,Network,Medium,Resolved,2024-02-05 13:00:00,2.8294683982345283,U053,T13,4.587710036367464,Sample IT support ticket 853 with various issues and complexities,-0.15482485699403062
+T0854,Network,Medium,Resolved,2024-02-05 14:00:00,0.8326275617770341,U054,T14,3.2113569530657387,Sample IT support ticket 854 with various issues and complexities,0.5730137875067075
+T0855,Hardware,Low,In Progress,2024-02-05 15:00:00,0.3203814035537856,U055,T15,3.7726759216569623,Sample IT support ticket 855 with various issues and complexities,-1.4187532206986895
+T0856,Network,Low,Closed,2024-02-05 16:00:00,4.764965379415386,U056,T16,4.95581028950155,Sample IT support ticket 856 with various issues and complexities,-0.008305171162954494
+T0857,Network,Medium,Open,2024-02-05 17:00:00,1.9302406264393077,U057,T17,4.715717750059098,Sample IT support ticket 857 with various issues and complexities,-0.05290937874884894
+T0858,Software,Medium,Resolved,2024-02-05 18:00:00,6.900089764486423,U058,T18,2.9017124388151485,Sample IT support ticket 858 with various issues and complexities,-0.2268181937958414
+T0859,Network,Medium,In Progress,2024-02-05 19:00:00,4.3094871194270565,U059,T19,4.281183920281761,Sample IT support ticket 859 with various issues and complexities,0.8631132728178162
+T0860,Security,Low,Open,2024-02-05 20:00:00,6.363278268833292,U060,T00,2.4174198005001517,Sample IT support ticket 860 with various issues and complexities,-0.4436647294278856
+T0861,Hardware,High,Resolved,2024-02-05 21:00:00,1.2695204474174877,U061,T01,4.0375479216482955,Sample IT support ticket 861 with various issues and complexities,0.3858980886178306
+T0862,Software,Medium,In Progress,2024-02-05 22:00:00,4.7152860328096615,U062,T02,5.0,Sample IT support ticket 862 with various issues and complexities,0.17812639435304178
+T0863,Software,Medium,Resolved,2024-02-05 23:00:00,1.2264375285347233,U063,T03,3.2416858261848107,Sample IT support ticket 863 with various issues and complexities,0.630759626267758
+T0864,Security,Medium,Resolved,2024-02-06 00:00:00,11.192018637404216,U064,T04,3.332541563606734,Sample IT support ticket 864 with various issues and complexities,-0.3335945423887527
+T0865,Hardware,High,Open,2024-02-06 01:00:00,4.046520745295031,U065,T05,4.611223825258287,Sample IT support ticket 865 with various issues and complexities,-0.3664844495618795
+T0866,Hardware,Medium,In Progress,2024-02-06 02:00:00,1.5692783621434379,U066,T06,2.765758787832283,Sample IT support ticket 866 with various issues and complexities,0.5480349537386993
+T0867,Software,Low,Resolved,2024-02-06 03:00:00,1.2561691460653928,U067,T07,3.4937959760919686,Sample IT support ticket 867 with various issues and complexities,0.2126606541650552
+T0868,Network,High,Resolved,2024-02-06 04:00:00,0.8474624731707827,U068,T08,4.477152910065402,Sample IT support ticket 868 with various issues and complexities,-0.7724686733383793
+T0869,Software,High,Resolved,2024-02-06 05:00:00,4.745068043029922,U069,T09,3.4925713218484775,Sample IT support ticket 869 with various issues and complexities,-0.2696525072316352
+T0870,Hardware,Low,Resolved,2024-02-06 06:00:00,0.9872642541500816,U070,T10,3.8112240102312227,Sample IT support ticket 870 with various issues and complexities,0.1931913269240305
+T0871,Security,High,Resolved,2024-02-06 07:00:00,3.618469188516585,U071,T11,4.595348568252028,Sample IT support ticket 871 with various issues and complexities,0.41888211077329457
+T0872,Software,Low,Resolved,2024-02-06 08:00:00,1.229553364036396,U072,T12,4.337236866829249,Sample IT support ticket 872 with various issues and complexities,-0.33961532659647753
+T0873,Hardware,Medium,Resolved,2024-02-06 09:00:00,4.338470033646729,U073,T13,4.2134547170363215,Sample IT support ticket 873 with various issues and complexities,-1.4571279949084706
+T0874,Software,High,Resolved,2024-02-06 10:00:00,6.748294861158538,U074,T14,3.728702176583969,Sample IT support ticket 874 with various issues and complexities,0.2616115928685166
+T0875,Network,Low,In Progress,2024-02-06 11:00:00,6.020766445735537,U075,T15,4.296048892215165,Sample IT support ticket 875 with various issues and complexities,-0.6101603449719879
+T0876,Software,Medium,Resolved,2024-02-06 12:00:00,5.72267949650608,U076,T16,3.9010138559201946,Sample IT support ticket 876 with various issues and complexities,-1.0086693990612057
+T0877,Software,Medium,Resolved,2024-02-06 13:00:00,0.8316525293277339,U077,T17,4.3662444879406275,Sample IT support ticket 877 with various issues and complexities,-1.4161629624920704
+T0878,Hardware,Medium,Resolved,2024-02-06 14:00:00,0.3701498760203192,U078,T18,3.6024543799056175,Sample IT support ticket 878 with various issues and complexities,0.4069904300988706
+T0879,Hardware,Medium,Resolved,2024-02-06 15:00:00,4.801900094628724,U079,T19,3.853944820496367,Sample IT support ticket 879 with various issues and complexities,0.06430872520248326
+T0880,Hardware,High,Resolved,2024-02-06 16:00:00,1.837661698879116,U080,T00,3.2080337659583886,Sample IT support ticket 880 with various issues and complexities,-0.11282819035612582
+T0881,Software,Medium,Resolved,2024-02-06 17:00:00,2.2649743985651423,U081,T01,3.9719939119950114,Sample IT support ticket 881 with various issues and complexities,0.6945121814813808
+T0882,Network,Low,Closed,2024-02-06 18:00:00,0.12657816584521522,U082,T02,3.3511993090969243,Sample IT support ticket 882 with various issues and complexities,0.3186623415115363
+T0883,Security,Medium,Resolved,2024-02-06 19:00:00,1.2021315627129898,U083,T03,3.1087628398704052,Sample IT support ticket 883 with various issues and complexities,0.8081500213609583
+T0884,Security,Medium,Resolved,2024-02-06 20:00:00,0.13702606091031913,U084,T04,4.20692891828431,Sample IT support ticket 884 with various issues and complexities,-0.6963677360834982
+T0885,Hardware,Medium,Resolved,2024-02-06 21:00:00,8.454004895747158,U085,T05,4.170191820686128,Sample IT support ticket 885 with various issues and complexities,-0.017275311976981757
+T0886,Hardware,Low,Resolved,2024-02-06 22:00:00,1.1156647319797823,U086,T06,4.626298987958858,Sample IT support ticket 886 with various issues and complexities,-0.8083566874740071
+T0887,Software,High,Resolved,2024-02-06 23:00:00,3.2597876154220153,U087,T07,3.6550995443399206,Sample IT support ticket 887 with various issues and complexities,-0.11469116592773361
+T0888,Security,Low,Resolved,2024-02-07 00:00:00,0.15903740672218383,U088,T08,4.326442277469405,Sample IT support ticket 888 with various issues and complexities,-0.12430792688333868
+T0889,Hardware,Medium,Resolved,2024-02-07 01:00:00,4.396618438458033,U089,T09,4.440638057818931,Sample IT support ticket 889 with various issues and complexities,0.3133068186315354
+T0890,Network,High,Resolved,2024-02-07 02:00:00,1.5604975977293216,U090,T10,4.3558190462652755,Sample IT support ticket 890 with various issues and complexities,0.022781940570949157
+T0891,Network,High,In Progress,2024-02-07 03:00:00,9.127961978643869,U091,T11,3.3394770537582863,Sample IT support ticket 891 with various issues and complexities,0.3117035691399578
+T0892,Hardware,High,Resolved,2024-02-07 04:00:00,8.761248892814965,U092,T12,4.119490785816951,Sample IT support ticket 892 with various issues and complexities,0.3517200665694471
+T0893,Hardware,Medium,In Progress,2024-02-07 05:00:00,1.5738929061685438,U093,T13,4.291312236843729,Sample IT support ticket 893 with various issues and complexities,1.077464338691571
+T0894,Security,Medium,Resolved,2024-02-07 06:00:00,9.248962055244718,U094,T14,4.005742773526354,Sample IT support ticket 894 with various issues and complexities,-0.1576483276430622
+T0895,Security,Low,Resolved,2024-02-07 07:00:00,22.24670894459349,U095,T15,2.330817873303132,Sample IT support ticket 895 with various issues and complexities,-0.4705113503331895
+T0896,Software,Medium,In Progress,2024-02-07 08:00:00,6.981389415769047,U096,T16,4.128391699178784,Sample IT support ticket 896 with various issues and complexities,0.12304180765820441
+T0897,Security,High,Open,2024-02-07 09:00:00,7.454001967408121,U097,T17,5.0,Sample IT support ticket 897 with various issues and complexities,-0.40114001356977175
+T0898,Network,Medium,Resolved,2024-02-07 10:00:00,1.1454450396837392,U098,T18,3.711968584994414,Sample IT support ticket 898 with various issues and complexities,0.740980384218268
+T0899,Network,Medium,Resolved,2024-02-07 11:00:00,3.438719194042662,U099,T19,3.417538321715743,Sample IT support ticket 899 with various issues and complexities,-0.14160901947261628
+T0900,Hardware,High,Resolved,2024-02-07 12:00:00,0.2784976290292044,U000,T00,4.298678847769119,Sample IT support ticket 900 with various issues and complexities,-0.2827881839369952
+T0901,Security,High,Open,2024-02-07 13:00:00,0.3989186473922187,U001,T01,4.249902568373257,Sample IT support ticket 901 with various issues and complexities,-0.23565786057555896
+T0902,Software,Critical,Resolved,2024-02-07 14:00:00,27.223004879557127,U002,T02,4.954188132333131,Sample IT support ticket 902 with various issues and complexities,0.3592087117358205
+T0903,Network,Medium,Resolved,2024-02-07 15:00:00,1.5818962376383572,U003,T03,2.9937054752728898,Sample IT support ticket 903 with various issues and complexities,-0.07887349161574263
+T0904,Network,Medium,Resolved,2024-02-07 16:00:00,5.516225070516448,U004,T04,4.585104202059994,Sample IT support ticket 904 with various issues and complexities,-0.32083341006519117
+T0905,Software,Medium,Resolved,2024-02-07 17:00:00,6.573324470926378,U005,T05,4.472337649001171,Sample IT support ticket 905 with various issues and complexities,0.8326759588117655
+T0906,Software,Low,Resolved,2024-02-07 18:00:00,7.808368460573301,U006,T06,3.886282770447563,Sample IT support ticket 906 with various issues and complexities,-0.42808492033087503
+T0907,Network,Low,In Progress,2024-02-07 19:00:00,24.176588744172935,U007,T07,4.270949854337352,Sample IT support ticket 907 with various issues and complexities,0.017783037016496764
+T0908,Network,Medium,Closed,2024-02-07 20:00:00,1.1056313855863884,U008,T08,4.823565985278686,Sample IT support ticket 908 with various issues and complexities,0.3261530758051152
+T0909,Software,Low,Resolved,2024-02-07 21:00:00,0.16475002382777176,U009,T09,4.69785230402276,Sample IT support ticket 909 with various issues and complexities,-0.8156675552085366
+T0910,Network,High,Resolved,2024-02-07 22:00:00,2.118617224365531,U010,T10,3.085584550341017,Sample IT support ticket 910 with various issues and complexities,0.24013025070296246
+T0911,Hardware,High,In Progress,2024-02-07 23:00:00,0.5574191822958255,U011,T11,4.656126549404387,Sample IT support ticket 911 with various issues and complexities,-0.5275538377402247
+T0912,Hardware,Medium,Resolved,2024-02-08 00:00:00,0.09072469313019166,U012,T12,3.948249115973985,Sample IT support ticket 912 with various issues and complexities,0.41139139041700123
+T0913,Software,High,Open,2024-02-08 01:00:00,1.7878169701013316,U013,T13,4.058299278412412,Sample IT support ticket 913 with various issues and complexities,-0.48132550595948814
+T0914,Security,Medium,Resolved,2024-02-08 02:00:00,6.125063217432244,U014,T14,4.058557592801356,Sample IT support ticket 914 with various issues and complexities,0.34638451592443026
+T0915,Software,Low,Closed,2024-02-08 03:00:00,3.3405086832129838,U015,T15,3.879805608961392,Sample IT support ticket 915 with various issues and complexities,0.5529165331473563
+T0916,Software,Critical,Resolved,2024-02-08 04:00:00,1.5003915166176656,U016,T16,4.953365997685652,Sample IT support ticket 916 with various issues and complexities,0.43071826281640246
+T0917,Security,High,Open,2024-02-08 05:00:00,4.249221791798666,U017,T17,3.9330256321206303,Sample IT support ticket 917 with various issues and complexities,0.1256583241190512
+T0918,Security,Medium,Open,2024-02-08 06:00:00,1.0559568735670197,U018,T18,3.104363097293465,Sample IT support ticket 918 with various issues and complexities,-0.11565047146484972
+T0919,Security,Low,Resolved,2024-02-08 07:00:00,0.05794344548815738,U019,T19,3.685176115224217,Sample IT support ticket 919 with various issues and complexities,-0.28820978816742193
+T0920,Hardware,Medium,In Progress,2024-02-08 08:00:00,5.781687985339641,U020,T00,4.142955773448381,Sample IT support ticket 920 with various issues and complexities,0.735517345408552
+T0921,Network,Medium,Open,2024-02-08 09:00:00,3.909932335955864,U021,T01,4.98337182743764,Sample IT support ticket 921 with various issues and complexities,-0.3497476100838216
+T0922,Hardware,Critical,Resolved,2024-02-08 10:00:00,5.747027783637686,U022,T02,4.482475747959067,Sample IT support ticket 922 with various issues and complexities,-0.5185330367849981
+T0923,Network,High,Resolved,2024-02-08 11:00:00,0.1588654933106589,U023,T03,3.319571777002365,Sample IT support ticket 923 with various issues and complexities,0.332684467516415
+T0924,Hardware,Low,In Progress,2024-02-08 12:00:00,7.258957042771601,U024,T04,5.0,Sample IT support ticket 924 with various issues and complexities,-0.3980684015932477
+T0925,Network,Low,Closed,2024-02-08 13:00:00,3.86535184365584,U025,T05,4.2118202487823835,Sample IT support ticket 925 with various issues and complexities,-0.4750317487330636
+T0926,Hardware,Critical,In Progress,2024-02-08 14:00:00,3.3149087442970084,U026,T06,5.0,Sample IT support ticket 926 with various issues and complexities,-0.7218021310848824
+T0927,Security,Low,Closed,2024-02-08 15:00:00,3.9192023090087433,U027,T07,3.8786284531382167,Sample IT support ticket 927 with various issues and complexities,-0.24145491973025884
+T0928,Software,Medium,Resolved,2024-02-08 16:00:00,7.993164467732879,U028,T08,4.426687395764359,Sample IT support ticket 928 with various issues and complexities,-0.0413575119482466
+T0929,Hardware,Low,Resolved,2024-02-08 17:00:00,3.536615842767779,U029,T09,4.671574803614724,Sample IT support ticket 929 with various issues and complexities,0.12154586383034939
+T0930,Network,Medium,Resolved,2024-02-08 18:00:00,3.479063763935276,U030,T10,4.974555769403405,Sample IT support ticket 930 with various issues and complexities,0.4756531221497417
+T0931,Security,Medium,Resolved,2024-02-08 19:00:00,18.70200884314821,U031,T11,4.8458946443025805,Sample IT support ticket 931 with various issues and complexities,0.26344896183289684
+T0932,Hardware,Medium,Closed,2024-02-08 20:00:00,5.6543361124787985,U032,T12,4.697757600058383,Sample IT support ticket 932 with various issues and complexities,-0.0954361097765899
+T0933,Hardware,Medium,In Progress,2024-02-08 21:00:00,2.335691953338357,U033,T13,3.747930615044713,Sample IT support ticket 933 with various issues and complexities,-0.09909783818985994
+T0934,Security,High,Closed,2024-02-08 22:00:00,4.915754150624871,U034,T14,3.5426031664351507,Sample IT support ticket 934 with various issues and complexities,0.2550787344575917
+T0935,Hardware,Critical,Resolved,2024-02-08 23:00:00,1.9721423801924343,U035,T15,4.266086008259358,Sample IT support ticket 935 with various issues and complexities,0.6362850814642848
+T0936,Software,Medium,Resolved,2024-02-09 00:00:00,1.0396215648166978,U036,T16,4.746502457872856,Sample IT support ticket 936 with various issues and complexities,0.0631570997416001
+T0937,Hardware,Medium,Resolved,2024-02-09 01:00:00,3.633804933675325,U037,T17,3.8218234393787145,Sample IT support ticket 937 with various issues and complexities,-0.23456542710520448
+T0938,Software,High,Resolved,2024-02-09 02:00:00,10.534486016464937,U038,T18,4.852137572571509,Sample IT support ticket 938 with various issues and complexities,-0.49643300054277273
+T0939,Software,Medium,In Progress,2024-02-09 03:00:00,10.588169623462246,U039,T19,5.0,Sample IT support ticket 939 with various issues and complexities,-0.7226026322061128
+T0940,Security,Low,Resolved,2024-02-09 04:00:00,1.673625615081052,U040,T00,3.266943264741264,Sample IT support ticket 940 with various issues and complexities,0.3331348360217616
+T0941,Hardware,High,Resolved,2024-02-09 05:00:00,3.0003727699482905,U041,T01,3.330463436962976,Sample IT support ticket 941 with various issues and complexities,0.2889892618197786
+T0942,Security,Medium,Resolved,2024-02-09 06:00:00,0.9511809527502533,U042,T02,3.887699952875731,Sample IT support ticket 942 with various issues and complexities,0.2886817625533308
+T0943,Hardware,Medium,Resolved,2024-02-09 07:00:00,21.732984768059264,U043,T03,4.246090134551357,Sample IT support ticket 943 with various issues and complexities,-0.06432972317602795
+T0944,Hardware,Low,Resolved,2024-02-09 08:00:00,15.878165249297249,U044,T04,3.580346388986359,Sample IT support ticket 944 with various issues and complexities,0.7034673729458754
+T0945,Network,High,Resolved,2024-02-09 09:00:00,4.193680199544384,U045,T05,5.0,Sample IT support ticket 945 with various issues and complexities,-0.24205924729240885
+T0946,Hardware,Medium,In Progress,2024-02-09 10:00:00,6.527021614826306,U046,T06,4.3392534892147605,Sample IT support ticket 946 with various issues and complexities,0.47763461860360273
+T0947,Security,Low,In Progress,2024-02-09 11:00:00,5.022470414339152,U047,T07,4.0315576385925915,Sample IT support ticket 947 with various issues and complexities,-0.019371447494771512
+T0948,Software,Low,Open,2024-02-09 12:00:00,3.5973236547560727,U048,T08,2.851272380905178,Sample IT support ticket 948 with various issues and complexities,-0.3041753823396688
+T0949,Hardware,Medium,Resolved,2024-02-09 13:00:00,0.21929490556786985,U049,T09,2.9473473468579945,Sample IT support ticket 949 with various issues and complexities,0.2962651536588807
+T0950,Network,Medium,In Progress,2024-02-09 14:00:00,2.4261487151618075,U050,T10,4.224807400225445,Sample IT support ticket 950 with various issues and complexities,0.20481805934199684
+T0951,Security,Medium,Closed,2024-02-09 15:00:00,4.4930911237565265,U051,T11,2.293923499076131,Sample IT support ticket 951 with various issues and complexities,0.17848637963346306
+T0952,Hardware,Low,Resolved,2024-02-09 16:00:00,4.5270007003905315,U052,T12,4.810109927715257,Sample IT support ticket 952 with various issues and complexities,0.04063921102809938
+T0953,Security,Medium,Resolved,2024-02-09 17:00:00,1.8680172845853915,U053,T13,3.873476924502144,Sample IT support ticket 953 with various issues and complexities,-0.018946540858415437
+T0954,Network,Critical,Resolved,2024-02-09 18:00:00,11.368062979806192,U054,T14,5.0,Sample IT support ticket 954 with various issues and complexities,1.1941859964352193
+T0955,Network,Low,In Progress,2024-02-09 19:00:00,0.7326013552922338,U055,T15,5.0,Sample IT support ticket 955 with various issues and complexities,0.5921283225980865
+T0956,Security,Medium,Resolved,2024-02-09 20:00:00,2.7754653260725592,U056,T16,3.8548407446019866,Sample IT support ticket 956 with various issues and complexities,0.36141344749275606
+T0957,Hardware,Medium,Resolved,2024-02-09 21:00:00,4.696154368565895,U057,T17,3.914930397974948,Sample IT support ticket 957 with various issues and complexities,0.05589957910169413
+T0958,Software,High,Resolved,2024-02-09 22:00:00,4.777883112838874,U058,T18,4.796465211201624,Sample IT support ticket 958 with various issues and complexities,0.5035786002983346
+T0959,Network,Medium,Resolved,2024-02-09 23:00:00,4.183763883928288,U059,T19,5.0,Sample IT support ticket 959 with various issues and complexities,0.25899738819572593
+T0960,Hardware,Medium,Closed,2024-02-10 00:00:00,1.2879249558457344,U060,T00,2.6895767540511866,Sample IT support ticket 960 with various issues and complexities,0.01310237638701783
+T0961,Hardware,Medium,Resolved,2024-02-10 01:00:00,0.6793902558838291,U061,T01,2.5708996277162504,Sample IT support ticket 961 with various issues and complexities,-0.15178216263295752
+T0962,Software,High,Resolved,2024-02-10 02:00:00,4.041749949969558,U062,T02,3.502372155556495,Sample IT support ticket 962 with various issues and complexities,-0.0404586688313441
+T0963,Network,Medium,Resolved,2024-02-10 03:00:00,3.658190169842564,U063,T03,4.466190066539092,Sample IT support ticket 963 with various issues and complexities,-1.5852128679390278
+T0964,Network,Low,Resolved,2024-02-10 04:00:00,0.7906635745862949,U064,T04,4.397498872406078,Sample IT support ticket 964 with various issues and complexities,0.10530041964882089
+T0965,Hardware,Critical,In Progress,2024-02-10 05:00:00,4.8850068552739545,U065,T05,4.85581716398708,Sample IT support ticket 965 with various issues and complexities,-0.24423804005517985
+T0966,Hardware,Low,Resolved,2024-02-10 06:00:00,2.429140461151117,U066,T06,3.0402419773077534,Sample IT support ticket 966 with various issues and complexities,0.796334999141442
+T0967,Software,Medium,Open,2024-02-10 07:00:00,4.40759784124486,U067,T07,2.1470849096248985,Sample IT support ticket 967 with various issues and complexities,0.009672035405877145
+T0968,Software,Low,Resolved,2024-02-10 08:00:00,7.265038563691161,U068,T08,4.686411356241717,Sample IT support ticket 968 with various issues and complexities,-0.5944817097674809
+T0969,Network,Low,Resolved,2024-02-10 09:00:00,0.7440097488892048,U069,T09,3.337442981627812,Sample IT support ticket 969 with various issues and complexities,-0.02494007706405885
+T0970,Security,Medium,In Progress,2024-02-10 10:00:00,0.07732201648256413,U070,T10,2.3852097084890893,Sample IT support ticket 970 with various issues and complexities,-0.5230605425312521
+T0971,Network,Medium,Closed,2024-02-10 11:00:00,6.040227508283624,U071,T11,4.116050996767505,Sample IT support ticket 971 with various issues and complexities,0.2367037078562332
+T0972,Hardware,Low,Closed,2024-02-10 12:00:00,3.763332030876959,U072,T12,4.6345405505749415,Sample IT support ticket 972 with various issues and complexities,0.14547368216974269
+T0973,Network,Medium,Resolved,2024-02-10 13:00:00,4.811088363512004,U073,T13,3.9023542943029783,Sample IT support ticket 973 with various issues and complexities,0.4789198155541338
+T0974,Security,Medium,Resolved,2024-02-10 14:00:00,7.284464149400434,U074,T14,3.6337212910540084,Sample IT support ticket 974 with various issues and complexities,-0.3954408958472827
+T0975,Software,Medium,Resolved,2024-02-10 15:00:00,6.494369155118141,U075,T15,3.872510214283275,Sample IT support ticket 975 with various issues and complexities,0.0170040481140734
+T0976,Security,Low,In Progress,2024-02-10 16:00:00,12.968592846032765,U076,T16,3.7035337900793737,Sample IT support ticket 976 with various issues and complexities,-0.6825108977133176
+T0977,Security,Low,Resolved,2024-02-10 17:00:00,3.0709232811050526,U077,T17,2.9215623104478663,Sample IT support ticket 977 with various issues and complexities,0.35074739096235724
+T0978,Security,Low,In Progress,2024-02-10 18:00:00,2.681596621310407,U078,T18,3.4282554584076546,Sample IT support ticket 978 with various issues and complexities,0.259435590220061
+T0979,Software,Medium,Resolved,2024-02-10 19:00:00,2.055903655497762,U079,T19,4.417023924011051,Sample IT support ticket 979 with various issues and complexities,0.24790251051378542
+T0980,Security,Low,In Progress,2024-02-10 20:00:00,0.6674831538425513,U080,T00,4.2573428331012,Sample IT support ticket 980 with various issues and complexities,0.00080951567847056
+T0981,Security,High,Resolved,2024-02-10 21:00:00,3.400207436884607,U081,T01,4.134447844773456,Sample IT support ticket 981 with various issues and complexities,0.20738644539439546
+T0982,Security,Medium,Closed,2024-02-10 22:00:00,1.297453518770434,U082,T02,3.2038812145172963,Sample IT support ticket 982 with various issues and complexities,0.8021695541542981
+T0983,Hardware,Critical,In Progress,2024-02-10 23:00:00,10.168830327604006,U083,T03,3.8547974702914662,Sample IT support ticket 983 with various issues and complexities,-0.14254712852100698
+T0984,Security,Medium,Resolved,2024-02-11 00:00:00,3.500506904445789,U084,T04,2.258347962845716,Sample IT support ticket 984 with various issues and complexities,0.06932259185504225
+T0985,Software,Medium,Closed,2024-02-11 01:00:00,3.5941979749307302,U085,T05,4.142781331108312,Sample IT support ticket 985 with various issues and complexities,-0.5430631495907049
+T0986,Security,Medium,Resolved,2024-02-11 02:00:00,1.753552656662696,U086,T06,5.0,Sample IT support ticket 986 with various issues and complexities,-0.43413048079916616
+T0987,Security,Medium,Resolved,2024-02-11 03:00:00,0.2135581787966754,U087,T07,2.8206942943663154,Sample IT support ticket 987 with various issues and complexities,0.04890664654665369
+T0988,Software,Medium,Resolved,2024-02-11 04:00:00,0.12903408616241924,U088,T08,3.5312578613457957,Sample IT support ticket 988 with various issues and complexities,0.5519667733509536
+T0989,Security,Medium,Resolved,2024-02-11 05:00:00,2.2019760812536235,U089,T09,4.263285422968104,Sample IT support ticket 989 with various issues and complexities,-0.12814041212578622
+T0990,Software,High,In Progress,2024-02-11 06:00:00,0.35342531946702727,U090,T10,5.0,Sample IT support ticket 990 with various issues and complexities,-0.11795826465606196
+T0991,Security,Medium,In Progress,2024-02-11 07:00:00,3.734225267252103,U091,T11,3.6414203069598803,Sample IT support ticket 991 with various issues and complexities,-0.20344262225218734
+T0992,Software,High,Resolved,2024-02-11 08:00:00,8.5136198729258,U092,T12,3.4461997365872827,Sample IT support ticket 992 with various issues and complexities,-0.26737833542216155
+T0993,Security,High,Resolved,2024-02-11 09:00:00,8.579414180607257,U093,T13,2.424861486067133,Sample IT support ticket 993 with various issues and complexities,0.14748572785441078
+T0994,Security,Medium,Resolved,2024-02-11 10:00:00,4.304023912437633,U094,T14,4.082750503446485,Sample IT support ticket 994 with various issues and complexities,-0.7486288225893223
+T0995,Hardware,Medium,Resolved,2024-02-11 11:00:00,0.949131323237405,U095,T15,5.0,Sample IT support ticket 995 with various issues and complexities,0.6404697883333638
+T0996,Hardware,Medium,Resolved,2024-02-11 12:00:00,7.951004898616483,U096,T16,4.221886769571741,Sample IT support ticket 996 with various issues and complexities,-0.33271114906473026
+T0997,Security,Medium,Resolved,2024-02-11 13:00:00,8.689507098642096,U097,T17,3.982176816653029,Sample IT support ticket 997 with various issues and complexities,0.3609517427190707
+T0998,Security,Medium,Closed,2024-02-11 14:00:00,0.8758770280288437,U098,T18,4.2576658486135885,Sample IT support ticket 998 with various issues and complexities,-0.6349992986969379
+T0999,Network,Low,Resolved,2024-02-11 15:00:00,5.348890634278562,U099,T19,3.991126396841118,Sample IT support ticket 999 with various issues and complexities,0.3344200652731091

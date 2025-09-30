@@ -1,0 +1,501 @@
+ticket_id,category,priority,status,created_at,resolution_time,user_id,technician_id,satisfaction_score,description
+T0000,Network,Medium,In Progress,2024-01-01 00:00:00,6.369090155726558,U000,T00,2.816870744980697,Sample IT support ticket 0: Software installation
+T0001,Security,Medium,Closed,2024-01-01 01:00:00,2.6274334410791784,U001,T01,4.146687935823325,Sample IT support ticket 1: Software installation
+T0002,Hardware,Low,Resolved,2024-01-01 02:00:00,0.4991166566960321,U002,T02,3.9877521206616033,Sample IT support ticket 2: Hardware malfunction
+T0003,Network,Medium,Resolved,2024-01-01 03:00:00,0.5349749964653536,U003,T03,4.463433199680871,Sample IT support ticket 3: Hardware malfunction
+T0004,Network,High,In Progress,2024-01-01 04:00:00,4.627915259778845,U004,T04,4.095664294731322,Sample IT support ticket 4: Printer not working
+T0005,Security,Medium,Resolved,2024-01-01 05:00:00,2.250622879696761,U005,T05,3.2215448472947554,Sample IT support ticket 5: Network connectivity issues
+T0006,Hardware,Low,Resolved,2024-01-01 06:00:00,0.8951986995665445,U006,T06,4.957257201331593,Sample IT support ticket 6: Printer not working
+T0007,Hardware,Medium,Resolved,2024-01-01 07:00:00,2.705904053637324,U007,T07,3.873176341578424,Sample IT support ticket 7: Printer not working
+T0008,Network,Medium,Resolved,2024-01-01 08:00:00,0.26545220317383866,U008,T08,3.9781563683920544,Sample IT support ticket 8: System slow performance
+T0009,Software,High,Resolved,2024-01-01 09:00:00,3.4888217292998025,U009,T09,3.253385632741443,Sample IT support ticket 9: Software installation
+T0010,Network,Medium,In Progress,2024-01-01 10:00:00,1.2533311864498295,U010,T10,3.645374199046792,Sample IT support ticket 10: System slow performance
+T0011,Network,Low,Resolved,2024-01-01 11:00:00,6.389229160127847,U011,T11,3.292157828778479,Sample IT support ticket 11: System slow performance
+T0012,Network,High,In Progress,2024-01-01 12:00:00,1.4863535887207753,U012,T12,3.8616431520612617,Sample IT support ticket 12: Login problems
+T0013,Network,Medium,Resolved,2024-01-01 13:00:00,2.42949403678125,U013,T13,5.0,Sample IT support ticket 13: Software installation
+T0014,Security,Low,Open,2024-01-01 14:00:00,0.04675434420372361,U014,T14,2.9024790856549147,Sample IT support ticket 14: Network connectivity issues
+T0015,Hardware,Medium,Resolved,2024-01-01 15:00:00,0.30082088922679145,U015,T15,2.7091508816986067,Sample IT support ticket 15: Email problems
+T0016,Security,Medium,Resolved,2024-01-01 16:00:00,1.9935699883428688,U016,T16,5.0,Sample IT support ticket 16: Hardware malfunction
+T0017,Security,Medium,Resolved,2024-01-01 17:00:00,2.6152353951200507,U017,T17,3.8325410582785073,Sample IT support ticket 17: Hardware malfunction
+T0018,Security,Medium,Resolved,2024-01-01 18:00:00,3.6653684139676534,U018,T18,3.4647418090720667,Sample IT support ticket 18: Network connectivity issues
+T0019,Network,Medium,Resolved,2024-01-01 19:00:00,1.3793388602978327,U019,T19,4.831923749916861,Sample IT support ticket 19: System slow performance
+T0020,Software,Low,In Progress,2024-01-01 20:00:00,4.749536457556744,U020,T00,3.515507568210509,Sample IT support ticket 20: Printer not working
+T0021,Hardware,Low,Resolved,2024-01-01 21:00:00,7.867950017612409,U021,T01,5.0,Sample IT support ticket 21: Login problems
+T0022,Software,Low,In Progress,2024-01-01 22:00:00,6.053802554790283,U022,T02,4.542340697071415,Sample IT support ticket 22: System slow performance
+T0023,Security,Low,Resolved,2024-01-01 23:00:00,0.16170006559081262,U023,T03,3.609670873483438,Sample IT support ticket 23: Hardware malfunction
+T0024,Security,Medium,Resolved,2024-01-02 00:00:00,2.619607366008433,U024,T04,5.0,Sample IT support ticket 24: Security alert
+T0025,Software,Medium,In Progress,2024-01-02 01:00:00,0.44341420323818453,U025,T05,3.515428061597329,Sample IT support ticket 25: Printer not working
+T0026,Software,Low,In Progress,2024-01-02 02:00:00,1.1085251311388729,U026,T06,4.593676297607446,Sample IT support ticket 26: Hardware malfunction
+T0027,Software,Medium,Resolved,2024-01-02 03:00:00,17.268730620917733,U027,T07,4.239434064325193,Sample IT support ticket 27: Security alert
+T0028,Security,Medium,Resolved,2024-01-02 04:00:00,0.6149156086922345,U028,T08,5.0,Sample IT support ticket 28: System slow performance
+T0029,Security,Low,Resolved,2024-01-02 05:00:00,2.7637038248360297,U029,T09,5.0,Sample IT support ticket 29: Network connectivity issues
+T0030,Hardware,Low,Resolved,2024-01-02 06:00:00,3.850969739845146,U030,T10,4.025603319252613,Sample IT support ticket 30: Network connectivity issues
+T0031,Hardware,Medium,Resolved,2024-01-02 07:00:00,4.848893259430953,U031,T11,3.397265703723053,Sample IT support ticket 31: Printer not working
+T0032,Security,Medium,In Progress,2024-01-02 08:00:00,3.2807296961524424,U032,T12,4.3679777143512935,Sample IT support ticket 32: Hardware malfunction
+T0033,Software,High,Resolved,2024-01-02 09:00:00,0.039275581538252904,U033,T13,3.457827704198315,Sample IT support ticket 33: Software installation
+T0034,Software,Medium,In Progress,2024-01-02 10:00:00,1.5808393439914405,U034,T14,5.0,Sample IT support ticket 34: Security alert
+T0035,Hardware,Critical,Closed,2024-01-02 11:00:00,2.916852374290733,U035,T15,4.10922826486619,Sample IT support ticket 35: Login problems
+T0036,Security,Medium,Resolved,2024-01-02 12:00:00,0.3678756684162029,U036,T16,3.707742758950313,Sample IT support ticket 36: Hardware malfunction
+T0037,Hardware,Medium,Resolved,2024-01-02 13:00:00,1.7269915643347304,U037,T17,4.147744244691927,Sample IT support ticket 37: Login problems
+T0038,Hardware,Medium,Resolved,2024-01-02 14:00:00,0.1350673828220962,U038,T18,2.922298968376243,Sample IT support ticket 38: Hardware malfunction
+T0039,Network,Medium,Closed,2024-01-02 15:00:00,0.327350758432349,U039,T19,3.222708769191479,Sample IT support ticket 39: Software installation
+T0040,Network,Critical,In Progress,2024-01-02 16:00:00,2.0228434141423794,U040,T00,4.96033112635554,Sample IT support ticket 40: Software installation
+T0041,Network,Critical,Resolved,2024-01-02 17:00:00,0.5695540236986455,U041,T01,3.474484576822883,Sample IT support ticket 41: Printer not working
+T0042,Software,Low,Resolved,2024-01-02 18:00:00,3.353069615672483,U042,T02,3.1624712138544484,Sample IT support ticket 42: Printer not working
+T0043,Security,Medium,Resolved,2024-01-02 19:00:00,4.677834252633736,U043,T03,4.429322202021829,Sample IT support ticket 43: Software installation
+T0044,Security,High,Open,2024-01-02 20:00:00,6.449502876443037,U044,T04,4.948563323730397,Sample IT support ticket 44: Email problems
+T0045,Security,Medium,Resolved,2024-01-02 21:00:00,0.8933254970313887,U045,T05,4.575162648532054,Sample IT support ticket 45: Software installation
+T0046,Security,Low,Closed,2024-01-02 22:00:00,0.7332045405403078,U046,T06,4.796838148644653,Sample IT support ticket 46: Network connectivity issues
+T0047,Network,High,Resolved,2024-01-02 23:00:00,0.4417952691403027,U047,T07,3.3945639291444314,Sample IT support ticket 47: Network connectivity issues
+T0048,Software,Medium,Resolved,2024-01-03 00:00:00,4.047136458816522,U048,T08,2.862551466606525,Sample IT support ticket 48: Email problems
+T0049,Software,High,Closed,2024-01-03 01:00:00,4.903179758046398,U049,T09,5.0,Sample IT support ticket 49: System slow performance
+T0050,Network,High,Resolved,2024-01-03 02:00:00,0.12838298694412845,U050,T10,3.7418561289262913,Sample IT support ticket 50: Security alert
+T0051,Software,Medium,In Progress,2024-01-03 03:00:00,11.008776217795635,U051,T11,3.799333586835962,Sample IT support ticket 51: System slow performance
+T0052,Network,Medium,Resolved,2024-01-03 04:00:00,0.21348194271603213,U052,T12,5.0,Sample IT support ticket 52: Login problems
+T0053,Security,Medium,Resolved,2024-01-03 05:00:00,3.117403552382488,U053,T13,4.444984007520528,Sample IT support ticket 53: System slow performance
+T0054,Network,Medium,Resolved,2024-01-03 06:00:00,4.938560016244956,U054,T14,4.364710217665286,Sample IT support ticket 54: Hardware malfunction
+T0055,Security,Low,Resolved,2024-01-03 07:00:00,8.190814209819044,U055,T15,5.0,Sample IT support ticket 55: System slow performance
+T0056,Security,Medium,Closed,2024-01-03 08:00:00,5.008269891488105,U056,T16,3.4851854156958857,Sample IT support ticket 56: Hardware malfunction
+T0057,Hardware,Medium,Closed,2024-01-03 09:00:00,6.472463490386904,U057,T17,4.74227210246499,Sample IT support ticket 57: Email problems
+T0058,Network,Low,Resolved,2024-01-03 10:00:00,1.6587309965857344,U058,T18,4.045610499917667,Sample IT support ticket 58: Network connectivity issues
+T0059,Hardware,Medium,In Progress,2024-01-03 11:00:00,6.7458182773916935,U059,T19,4.214873823090605,Sample IT support ticket 59: Printer not working
+T0060,Network,Medium,Closed,2024-01-03 12:00:00,0.3340257990326506,U060,T00,5.0,Sample IT support ticket 60: Hardware malfunction
+T0061,Network,High,Resolved,2024-01-03 13:00:00,9.008201275140864,U061,T01,4.406268605031699,Sample IT support ticket 61: Network connectivity issues
+T0062,Hardware,Critical,In Progress,2024-01-03 14:00:00,3.172686731515718,U062,T02,4.430636863239706,Sample IT support ticket 62: Security alert
+T0063,Hardware,Low,Closed,2024-01-03 15:00:00,6.799590438662075,U063,T03,4.858005869847842,Sample IT support ticket 63: Login problems
+T0064,Network,Low,Resolved,2024-01-03 16:00:00,2.4082438877401855,U064,T04,3.7080378163656915,Sample IT support ticket 64: Security alert
+T0065,Software,Medium,Resolved,2024-01-03 17:00:00,4.126556006880355,U065,T05,3.328632266128795,Sample IT support ticket 65: Email problems
+T0066,Security,Medium,Resolved,2024-01-03 18:00:00,2.9895912558350783,U066,T06,3.164152644783173,Sample IT support ticket 66: System slow performance
+T0067,Hardware,High,Resolved,2024-01-03 19:00:00,5.260951339947683,U067,T07,2.4269147284991988,Sample IT support ticket 67: System slow performance
+T0068,Security,High,Open,2024-01-03 20:00:00,0.34061959955582466,U068,T08,5.0,Sample IT support ticket 68: Software installation
+T0069,Software,Medium,Resolved,2024-01-03 21:00:00,0.2490001252760603,U069,T09,3.1174333074226537,Sample IT support ticket 69: Software installation
+T0070,Software,Medium,Resolved,2024-01-03 22:00:00,1.1353086301596655,U070,T10,3.8229971011313824,Sample IT support ticket 70: Software installation
+T0071,Software,Medium,Open,2024-01-03 23:00:00,0.6952459460606002,U071,T11,3.7785493600888636,Sample IT support ticket 71: Security alert
+T0072,Hardware,Medium,Resolved,2024-01-04 00:00:00,8.216142228009593,U072,T12,4.2459253582472805,Sample IT support ticket 72: Hardware malfunction
+T0073,Software,Medium,Resolved,2024-01-04 01:00:00,0.9898166327222158,U073,T13,4.652589770031438,Sample IT support ticket 73: Login problems
+T0074,Hardware,Low,Resolved,2024-01-04 02:00:00,14.896411237736373,U074,T14,4.688378790687796,Sample IT support ticket 74: Software installation
+T0075,Software,Medium,Closed,2024-01-04 03:00:00,1.6432924973257172,U075,T15,3.533538049144849,Sample IT support ticket 75: Email problems
+T0076,Security,Medium,Resolved,2024-01-04 04:00:00,0.8041484159154115,U076,T16,3.8663026289708706,Sample IT support ticket 76: Email problems
+T0077,Security,Medium,Resolved,2024-01-04 05:00:00,6.23685239037739,U077,T17,4.22606396039064,Sample IT support ticket 77: Software installation
+T0078,Network,Medium,Resolved,2024-01-04 06:00:00,4.300064821366075,U078,T18,3.801047099053162,Sample IT support ticket 78: System slow performance
+T0079,Security,High,Resolved,2024-01-04 07:00:00,2.758180434893735,U079,T19,5.0,Sample IT support ticket 79: Software installation
+T0080,Network,Medium,In Progress,2024-01-04 08:00:00,3.2419931964624826,U080,T00,4.392779961310601,Sample IT support ticket 80: Login problems
+T0081,Security,Low,Resolved,2024-01-04 09:00:00,5.080475758915865,U081,T01,4.587902228839854,Sample IT support ticket 81: Software installation
+T0082,Hardware,Critical,In Progress,2024-01-04 10:00:00,1.037439782746827,U082,T02,4.53030501493393,Sample IT support ticket 82: Login problems
+T0083,Security,High,In Progress,2024-01-04 11:00:00,22.434524928190818,U083,T03,4.93877908598826,Sample IT support ticket 83: Email problems
+T0084,Network,Critical,Resolved,2024-01-04 12:00:00,14.72255991156038,U084,T04,4.144817246962965,Sample IT support ticket 84: Software installation
+T0085,Network,Critical,Resolved,2024-01-04 13:00:00,4.203012360530227,U085,T05,2.9625344416353228,Sample IT support ticket 85: Security alert
+T0086,Software,Low,Closed,2024-01-04 14:00:00,0.8902871138755734,U086,T06,4.3197503614021135,Sample IT support ticket 86: Printer not working
+T0087,Hardware,Medium,Resolved,2024-01-04 15:00:00,4.560591181101475,U087,T07,3.4789144849665368,Sample IT support ticket 87: Security alert
+T0088,Security,Medium,Resolved,2024-01-04 16:00:00,0.29974948733717316,U088,T08,3.5771066546001946,Sample IT support ticket 88: Email problems
+T0089,Software,High,Resolved,2024-01-04 17:00:00,0.12452846609447792,U089,T09,4.469091215004075,Sample IT support ticket 89: Login problems
+T0090,Security,Medium,Open,2024-01-04 18:00:00,1.1919150125555862,U090,T10,4.990626457146909,Sample IT support ticket 90: Security alert
+T0091,Security,Medium,Resolved,2024-01-04 19:00:00,2.4842212074937557,U091,T11,4.017017261388849,Sample IT support ticket 91: Login problems
+T0092,Software,High,In Progress,2024-01-04 20:00:00,8.108079700763362,U092,T12,4.247066410079171,Sample IT support ticket 92: Security alert
+T0093,Software,Medium,Closed,2024-01-04 21:00:00,5.195611915271556,U093,T13,5.0,Sample IT support ticket 93: Security alert
+T0094,Software,Medium,In Progress,2024-01-04 22:00:00,5.430151618997288,U094,T14,4.192602543590855,Sample IT support ticket 94: Login problems
+T0095,Software,Medium,Resolved,2024-01-04 23:00:00,2.2169743176296555,U095,T15,5.0,Sample IT support ticket 95: Hardware malfunction
+T0096,Software,Medium,Open,2024-01-05 00:00:00,1.6981941307579305,U096,T16,4.452407716505236,Sample IT support ticket 96: Security alert
+T0097,Security,Critical,Closed,2024-01-05 01:00:00,1.8547426021891882,U097,T17,2.5913897926753457,Sample IT support ticket 97: Software installation
+T0098,Software,Medium,Resolved,2024-01-05 02:00:00,17.576255566066017,U098,T18,4.602673296883626,Sample IT support ticket 98: Printer not working
+T0099,Hardware,Medium,Resolved,2024-01-05 03:00:00,0.16374296817571468,U099,T19,4.304926707906223,Sample IT support ticket 99: Email problems
+T0100,Network,Medium,Open,2024-01-05 04:00:00,8.070571967022955,U000,T00,5.0,Sample IT support ticket 100: Hardware malfunction
+T0101,Software,Low,Resolved,2024-01-05 05:00:00,3.45740696541065,U001,T01,4.538545081015966,Sample IT support ticket 101: Login problems
+T0102,Software,Medium,In Progress,2024-01-05 06:00:00,2.309396324138638,U002,T02,3.889235212812981,Sample IT support ticket 102: Hardware malfunction
+T0103,Security,High,Resolved,2024-01-05 07:00:00,5.167686269955482,U003,T03,3.0205614109685075,Sample IT support ticket 103: Network connectivity issues
+T0104,Software,High,In Progress,2024-01-05 08:00:00,2.667337214396856,U004,T04,3.83278139417118,Sample IT support ticket 104: Network connectivity issues
+T0105,Software,Medium,In Progress,2024-01-05 09:00:00,8.267625365071067,U005,T05,3.3195836366325597,Sample IT support ticket 105: Security alert
+T0106,Software,Critical,Open,2024-01-05 10:00:00,9.238513918481498,U006,T06,3.5355812401562217,Sample IT support ticket 106: Security alert
+T0107,Security,Medium,Resolved,2024-01-05 11:00:00,2.190794805416099,U007,T07,4.470862723536488,Sample IT support ticket 107: Software installation
+T0108,Software,Low,Resolved,2024-01-05 12:00:00,1.2964316283405677,U008,T08,5.0,Sample IT support ticket 108: Printer not working
+T0109,Network,Medium,Open,2024-01-05 13:00:00,3.589388487763637,U009,T09,4.315737223858385,Sample IT support ticket 109: Email problems
+T0110,Security,Medium,Resolved,2024-01-05 14:00:00,9.738223758094396,U010,T10,3.0432935503718523,Sample IT support ticket 110: Hardware malfunction
+T0111,Network,Medium,Resolved,2024-01-05 15:00:00,0.9462435958000982,U011,T11,4.355682134576113,Sample IT support ticket 111: Network connectivity issues
+T0112,Security,Medium,Resolved,2024-01-05 16:00:00,3.9016858307983022,U012,T12,4.957305189316521,Sample IT support ticket 112: Security alert
+T0113,Software,Medium,Resolved,2024-01-05 17:00:00,3.993912000902174,U013,T13,3.512173676544494,Sample IT support ticket 113: System slow performance
+T0114,Network,Low,Resolved,2024-01-05 18:00:00,5.283720060507422,U014,T14,3.8927862666616657,Sample IT support ticket 114: System slow performance
+T0115,Security,Medium,Resolved,2024-01-05 19:00:00,0.5642625188106417,U015,T15,4.011750555783357,Sample IT support ticket 115: Email problems
+T0116,Hardware,Low,In Progress,2024-01-05 20:00:00,5.0326596365084395,U016,T16,3.372081349534208,Sample IT support ticket 116: Hardware malfunction
+T0117,Software,Low,In Progress,2024-01-05 21:00:00,9.58901282515698,U017,T17,4.518624347075087,Sample IT support ticket 117: Security alert
+T0118,Security,High,Resolved,2024-01-05 22:00:00,0.7922582431205782,U018,T18,3.9032414811137746,Sample IT support ticket 118: Security alert
+T0119,Hardware,High,Closed,2024-01-05 23:00:00,1.0848383667486479,U019,T19,4.335625955125622,Sample IT support ticket 119: Network connectivity issues
+T0120,Security,High,Resolved,2024-01-06 00:00:00,14.216708155446046,U020,T00,3.29000625775832,Sample IT support ticket 120: Network connectivity issues
+T0121,Hardware,Critical,In Progress,2024-01-06 01:00:00,0.7985722190206316,U021,T01,3.6500333597412715,Sample IT support ticket 121: Security alert
+T0122,Software,High,Resolved,2024-01-06 02:00:00,7.707159071026632,U022,T02,4.577905086262217,Sample IT support ticket 122: Login problems
+T0123,Network,Medium,Resolved,2024-01-06 03:00:00,2.7112837702141963,U023,T03,3.7017334783265863,Sample IT support ticket 123: Security alert
+T0124,Hardware,High,Open,2024-01-06 04:00:00,1.1359878799774819,U024,T04,5.0,Sample IT support ticket 124: Email problems
+T0125,Security,Medium,In Progress,2024-01-06 05:00:00,8.184024006979396,U025,T05,3.680291051508318,Sample IT support ticket 125: Security alert
+T0126,Software,Low,Resolved,2024-01-06 06:00:00,2.357349302239823,U026,T06,4.179747780601509,Sample IT support ticket 126: Software installation
+T0127,Hardware,Critical,Resolved,2024-01-06 07:00:00,2.8929194764044723,U027,T07,4.746072665498472,Sample IT support ticket 127: Printer not working
+T0128,Security,Low,Open,2024-01-06 08:00:00,1.7803598367112314,U028,T08,2.8653074136535746,Sample IT support ticket 128: Software installation
+T0129,Security,Medium,In Progress,2024-01-06 09:00:00,3.595285370740314,U029,T09,2.591352950415379,Sample IT support ticket 129: Software installation
+T0130,Security,High,In Progress,2024-01-06 10:00:00,0.7142291904705255,U030,T10,2.779474948343924,Sample IT support ticket 130: Login problems
+T0131,Hardware,Medium,Resolved,2024-01-06 11:00:00,1.9842836254538943,U031,T11,5.0,Sample IT support ticket 131: Login problems
+T0132,Hardware,Medium,Open,2024-01-06 12:00:00,13.948632167284575,U032,T12,3.5585134832860428,Sample IT support ticket 132: System slow performance
+T0133,Hardware,Low,In Progress,2024-01-06 13:00:00,1.1943435216960248,U033,T13,5.0,Sample IT support ticket 133: Security alert
+T0134,Network,Medium,Resolved,2024-01-06 14:00:00,4.277029538068411,U034,T14,3.548601921074089,Sample IT support ticket 134: Software installation
+T0135,Hardware,Low,In Progress,2024-01-06 15:00:00,1.5732968175557083,U035,T15,4.1476410425576296,Sample IT support ticket 135: Login problems
+T0136,Hardware,Medium,Resolved,2024-01-06 16:00:00,5.93956676282866,U036,T16,5.0,Sample IT support ticket 136: Network connectivity issues
+T0137,Hardware,High,In Progress,2024-01-06 17:00:00,0.561067118440547,U037,T17,5.0,Sample IT support ticket 137: Security alert
+T0138,Network,Low,Open,2024-01-06 18:00:00,14.0024418176976,U038,T18,5.0,Sample IT support ticket 138: Email problems
+T0139,Hardware,Low,In Progress,2024-01-06 19:00:00,2.419003688658951,U039,T19,4.9666929844745145,Sample IT support ticket 139: Printer not working
+T0140,Security,Low,Resolved,2024-01-06 20:00:00,1.077014173990881,U040,T00,4.81925002064917,Sample IT support ticket 140: Hardware malfunction
+T0141,Hardware,Medium,Resolved,2024-01-06 21:00:00,0.3053508902237483,U041,T01,4.4740215593609465,Sample IT support ticket 141: Security alert
+T0142,Security,Medium,Resolved,2024-01-06 22:00:00,0.7441517604183757,U042,T02,4.6226888609333106,Sample IT support ticket 142: Hardware malfunction
+T0143,Security,Low,Resolved,2024-01-06 23:00:00,2.933993381718326,U043,T03,3.5590514269371734,Sample IT support ticket 143: Software installation
+T0144,Security,Medium,Resolved,2024-01-07 00:00:00,1.6439403192206665,U044,T04,3.345440893262154,Sample IT support ticket 144: Printer not working
+T0145,Network,Low,In Progress,2024-01-07 01:00:00,7.06163953648863,U045,T05,3.997300434071238,Sample IT support ticket 145: Hardware malfunction
+T0146,Network,Low,In Progress,2024-01-07 02:00:00,2.2547087627423696,U046,T06,3.8638523019800575,Sample IT support ticket 146: Software installation
+T0147,Network,Medium,Resolved,2024-01-07 03:00:00,1.143876947903404,U047,T07,3.63741756053818,Sample IT support ticket 147: Network connectivity issues
+T0148,Hardware,Low,Open,2024-01-07 04:00:00,3.840395666293871,U048,T08,4.557109957965372,Sample IT support ticket 148: Hardware malfunction
+T0149,Security,Low,Open,2024-01-07 05:00:00,4.9072904278373795,U049,T09,4.764244166856408,Sample IT support ticket 149: Printer not working
+T0150,Network,High,In Progress,2024-01-07 06:00:00,0.7310877907433873,U050,T10,4.070725509033478,Sample IT support ticket 150: System slow performance
+T0151,Network,Low,Open,2024-01-07 07:00:00,0.7338610805230428,U051,T11,5.0,Sample IT support ticket 151: Security alert
+T0152,Hardware,Medium,In Progress,2024-01-07 08:00:00,0.14944291203793095,U052,T12,3.086648708693196,Sample IT support ticket 152: Software installation
+T0153,Network,Low,Resolved,2024-01-07 09:00:00,5.333320483159336,U053,T13,3.8450724325762256,Sample IT support ticket 153: Security alert
+T0154,Hardware,Medium,Resolved,2024-01-07 10:00:00,4.360250100588396,U054,T14,3.426542143517756,Sample IT support ticket 154: Printer not working
+T0155,Software,Low,Resolved,2024-01-07 11:00:00,2.574616678541171,U055,T15,2.506770706341552,Sample IT support ticket 155: Login problems
+T0156,Network,Medium,Resolved,2024-01-07 12:00:00,7.4359699627046005,U056,T16,3.9338554513258406,Sample IT support ticket 156: Software installation
+T0157,Software,Critical,Resolved,2024-01-07 13:00:00,6.5527932846774055,U057,T17,3.902601993293373,Sample IT support ticket 157: Hardware malfunction
+T0158,Hardware,Low,In Progress,2024-01-07 14:00:00,3.5213240545436864,U058,T18,5.0,Sample IT support ticket 158: Software installation
+T0159,Security,High,Resolved,2024-01-07 15:00:00,8.10804250611601,U059,T19,4.504649347643822,Sample IT support ticket 159: Security alert
+T0160,Network,Medium,Resolved,2024-01-07 16:00:00,0.9218874014822942,U060,T00,3.180650540536636,Sample IT support ticket 160: Network connectivity issues
+T0161,Hardware,Low,In Progress,2024-01-07 17:00:00,0.4747720855611383,U061,T01,5.0,Sample IT support ticket 161: Software installation
+T0162,Security,Low,Resolved,2024-01-07 18:00:00,1.2574712229124316,U062,T02,4.9768269564202825,Sample IT support ticket 162: Hardware malfunction
+T0163,Security,Medium,Resolved,2024-01-07 19:00:00,0.23512442691985083,U063,T03,4.465678162774893,Sample IT support ticket 163: Login problems
+T0164,Software,Medium,Resolved,2024-01-07 20:00:00,3.0300561713357754,U064,T04,3.8188127209201346,Sample IT support ticket 164: System slow performance
+T0165,Hardware,Medium,Resolved,2024-01-07 21:00:00,11.033524821607866,U065,T05,3.232448610621216,Sample IT support ticket 165: Email problems
+T0166,Security,Medium,In Progress,2024-01-07 22:00:00,0.16055366563752893,U066,T06,3.7022345791431577,Sample IT support ticket 166: Network connectivity issues
+T0167,Network,Medium,Closed,2024-01-07 23:00:00,0.520935519932467,U067,T07,4.870998895763349,Sample IT support ticket 167: System slow performance
+T0168,Network,Medium,Resolved,2024-01-08 00:00:00,2.4073729932077237,U068,T08,5.0,Sample IT support ticket 168: Login problems
+T0169,Software,Low,In Progress,2024-01-08 01:00:00,10.864834615503979,U069,T09,5.0,Sample IT support ticket 169: Software installation
+T0170,Security,Low,Resolved,2024-01-08 02:00:00,1.520102444227148,U070,T10,3.6089204625709805,Sample IT support ticket 170: Security alert
+T0171,Hardware,Low,Resolved,2024-01-08 03:00:00,2.8308900150853806,U071,T11,3.104306053368791,Sample IT support ticket 171: Printer not working
+T0172,Network,High,Resolved,2024-01-08 04:00:00,0.16984693200420678,U072,T12,4.112708997528963,Sample IT support ticket 172: Security alert
+T0173,Security,Medium,Resolved,2024-01-08 05:00:00,0.6422866053456757,U073,T13,2.5852485075497187,Sample IT support ticket 173: System slow performance
+T0174,Security,High,Resolved,2024-01-08 06:00:00,17.259004338133515,U074,T14,4.258534171347825,Sample IT support ticket 174: Hardware malfunction
+T0175,Software,Medium,Open,2024-01-08 07:00:00,13.423217231279637,U075,T15,3.881917930961065,Sample IT support ticket 175: Security alert
+T0176,Network,Medium,In Progress,2024-01-08 08:00:00,0.019808891895310463,U076,T16,3.6271707985054062,Sample IT support ticket 176: Network connectivity issues
+T0177,Network,Low,Resolved,2024-01-08 09:00:00,12.130563194715261,U077,T17,2.7242375461865636,Sample IT support ticket 177: Security alert
+T0178,Hardware,Medium,Resolved,2024-01-08 10:00:00,4.076838454274004,U078,T18,4.410880085255773,Sample IT support ticket 178: Hardware malfunction
+T0179,Network,High,In Progress,2024-01-08 11:00:00,8.097338267906043,U079,T19,3.573839328270471,Sample IT support ticket 179: Email problems
+T0180,Hardware,High,In Progress,2024-01-08 12:00:00,2.425969076368038,U080,T00,3.0640665314317697,Sample IT support ticket 180: Software installation
+T0181,Network,Low,Resolved,2024-01-08 13:00:00,2.8993442747910843,U081,T01,1.7021902293746805,Sample IT support ticket 181: Printer not working
+T0182,Software,Medium,Closed,2024-01-08 14:00:00,2.68434199803544,U082,T02,3.977988075959491,Sample IT support ticket 182: System slow performance
+T0183,Network,High,Resolved,2024-01-08 15:00:00,4.3968209482623335,U083,T03,5.0,Sample IT support ticket 183: Software installation
+T0184,Hardware,High,In Progress,2024-01-08 16:00:00,0.6016698168378287,U084,T04,5.0,Sample IT support ticket 184: Security alert
+T0185,Hardware,Medium,In Progress,2024-01-08 17:00:00,0.12172792367988508,U085,T05,3.6343229947309825,Sample IT support ticket 185: Login problems
+T0186,Software,High,Open,2024-01-08 18:00:00,1.4722723520551235,U086,T06,3.5182303517105753,Sample IT support ticket 186: Software installation
+T0187,Network,Low,Closed,2024-01-08 19:00:00,4.878793390163358,U087,T07,4.375019404860019,Sample IT support ticket 187: Email problems
+T0188,Network,Medium,In Progress,2024-01-08 20:00:00,0.9018522177464414,U088,T08,3.2012916486493666,Sample IT support ticket 188: Security alert
+T0189,Software,High,Resolved,2024-01-08 21:00:00,4.476473637327916,U089,T09,4.241433519855573,Sample IT support ticket 189: Printer not working
+T0190,Network,High,In Progress,2024-01-08 22:00:00,14.014521560916839,U090,T10,4.612864222707753,Sample IT support ticket 190: Hardware malfunction
+T0191,Network,Low,Resolved,2024-01-08 23:00:00,0.39442557488714786,U091,T11,4.981546579107446,Sample IT support ticket 191: Email problems
+T0192,Hardware,Medium,Resolved,2024-01-09 00:00:00,4.466316335618145,U092,T12,3.9198767388160376,Sample IT support ticket 192: Security alert
+T0193,Network,Medium,Resolved,2024-01-09 01:00:00,2.346151359028694,U093,T13,3.8370609998584273,Sample IT support ticket 193: Email problems
+T0194,Network,Low,In Progress,2024-01-09 02:00:00,8.104126488774066,U094,T14,3.297613930594751,Sample IT support ticket 194: Software installation
+T0195,Software,Low,Open,2024-01-09 03:00:00,0.7799243962345752,U095,T15,3.338495716768112,Sample IT support ticket 195: Printer not working
+T0196,Software,Low,In Progress,2024-01-09 04:00:00,4.718759505521415,U096,T16,3.8188168864787784,Sample IT support ticket 196: Hardware malfunction
+T0197,Security,Low,Closed,2024-01-09 05:00:00,7.283483446390583,U097,T17,4.293892405452943,Sample IT support ticket 197: Security alert
+T0198,Hardware,Medium,Resolved,2024-01-09 06:00:00,11.573729549521092,U098,T18,4.730867700986599,Sample IT support ticket 198: Network connectivity issues
+T0199,Network,High,Resolved,2024-01-09 07:00:00,4.598544939938488,U099,T19,3.357456839455724,Sample IT support ticket 199: System slow performance
+T0200,Network,Low,Resolved,2024-01-09 08:00:00,2.7500504504461585,U000,T00,5.0,Sample IT support ticket 200: Hardware malfunction
+T0201,Security,Medium,Resolved,2024-01-09 09:00:00,3.847739422203766,U001,T01,3.783101119165945,Sample IT support ticket 201: Network connectivity issues
+T0202,Network,Medium,In Progress,2024-01-09 10:00:00,8.127331637471645,U002,T02,3.982906164521251,Sample IT support ticket 202: Email problems
+T0203,Hardware,Low,Closed,2024-01-09 11:00:00,3.3815563682760232,U003,T03,3.4022306566817413,Sample IT support ticket 203: Login problems
+T0204,Security,High,Resolved,2024-01-09 12:00:00,0.12343327093562079,U004,T04,2.0606077917816465,Sample IT support ticket 204: Hardware malfunction
+T0205,Hardware,Medium,Resolved,2024-01-09 13:00:00,10.691622029196692,U005,T05,4.70723631708884,Sample IT support ticket 205: Email problems
+T0206,Security,Critical,Resolved,2024-01-09 14:00:00,4.678630144044601,U006,T06,4.589475117673946,Sample IT support ticket 206: Network connectivity issues
+T0207,Security,Medium,Open,2024-01-09 15:00:00,4.514390175517956,U007,T07,3.7749379543054293,Sample IT support ticket 207: Software installation
+T0208,Software,High,In Progress,2024-01-09 16:00:00,0.9717279920720958,U008,T08,4.0535925737798975,Sample IT support ticket 208: Software installation
+T0209,Hardware,High,Resolved,2024-01-09 17:00:00,4.302147974672355,U009,T09,4.41275137416328,Sample IT support ticket 209: Login problems
+T0210,Network,High,Open,2024-01-09 18:00:00,2.0026062595834353,U010,T10,2.749963314490766,Sample IT support ticket 210: System slow performance
+T0211,Network,Medium,Resolved,2024-01-09 19:00:00,4.213404542748946,U011,T11,3.576757858122964,Sample IT support ticket 211: Hardware malfunction
+T0212,Hardware,Medium,In Progress,2024-01-09 20:00:00,0.4508522751307842,U012,T12,4.635411743697462,Sample IT support ticket 212: Hardware malfunction
+T0213,Network,Medium,Resolved,2024-01-09 21:00:00,4.289969273863426,U013,T13,2.9965684614646007,Sample IT support ticket 213: Hardware malfunction
+T0214,Network,Low,In Progress,2024-01-09 22:00:00,29.766891638817622,U014,T14,4.234846345733303,Sample IT support ticket 214: System slow performance
+T0215,Hardware,Medium,Resolved,2024-01-09 23:00:00,0.19765199557720275,U015,T15,2.914734556301276,Sample IT support ticket 215: Email problems
+T0216,Security,Medium,Resolved,2024-01-10 00:00:00,15.119452450248914,U016,T16,4.373143985946821,Sample IT support ticket 216: Printer not working
+T0217,Hardware,Low,In Progress,2024-01-10 01:00:00,2.089622729818389,U017,T17,3.971486814162013,Sample IT support ticket 217: Printer not working
+T0218,Security,High,Resolved,2024-01-10 02:00:00,8.184133844063012,U018,T18,2.7078945472755924,Sample IT support ticket 218: Login problems
+T0219,Network,Low,Resolved,2024-01-10 03:00:00,6.10012022773717,U019,T19,4.931791483565737,Sample IT support ticket 219: Hardware malfunction
+T0220,Network,Critical,Resolved,2024-01-10 04:00:00,3.3482204237062096,U020,T00,3.4123267385615605,Sample IT support ticket 220: Email problems
+T0221,Network,Low,Closed,2024-01-10 05:00:00,5.364507143410634,U021,T01,3.351798050388495,Sample IT support ticket 221: Software installation
+T0222,Software,Critical,Resolved,2024-01-10 06:00:00,8.431876403833359,U022,T02,4.1604553577847545,Sample IT support ticket 222: Network connectivity issues
+T0223,Security,Low,In Progress,2024-01-10 07:00:00,2.071000314594811,U023,T03,4.918909879542972,Sample IT support ticket 223: Email problems
+T0224,Software,Medium,Open,2024-01-10 08:00:00,1.5842368991640259,U024,T04,3.1873425448172825,Sample IT support ticket 224: System slow performance
+T0225,Software,Low,In Progress,2024-01-10 09:00:00,4.405585268689228,U025,T05,4.049343879878378,Sample IT support ticket 225: Printer not working
+T0226,Hardware,High,Resolved,2024-01-10 10:00:00,6.597831371884293,U026,T06,4.343053200264459,Sample IT support ticket 226: Printer not working
+T0227,Software,Medium,Open,2024-01-10 11:00:00,5.746733475282048,U027,T07,4.554484485810515,Sample IT support ticket 227: Software installation
+T0228,Hardware,Low,Resolved,2024-01-10 12:00:00,6.394261905791102,U028,T08,4.14115324422178,Sample IT support ticket 228: Software installation
+T0229,Hardware,Medium,Resolved,2024-01-10 13:00:00,2.287849986967546,U029,T09,3.706377728733342,Sample IT support ticket 229: System slow performance
+T0230,Software,Medium,Resolved,2024-01-10 14:00:00,6.811352425543453,U030,T10,3.3379278234810243,Sample IT support ticket 230: Network connectivity issues
+T0231,Security,Medium,Resolved,2024-01-10 15:00:00,0.5122838506142858,U031,T11,4.0689151064371,Sample IT support ticket 231: Software installation
+T0232,Security,Medium,In Progress,2024-01-10 16:00:00,3.1453425133771318,U032,T12,3.1422887904115147,Sample IT support ticket 232: Login problems
+T0233,Security,Medium,Open,2024-01-10 17:00:00,0.023101222065015418,U033,T13,1.662919613204314,Sample IT support ticket 233: Network connectivity issues
+T0234,Security,Medium,Resolved,2024-01-10 18:00:00,1.5697167637727514,U034,T14,4.349247843326134,Sample IT support ticket 234: Software installation
+T0235,Security,Low,Resolved,2024-01-10 19:00:00,1.8257382505167445,U035,T15,4.723147872868957,Sample IT support ticket 235: Security alert
+T0236,Software,Critical,Resolved,2024-01-10 20:00:00,2.0178681407546697,U036,T16,2.109654051566529,Sample IT support ticket 236: Email problems
+T0237,Software,Medium,Resolved,2024-01-10 21:00:00,4.755906008124577,U037,T17,3.19221543623205,Sample IT support ticket 237: Software installation
+T0238,Network,Low,In Progress,2024-01-10 22:00:00,1.967741370845626,U038,T18,4.4953234088041585,Sample IT support ticket 238: Login problems
+T0239,Security,Low,Resolved,2024-01-10 23:00:00,2.381858342255714,U039,T19,5.0,Sample IT support ticket 239: Hardware malfunction
+T0240,Software,Medium,Resolved,2024-01-11 00:00:00,1.0848425949279117,U040,T00,4.016634966140327,Sample IT support ticket 240: Software installation
+T0241,Network,Medium,Resolved,2024-01-11 01:00:00,1.8688416022027048,U041,T01,3.4175976470166924,Sample IT support ticket 241: Printer not working
+T0242,Security,Medium,In Progress,2024-01-11 02:00:00,1.0313003901321953,U042,T02,3.853682847116128,Sample IT support ticket 242: Printer not working
+T0243,Hardware,High,Resolved,2024-01-11 03:00:00,0.30405235302154887,U043,T03,5.0,Sample IT support ticket 243: Printer not working
+T0244,Network,Medium,Resolved,2024-01-11 04:00:00,3.699798381273825,U044,T04,3.483228656700372,Sample IT support ticket 244: Hardware malfunction
+T0245,Software,Medium,Open,2024-01-11 05:00:00,4.413045900284276,U045,T05,3.3606463946797973,Sample IT support ticket 245: Printer not working
+T0246,Hardware,Medium,Closed,2024-01-11 06:00:00,3.864974920593673,U046,T06,3.613805182254374,Sample IT support ticket 246: Security alert
+T0247,Hardware,High,In Progress,2024-01-11 07:00:00,2.4907104600677896,U047,T07,3.23733711339303,Sample IT support ticket 247: Software installation
+T0248,Hardware,Low,Closed,2024-01-11 08:00:00,1.9107613791195996,U048,T08,4.098136252795836,Sample IT support ticket 248: System slow performance
+T0249,Network,Low,Resolved,2024-01-11 09:00:00,7.96085088757902,U049,T09,5.0,Sample IT support ticket 249: Printer not working
+T0250,Software,Medium,In Progress,2024-01-11 10:00:00,2.9282322192063743,U050,T10,4.258463418492823,Sample IT support ticket 250: Network connectivity issues
+T0251,Hardware,Medium,Resolved,2024-01-11 11:00:00,2.6094175660609977,U051,T11,3.79811719829897,Sample IT support ticket 251: System slow performance
+T0252,Security,Medium,Resolved,2024-01-11 12:00:00,0.10390621576805789,U052,T12,3.766550984867565,Sample IT support ticket 252: Hardware malfunction
+T0253,Hardware,Low,Resolved,2024-01-11 13:00:00,1.6696315256431906,U053,T13,2.749447353042674,Sample IT support ticket 253: Security alert
+T0254,Hardware,Medium,Resolved,2024-01-11 14:00:00,1.9134054595952208,U054,T14,4.706487821717728,Sample IT support ticket 254: Network connectivity issues
+T0255,Network,High,Resolved,2024-01-11 15:00:00,2.0354620567919968,U055,T15,3.937730242389758,Sample IT support ticket 255: Network connectivity issues
+T0256,Network,Low,Resolved,2024-01-11 16:00:00,3.4716442194610826,U056,T16,3.8556160691274997,Sample IT support ticket 256: Network connectivity issues
+T0257,Software,Low,Resolved,2024-01-11 17:00:00,3.0508684174114755,U057,T17,5.0,Sample IT support ticket 257: Network connectivity issues
+T0258,Security,Low,In Progress,2024-01-11 18:00:00,3.745005433099279,U058,T18,4.239002326692549,Sample IT support ticket 258: System slow performance
+T0259,Network,Medium,Resolved,2024-01-11 19:00:00,5.790692515147525,U059,T19,3.3985671599238527,Sample IT support ticket 259: System slow performance
+T0260,Hardware,Medium,In Progress,2024-01-11 20:00:00,6.706281605940659,U060,T00,3.6589139230355654,Sample IT support ticket 260: Software installation
+T0261,Software,Medium,Closed,2024-01-11 21:00:00,5.065138975325564,U061,T01,4.918756567357404,Sample IT support ticket 261: Printer not working
+T0262,Hardware,Low,Closed,2024-01-11 22:00:00,12.451194900016821,U062,T02,4.090616328430212,Sample IT support ticket 262: Email problems
+T0263,Hardware,Low,Open,2024-01-11 23:00:00,0.0736033783308001,U063,T03,2.8493776173461063,Sample IT support ticket 263: Software installation
+T0264,Network,Critical,Resolved,2024-01-12 00:00:00,0.8715196428500518,U064,T04,4.735383147660163,Sample IT support ticket 264: Software installation
+T0265,Software,Critical,Closed,2024-01-12 01:00:00,0.030366474125662755,U065,T05,3.4654847315688047,Sample IT support ticket 265: Security alert
+T0266,Security,Medium,In Progress,2024-01-12 02:00:00,4.1705317056310065,U066,T06,5.0,Sample IT support ticket 266: Security alert
+T0267,Security,Low,Resolved,2024-01-12 03:00:00,9.132328040265907,U067,T07,4.864038452571719,Sample IT support ticket 267: Printer not working
+T0268,Network,Low,Closed,2024-01-12 04:00:00,1.116117377111094,U068,T08,3.642142483472999,Sample IT support ticket 268: Email problems
+T0269,Network,High,Open,2024-01-12 05:00:00,10.471076664894875,U069,T09,5.0,Sample IT support ticket 269: Security alert
+T0270,Software,Medium,Resolved,2024-01-12 06:00:00,0.24863960775488256,U070,T10,4.054284408421923,Sample IT support ticket 270: Printer not working
+T0271,Security,Medium,In Progress,2024-01-12 07:00:00,10.898915692000472,U071,T11,4.682218940097775,Sample IT support ticket 271: Printer not working
+T0272,Security,Low,Closed,2024-01-12 08:00:00,1.7331299172261536,U072,T12,4.38778625383558,Sample IT support ticket 272: System slow performance
+T0273,Security,Low,Closed,2024-01-12 09:00:00,0.42776184556774743,U073,T13,3.322914676007301,Sample IT support ticket 273: Login problems
+T0274,Hardware,Low,Closed,2024-01-12 10:00:00,2.6611301955976465,U074,T14,3.4851601341460303,Sample IT support ticket 274: System slow performance
+T0275,Security,Medium,Resolved,2024-01-12 11:00:00,1.1870342523126876,U075,T15,4.823968654064929,Sample IT support ticket 275: Email problems
+T0276,Hardware,Medium,Resolved,2024-01-12 12:00:00,1.3411799703666478,U076,T16,3.732179734314767,Sample IT support ticket 276: Security alert
+T0277,Software,Medium,Resolved,2024-01-12 13:00:00,1.4685751486451144,U077,T17,3.6770812294064026,Sample IT support ticket 277: Email problems
+T0278,Hardware,High,Resolved,2024-01-12 14:00:00,6.498732079861694,U078,T18,3.2359019365205177,Sample IT support ticket 278: Software installation
+T0279,Software,Low,Resolved,2024-01-12 15:00:00,3.0988285525530417,U079,T19,4.338879252474769,Sample IT support ticket 279: Software installation
+T0280,Security,Low,Open,2024-01-12 16:00:00,1.4918427830138101,U080,T00,5.0,Sample IT support ticket 280: Email problems
+T0281,Security,Low,Resolved,2024-01-12 17:00:00,3.7698590438180495,U081,T01,3.145973668596582,Sample IT support ticket 281: Login problems
+T0282,Software,Low,In Progress,2024-01-12 18:00:00,5.0372468985924055,U082,T02,4.019375565338207,Sample IT support ticket 282: Login problems
+T0283,Network,Medium,In Progress,2024-01-12 19:00:00,1.2732469688321841,U083,T03,5.0,Sample IT support ticket 283: System slow performance
+T0284,Software,Low,Open,2024-01-12 20:00:00,2.1346653358364085,U084,T04,3.936286887003428,Sample IT support ticket 284: Email problems
+T0285,Network,Low,Resolved,2024-01-12 21:00:00,0.5199158380856022,U085,T05,4.361897436999787,Sample IT support ticket 285: Security alert
+T0286,Hardware,Low,Resolved,2024-01-12 22:00:00,0.7994142708885549,U086,T06,3.150085177482496,Sample IT support ticket 286: System slow performance
+T0287,Hardware,High,Resolved,2024-01-12 23:00:00,4.571734770504681,U087,T07,4.342645677766119,Sample IT support ticket 287: Hardware malfunction
+T0288,Hardware,Medium,Open,2024-01-13 00:00:00,0.800826245934589,U088,T08,3.850284587996361,Sample IT support ticket 288: Login problems
+T0289,Security,High,Resolved,2024-01-13 01:00:00,2.9791379989284,U089,T09,4.78858399654389,Sample IT support ticket 289: Network connectivity issues
+T0290,Hardware,Low,Resolved,2024-01-13 02:00:00,4.938363997758742,U090,T10,4.949908841251801,Sample IT support ticket 290: System slow performance
+T0291,Network,Medium,Resolved,2024-01-13 03:00:00,0.4521235340818817,U091,T11,5.0,Sample IT support ticket 291: Software installation
+T0292,Hardware,High,Resolved,2024-01-13 04:00:00,3.3509554902725873,U092,T12,4.463706538570861,Sample IT support ticket 292: System slow performance
+T0293,Software,Medium,Resolved,2024-01-13 05:00:00,1.1858838403699365,U093,T13,4.260637053265733,Sample IT support ticket 293: Email problems
+T0294,Software,Medium,Resolved,2024-01-13 06:00:00,13.179451887231703,U094,T14,4.155507441261869,Sample IT support ticket 294: Network connectivity issues
+T0295,Security,Medium,Resolved,2024-01-13 07:00:00,2.6430734853072284,U095,T15,3.7174669657514494,Sample IT support ticket 295: Email problems
+T0296,Software,High,In Progress,2024-01-13 08:00:00,6.559434869741437,U096,T16,4.270787074769353,Sample IT support ticket 296: Printer not working
+T0297,Network,Medium,Open,2024-01-13 09:00:00,3.1960449999744447,U097,T17,3.7636788718887764,Sample IT support ticket 297: Software installation
+T0298,Hardware,Medium,Resolved,2024-01-13 10:00:00,0.1775321971194645,U098,T18,4.1347687810156915,Sample IT support ticket 298: Software installation
+T0299,Security,Low,Open,2024-01-13 11:00:00,4.011223934297409,U099,T19,5.0,Sample IT support ticket 299: Login problems
+T0300,Hardware,Medium,Resolved,2024-01-13 12:00:00,12.09680208049893,U000,T00,3.194765947776287,Sample IT support ticket 300: System slow performance
+T0301,Hardware,Low,Resolved,2024-01-13 13:00:00,3.681313691015298,U001,T01,4.911902848903236,Sample IT support ticket 301: Login problems
+T0302,Network,Medium,Closed,2024-01-13 14:00:00,6.841208858830917,U002,T02,5.0,Sample IT support ticket 302: Network connectivity issues
+T0303,Software,Medium,Resolved,2024-01-13 15:00:00,8.623786120616133,U003,T03,3.905545178407137,Sample IT support ticket 303: System slow performance
+T0304,Software,Low,Closed,2024-01-13 16:00:00,1.035496263346001,U004,T04,2.302516080793124,Sample IT support ticket 304: Printer not working
+T0305,Hardware,Medium,Resolved,2024-01-13 17:00:00,0.953256376720623,U005,T05,3.513742410324454,Sample IT support ticket 305: Email problems
+T0306,Security,High,Resolved,2024-01-13 18:00:00,3.7765082588381214,U006,T06,5.0,Sample IT support ticket 306: Printer not working
+T0307,Software,Critical,Resolved,2024-01-13 19:00:00,2.117509729334309,U007,T07,3.9817055501608944,Sample IT support ticket 307: Software installation
+T0308,Security,Low,Resolved,2024-01-13 20:00:00,7.326859928675695,U008,T08,3.2005582141640714,Sample IT support ticket 308: Network connectivity issues
+T0309,Software,Medium,Resolved,2024-01-13 21:00:00,9.211265414851423,U009,T09,3.596180063017426,Sample IT support ticket 309: Hardware malfunction
+T0310,Security,Medium,Resolved,2024-01-13 22:00:00,1.7442419136940588,U010,T10,4.672496021203642,Sample IT support ticket 310: Network connectivity issues
+T0311,Network,High,Closed,2024-01-13 23:00:00,1.0813104584337723,U011,T11,4.437386854561104,Sample IT support ticket 311: Security alert
+T0312,Security,High,Resolved,2024-01-14 00:00:00,6.066077183169795,U012,T12,3.8088543206642447,Sample IT support ticket 312: Network connectivity issues
+T0313,Network,Critical,Resolved,2024-01-14 01:00:00,1.285264490936663,U013,T13,3.70654047054825,Sample IT support ticket 313: Printer not working
+T0314,Network,Medium,Resolved,2024-01-14 02:00:00,6.91771570207614,U014,T14,3.6865934807649423,Sample IT support ticket 314: Security alert
+T0315,Security,Medium,Resolved,2024-01-14 03:00:00,2.2047732030216407,U015,T15,3.262071852401198,Sample IT support ticket 315: Security alert
+T0316,Network,Medium,In Progress,2024-01-14 04:00:00,4.405062012821481,U016,T16,5.0,Sample IT support ticket 316: System slow performance
+T0317,Hardware,Medium,In Progress,2024-01-14 05:00:00,0.4016480691645032,U017,T17,3.742143624630928,Sample IT support ticket 317: System slow performance
+T0318,Network,Low,Resolved,2024-01-14 06:00:00,3.9111682762614968,U018,T18,4.973726816660397,Sample IT support ticket 318: Security alert
+T0319,Software,Medium,In Progress,2024-01-14 07:00:00,2.40422455185114,U019,T19,5.0,Sample IT support ticket 319: Hardware malfunction
+T0320,Security,Medium,In Progress,2024-01-14 08:00:00,3.5334404162664192,U020,T00,4.798648718518368,Sample IT support ticket 320: System slow performance
+T0321,Hardware,Low,In Progress,2024-01-14 09:00:00,0.7357596596926317,U021,T01,3.6547037498255612,Sample IT support ticket 321: Network connectivity issues
+T0322,Security,Medium,Open,2024-01-14 10:00:00,5.3404852189941305,U022,T02,4.322984072269287,Sample IT support ticket 322: Printer not working
+T0323,Software,Medium,Open,2024-01-14 11:00:00,7.9451770528475105,U023,T03,3.980643514887267,Sample IT support ticket 323: Network connectivity issues
+T0324,Software,Low,Closed,2024-01-14 12:00:00,0.9771613067541575,U024,T04,3.2770385114158973,Sample IT support ticket 324: Hardware malfunction
+T0325,Software,Low,Resolved,2024-01-14 13:00:00,0.40244084505120387,U025,T05,4.259487425377283,Sample IT support ticket 325: Software installation
+T0326,Network,High,Resolved,2024-01-14 14:00:00,0.09568983972629597,U026,T06,3.056768167072158,Sample IT support ticket 326: Login problems
+T0327,Network,Low,Resolved,2024-01-14 15:00:00,4.108570752198349,U027,T07,4.9501435107692515,Sample IT support ticket 327: Printer not working
+T0328,Security,Medium,In Progress,2024-01-14 16:00:00,3.736739893295672,U028,T08,3.6283061621612855,Sample IT support ticket 328: System slow performance
+T0329,Security,Medium,Closed,2024-01-14 17:00:00,3.1647816535342628,U029,T09,4.160927724698271,Sample IT support ticket 329: Printer not working
+T0330,Hardware,Medium,Resolved,2024-01-14 18:00:00,1.0555866517651553,U030,T10,4.226630297236913,Sample IT support ticket 330: Network connectivity issues
+T0331,Hardware,Low,Open,2024-01-14 19:00:00,1.9831306602608207,U031,T11,3.7928760210367383,Sample IT support ticket 331: Login problems
+T0332,Security,Medium,Resolved,2024-01-14 20:00:00,3.610304190157288,U032,T12,4.469355041180219,Sample IT support ticket 332: Email problems
+T0333,Network,Medium,Resolved,2024-01-14 21:00:00,2.7468068599676636,U033,T13,3.6200770747019804,Sample IT support ticket 333: Email problems
+T0334,Software,Medium,Closed,2024-01-14 22:00:00,17.620532653525306,U034,T14,4.697037837965795,Sample IT support ticket 334: System slow performance
+T0335,Security,High,Resolved,2024-01-14 23:00:00,0.5867664504613093,U035,T15,2.9232162558026014,Sample IT support ticket 335: Hardware malfunction
+T0336,Hardware,High,Resolved,2024-01-15 00:00:00,4.751670249681855,U036,T16,4.101103663637129,Sample IT support ticket 336: Email problems
+T0337,Network,High,In Progress,2024-01-15 01:00:00,2.0721984032415977,U037,T17,5.0,Sample IT support ticket 337: Printer not working
+T0338,Security,High,Closed,2024-01-15 02:00:00,2.235861302606863,U038,T18,3.1997349403155404,Sample IT support ticket 338: Email problems
+T0339,Security,High,In Progress,2024-01-15 03:00:00,5.057691445676212,U039,T19,3.4578040235801186,Sample IT support ticket 339: Software installation
+T0340,Network,High,Closed,2024-01-15 04:00:00,4.716290301279258,U040,T00,4.411126279727132,Sample IT support ticket 340: Software installation
+T0341,Security,Medium,Resolved,2024-01-15 05:00:00,18.95754723145748,U041,T01,4.143665425551679,Sample IT support ticket 341: System slow performance
+T0342,Network,High,Resolved,2024-01-15 06:00:00,0.5496724965463324,U042,T02,4.280504079418847,Sample IT support ticket 342: Software installation
+T0343,Software,Medium,Resolved,2024-01-15 07:00:00,0.43974900016262164,U043,T03,4.391349704118131,Sample IT support ticket 343: Email problems
+T0344,Network,Low,In Progress,2024-01-15 08:00:00,5.154331062694169,U044,T04,4.507777174849416,Sample IT support ticket 344: Hardware malfunction
+T0345,Network,Medium,In Progress,2024-01-15 09:00:00,3.4546690018719217,U045,T05,4.8877598735649785,Sample IT support ticket 345: Security alert
+T0346,Network,Medium,In Progress,2024-01-15 10:00:00,1.2817063698001046,U046,T06,4.32785492554281,Sample IT support ticket 346: Security alert
+T0347,Security,High,In Progress,2024-01-15 11:00:00,0.3310027493911899,U047,T07,3.806993876305166,Sample IT support ticket 347: System slow performance
+T0348,Security,High,Resolved,2024-01-15 12:00:00,0.35820348425563175,U048,T08,4.538058960962185,Sample IT support ticket 348: Login problems
+T0349,Network,Critical,Resolved,2024-01-15 13:00:00,8.984474049862357,U049,T09,5.0,Sample IT support ticket 349: Security alert
+T0350,Security,High,Open,2024-01-15 14:00:00,0.8521161274398561,U050,T10,3.8938930028939414,Sample IT support ticket 350: Security alert
+T0351,Hardware,Medium,Closed,2024-01-15 15:00:00,1.5625319717903232,U051,T11,3.2203765562634867,Sample IT support ticket 351: Software installation
+T0352,Hardware,High,Resolved,2024-01-15 16:00:00,1.0281273203825332,U052,T12,4.885664535429578,Sample IT support ticket 352: Software installation
+T0353,Security,High,Closed,2024-01-15 17:00:00,1.753996939241683,U053,T13,3.9036950688371213,Sample IT support ticket 353: Email problems
+T0354,Security,High,Closed,2024-01-15 18:00:00,0.28780544292651933,U054,T14,2.2618643631887707,Sample IT support ticket 354: System slow performance
+T0355,Network,Medium,In Progress,2024-01-15 19:00:00,2.928049288102139,U055,T15,4.677937341720337,Sample IT support ticket 355: Login problems
+T0356,Software,High,Resolved,2024-01-15 20:00:00,0.28002738550976547,U056,T16,3.571737451236862,Sample IT support ticket 356: System slow performance
+T0357,Security,Medium,Resolved,2024-01-15 21:00:00,6.444888168637008,U057,T17,3.927573374156671,Sample IT support ticket 357: Network connectivity issues
+T0358,Hardware,Medium,Resolved,2024-01-15 22:00:00,1.064789230736824,U058,T18,4.265584264455212,Sample IT support ticket 358: Printer not working
+T0359,Network,Medium,In Progress,2024-01-15 23:00:00,3.1062187645943786,U059,T19,4.152399743823253,Sample IT support ticket 359: Login problems
+T0360,Security,Critical,Resolved,2024-01-16 00:00:00,8.483691265958967,U060,T00,4.567561453711232,Sample IT support ticket 360: Login problems
+T0361,Hardware,Low,In Progress,2024-01-16 01:00:00,4.209328161641056,U061,T01,3.6516109035441255,Sample IT support ticket 361: Hardware malfunction
+T0362,Hardware,Medium,In Progress,2024-01-16 02:00:00,3.0453425302989268,U062,T02,4.410484638540866,Sample IT support ticket 362: System slow performance
+T0363,Software,High,Resolved,2024-01-16 03:00:00,1.5682241699365842,U063,T03,3.792362657932866,Sample IT support ticket 363: Email problems
+T0364,Network,Low,Resolved,2024-01-16 04:00:00,1.6198724048953872,U064,T04,4.591048384710002,Sample IT support ticket 364: Hardware malfunction
+T0365,Network,Low,Resolved,2024-01-16 05:00:00,4.4284366022789445,U065,T05,4.492293987210442,Sample IT support ticket 365: Login problems
+T0366,Software,High,Open,2024-01-16 06:00:00,20.557986698829218,U066,T06,3.2516490383643237,Sample IT support ticket 366: Login problems
+T0367,Software,Medium,Resolved,2024-01-16 07:00:00,4.3369349078609245,U067,T07,4.868785692940026,Sample IT support ticket 367: Login problems
+T0368,Network,Low,In Progress,2024-01-16 08:00:00,3.263822043871925,U068,T08,3.5712292439087614,Sample IT support ticket 368: Security alert
+T0369,Network,Medium,In Progress,2024-01-16 09:00:00,5.246982096771245,U069,T09,4.646446238624916,Sample IT support ticket 369: System slow performance
+T0370,Security,High,Resolved,2024-01-16 10:00:00,2.5034917119296356,U070,T10,4.293829850721073,Sample IT support ticket 370: Printer not working
+T0371,Security,High,Closed,2024-01-16 11:00:00,0.2481073739328702,U071,T11,5.0,Sample IT support ticket 371: Printer not working
+T0372,Software,Medium,Resolved,2024-01-16 12:00:00,3.304857040575844,U072,T12,3.8212272141025183,Sample IT support ticket 372: Hardware malfunction
+T0373,Security,Medium,Resolved,2024-01-16 13:00:00,12.64481370918134,U073,T13,3.720546563105442,Sample IT support ticket 373: Login problems
+T0374,Hardware,Medium,Resolved,2024-01-16 14:00:00,0.7709566517628141,U074,T14,3.984464315289814,Sample IT support ticket 374: Printer not working
+T0375,Security,Medium,Resolved,2024-01-16 15:00:00,4.684795033873032,U075,T15,3.75745617373258,Sample IT support ticket 375: Software installation
+T0376,Security,Medium,Open,2024-01-16 16:00:00,0.8972453749690318,U076,T16,4.63995352155364,Sample IT support ticket 376: System slow performance
+T0377,Hardware,Medium,Resolved,2024-01-16 17:00:00,3.069997704105786,U077,T17,2.7069515132507296,Sample IT support ticket 377: Printer not working
+T0378,Software,Critical,Resolved,2024-01-16 18:00:00,0.40669793480944355,U078,T18,3.157054064682917,Sample IT support ticket 378: Email problems
+T0379,Hardware,Medium,In Progress,2024-01-16 19:00:00,2.3940466313835227,U079,T19,3.1457576627366457,Sample IT support ticket 379: System slow performance
+T0380,Security,Medium,Resolved,2024-01-16 20:00:00,5.6450266341698265,U080,T00,4.760246073578861,Sample IT support ticket 380: Email problems
+T0381,Software,Low,Resolved,2024-01-16 21:00:00,1.7082150459418166,U081,T01,5.0,Sample IT support ticket 381: Printer not working
+T0382,Security,Medium,Open,2024-01-16 22:00:00,4.373445091504354,U082,T02,3.916440625170023,Sample IT support ticket 382: Software installation
+T0383,Hardware,Medium,In Progress,2024-01-16 23:00:00,6.347770571665401,U083,T03,3.8649426214479914,Sample IT support ticket 383: Email problems
+T0384,Hardware,High,Resolved,2024-01-17 00:00:00,10.478938770816836,U084,T04,4.056041730490545,Sample IT support ticket 384: Security alert
+T0385,Security,Medium,Open,2024-01-17 01:00:00,1.0696467508622225,U085,T05,4.929502642086552,Sample IT support ticket 385: Printer not working
+T0386,Network,Medium,Resolved,2024-01-17 02:00:00,2.038744531658139,U086,T06,3.258117492647541,Sample IT support ticket 386: Security alert
+T0387,Network,High,Resolved,2024-01-17 03:00:00,0.6614613812896112,U087,T07,4.190695186187828,Sample IT support ticket 387: Printer not working
+T0388,Hardware,Medium,Resolved,2024-01-17 04:00:00,19.56261984819222,U088,T08,4.7801581038259435,Sample IT support ticket 388: Network connectivity issues
+T0389,Hardware,Medium,Resolved,2024-01-17 05:00:00,10.46923638863429,U089,T09,4.400875335951876,Sample IT support ticket 389: Network connectivity issues
+T0390,Network,Critical,Resolved,2024-01-17 06:00:00,3.105742395196491,U090,T10,4.151665293278994,Sample IT support ticket 390: Network connectivity issues
+T0391,Network,Medium,Resolved,2024-01-17 07:00:00,7.3814839682478866,U091,T11,4.800836874053713,Sample IT support ticket 391: Email problems
+T0392,Security,High,Resolved,2024-01-17 08:00:00,2.943867821193145,U092,T12,1.83741416560061,Sample IT support ticket 392: Security alert
+T0393,Security,Medium,Resolved,2024-01-17 09:00:00,3.9082593944869233,U093,T13,4.542300255624726,Sample IT support ticket 393: Security alert
+T0394,Network,High,In Progress,2024-01-17 10:00:00,0.3733959181720872,U094,T14,3.4767394534980607,Sample IT support ticket 394: Security alert
+T0395,Security,Low,Resolved,2024-01-17 11:00:00,5.6304057406229555,U095,T15,2.5354936825148346,Sample IT support ticket 395: Software installation
+T0396,Security,Medium,Resolved,2024-01-17 12:00:00,0.5465493409156285,U096,T16,4.408962079619984,Sample IT support ticket 396: Security alert
+T0397,Software,Medium,Resolved,2024-01-17 13:00:00,6.996354939741357,U097,T17,5.0,Sample IT support ticket 397: Software installation
+T0398,Security,Low,Resolved,2024-01-17 14:00:00,6.093556268074661,U098,T18,3.8900411882978467,Sample IT support ticket 398: Network connectivity issues
+T0399,Hardware,Medium,Resolved,2024-01-17 15:00:00,4.934220276374436,U099,T19,4.762299637762351,Sample IT support ticket 399: Network connectivity issues
+T0400,Security,High,Resolved,2024-01-17 16:00:00,0.14732147220621247,U000,T00,5.0,Sample IT support ticket 400: Email problems
+T0401,Security,Medium,Resolved,2024-01-17 17:00:00,1.4446161602062007,U001,T01,5.0,Sample IT support ticket 401: Printer not working
+T0402,Network,Medium,Resolved,2024-01-17 18:00:00,1.22128055671651,U002,T02,5.0,Sample IT support ticket 402: Network connectivity issues
+T0403,Hardware,Medium,Resolved,2024-01-17 19:00:00,1.786001048078068,U003,T03,4.593701992857514,Sample IT support ticket 403: Printer not working
+T0404,Security,Medium,Resolved,2024-01-17 20:00:00,0.3668945622895105,U004,T04,4.060346911121274,Sample IT support ticket 404: Printer not working
+T0405,Security,High,Resolved,2024-01-17 21:00:00,11.055805203568296,U005,T05,2.718427350482265,Sample IT support ticket 405: System slow performance
+T0406,Software,Medium,In Progress,2024-01-17 22:00:00,3.227972075052726,U006,T06,3.8031500094960413,Sample IT support ticket 406: Email problems
+T0407,Security,Medium,Resolved,2024-01-17 23:00:00,1.4583924877904086,U007,T07,3.3254027237470467,Sample IT support ticket 407: Login problems
+T0408,Security,Medium,Resolved,2024-01-18 00:00:00,2.0232297244263964,U008,T08,5.0,Sample IT support ticket 408: Login problems
+T0409,Software,Medium,Open,2024-01-18 01:00:00,2.371054408970521,U009,T09,3.859291350054131,Sample IT support ticket 409: Hardware malfunction
+T0410,Network,Medium,Resolved,2024-01-18 02:00:00,3.671110680883168,U010,T10,4.098563845427589,Sample IT support ticket 410: System slow performance
+T0411,Security,Low,In Progress,2024-01-18 03:00:00,2.9000330081817585,U011,T11,4.4411883008323745,Sample IT support ticket 411: Email problems
+T0412,Software,Medium,Resolved,2024-01-18 04:00:00,10.072628186070586,U012,T12,4.034881957097963,Sample IT support ticket 412: Hardware malfunction
+T0413,Hardware,High,Resolved,2024-01-18 05:00:00,2.748370051683158,U013,T13,5.0,Sample IT support ticket 413: Hardware malfunction
+T0414,Network,High,In Progress,2024-01-18 06:00:00,19.39305306144094,U014,T14,3.5018805106124384,Sample IT support ticket 414: System slow performance
+T0415,Hardware,High,Resolved,2024-01-18 07:00:00,7.6266604533131215,U015,T15,4.155685964189794,Sample IT support ticket 415: Login problems
+T0416,Hardware,High,Resolved,2024-01-18 08:00:00,0.9353547353577275,U016,T16,3.4060235314415612,Sample IT support ticket 416: Email problems
+T0417,Software,High,Resolved,2024-01-18 09:00:00,10.671197842355417,U017,T17,2.9439819910234353,Sample IT support ticket 417: Login problems
+T0418,Security,High,Open,2024-01-18 10:00:00,0.4948511180397718,U018,T18,3.5105847272757718,Sample IT support ticket 418: Hardware malfunction
+T0419,Software,Medium,In Progress,2024-01-18 11:00:00,6.802918296042903,U019,T19,3.9703705623612704,Sample IT support ticket 419: Email problems
+T0420,Software,High,Resolved,2024-01-18 12:00:00,1.9161664746683886,U020,T00,3.656558220386192,Sample IT support ticket 420: Hardware malfunction
+T0421,Software,Low,Closed,2024-01-18 13:00:00,8.414095072972945,U021,T01,3.446063216100915,Sample IT support ticket 421: Security alert
+T0422,Software,High,Resolved,2024-01-18 14:00:00,8.101531676622507,U022,T02,2.874946029062533,Sample IT support ticket 422: System slow performance
+T0423,Network,Medium,In Progress,2024-01-18 15:00:00,6.55805063342979,U023,T03,3.933515541897044,Sample IT support ticket 423: Printer not working
+T0424,Security,Medium,Resolved,2024-01-18 16:00:00,6.243170774257044,U024,T04,2.796223700775198,Sample IT support ticket 424: Email problems
+T0425,Hardware,Low,Resolved,2024-01-18 17:00:00,1.453527478367147,U025,T05,4.6080447709516825,Sample IT support ticket 425: Email problems
+T0426,Hardware,High,Resolved,2024-01-18 18:00:00,0.33752531680299785,U026,T06,4.065951802347603,Sample IT support ticket 426: Printer not working
+T0427,Security,Medium,In Progress,2024-01-18 19:00:00,2.0632198589691986,U027,T07,2.8339588004280554,Sample IT support ticket 427: Hardware malfunction
+T0428,Hardware,Low,Resolved,2024-01-18 20:00:00,0.7623400934666302,U028,T08,3.7526327383601092,Sample IT support ticket 428: Security alert
+T0429,Security,Low,Resolved,2024-01-18 21:00:00,4.749132603909896,U029,T09,3.3982748755275334,Sample IT support ticket 429: Software installation
+T0430,Hardware,Low,Closed,2024-01-18 22:00:00,1.6992017048524255,U030,T10,4.255339608335344,Sample IT support ticket 430: Printer not working
+T0431,Software,Medium,Resolved,2024-01-18 23:00:00,14.854361208508331,U031,T11,5.0,Sample IT support ticket 431: System slow performance
+T0432,Hardware,High,Resolved,2024-01-19 00:00:00,4.097420458144497,U032,T12,2.499862024283404,Sample IT support ticket 432: Login problems
+T0433,Security,Medium,Closed,2024-01-19 01:00:00,6.914700701639751,U033,T13,4.092020863317933,Sample IT support ticket 433: Hardware malfunction
+T0434,Security,Low,In Progress,2024-01-19 02:00:00,0.5686728350662378,U034,T14,3.8718937635466877,Sample IT support ticket 434: Printer not working
+T0435,Security,Medium,Closed,2024-01-19 03:00:00,7.922426173345804,U035,T15,4.537072061160373,Sample IT support ticket 435: Printer not working
+T0436,Security,Medium,Resolved,2024-01-19 04:00:00,10.243205794464531,U036,T16,4.170557302590152,Sample IT support ticket 436: Email problems
+T0437,Security,Medium,Open,2024-01-19 05:00:00,2.6704005621929974,U037,T17,3.3984245346089446,Sample IT support ticket 437: Login problems
+T0438,Network,Low,Resolved,2024-01-19 06:00:00,3.7281861992999623,U038,T18,3.7447568514667053,Sample IT support ticket 438: Login problems
+T0439,Network,High,Resolved,2024-01-19 07:00:00,5.789442937327351,U039,T19,3.363179314557209,Sample IT support ticket 439: System slow performance
+T0440,Hardware,Medium,Open,2024-01-19 08:00:00,0.7687052338183171,U040,T00,4.8608057108788785,Sample IT support ticket 440: Login problems
+T0441,Security,Medium,Resolved,2024-01-19 09:00:00,2.793170192865578,U041,T01,4.017049318937554,Sample IT support ticket 441: Printer not working
+T0442,Hardware,Medium,Resolved,2024-01-19 10:00:00,2.034399262678271,U042,T02,5.0,Sample IT support ticket 442: Software installation
+T0443,Security,High,Resolved,2024-01-19 11:00:00,0.6330484441810441,U043,T03,3.9514713489483033,Sample IT support ticket 443: Network connectivity issues
+T0444,Security,High,Open,2024-01-19 12:00:00,1.832517929826926,U044,T04,3.43327458647163,Sample IT support ticket 444: Hardware malfunction
+T0445,Network,Medium,Resolved,2024-01-19 13:00:00,0.28242945081644083,U045,T05,2.7890284859097383,Sample IT support ticket 445: Network connectivity issues
+T0446,Network,Medium,Closed,2024-01-19 14:00:00,0.10460351987525059,U046,T06,2.557488258995244,Sample IT support ticket 446: Printer not working
+T0447,Software,Medium,Closed,2024-01-19 15:00:00,0.5808721293142544,U047,T07,2.732691245595608,Sample IT support ticket 447: Network connectivity issues
+T0448,Network,High,Resolved,2024-01-19 16:00:00,13.19981335990843,U048,T08,4.213701320809187,Sample IT support ticket 448: Printer not working
+T0449,Software,Medium,In Progress,2024-01-19 17:00:00,3.1898510662324915,U049,T09,4.406980018583947,Sample IT support ticket 449: Network connectivity issues
+T0450,Software,Medium,Resolved,2024-01-19 18:00:00,13.504711327536425,U050,T10,2.735047438374293,Sample IT support ticket 450: Login problems
+T0451,Software,High,Open,2024-01-19 19:00:00,2.2660431640329994,U051,T11,4.716030651260892,Sample IT support ticket 451: Security alert
+T0452,Software,Medium,Open,2024-01-19 20:00:00,1.4947969133228163,U052,T12,3.6135511586532485,Sample IT support ticket 452: Login problems
+T0453,Software,High,Resolved,2024-01-19 21:00:00,2.822027899109199,U053,T13,4.11743440958844,Sample IT support ticket 453: Login problems
+T0454,Hardware,High,Resolved,2024-01-19 22:00:00,2.3157875625061934,U054,T14,5.0,Sample IT support ticket 454: System slow performance
+T0455,Network,Low,Resolved,2024-01-19 23:00:00,0.4466980023935677,U055,T15,4.7174714526924255,Sample IT support ticket 455: Email problems
+T0456,Software,Medium,Resolved,2024-01-20 00:00:00,4.095796817589971,U056,T16,3.785175481675334,Sample IT support ticket 456: Email problems
+T0457,Security,Low,Resolved,2024-01-20 01:00:00,0.9735798479933226,U057,T17,3.28704621966777,Sample IT support ticket 457: Network connectivity issues
+T0458,Network,Medium,In Progress,2024-01-20 02:00:00,3.866001138023055,U058,T18,2.278547678936556,Sample IT support ticket 458: Printer not working
+T0459,Network,Medium,Closed,2024-01-20 03:00:00,4.201587357298479,U059,T19,3.4246773446060637,Sample IT support ticket 459: System slow performance
+T0460,Software,Low,Resolved,2024-01-20 04:00:00,0.6596158062177857,U060,T00,3.8310958089378446,Sample IT support ticket 460: Login problems
+T0461,Hardware,Medium,Resolved,2024-01-20 05:00:00,0.25324883580212554,U061,T01,3.2102563782790527,Sample IT support ticket 461: System slow performance
+T0462,Software,Medium,In Progress,2024-01-20 06:00:00,6.070381972895721,U062,T02,3.8949944263261562,Sample IT support ticket 462: Network connectivity issues
+T0463,Hardware,Medium,Resolved,2024-01-20 07:00:00,2.4632664883655453,U063,T03,4.061481506367015,Sample IT support ticket 463: Email problems
+T0464,Security,Medium,Resolved,2024-01-20 08:00:00,0.23969560041526342,U064,T04,3.820115214553537,Sample IT support ticket 464: Security alert
+T0465,Network,Low,In Progress,2024-01-20 09:00:00,21.08772790694666,U065,T05,3.479997935341232,Sample IT support ticket 465: Hardware malfunction
+T0466,Security,Low,Open,2024-01-20 10:00:00,0.23806832569769473,U066,T06,4.1349237375733825,Sample IT support ticket 466: Network connectivity issues
+T0467,Hardware,Low,Resolved,2024-01-20 11:00:00,4.750236054000605,U067,T07,4.353552519655527,Sample IT support ticket 467: System slow performance
+T0468,Hardware,High,Resolved,2024-01-20 12:00:00,16.461192310627812,U068,T08,3.127680738045723,Sample IT support ticket 468: Security alert
+T0469,Security,Medium,In Progress,2024-01-20 13:00:00,1.093434467828588,U069,T09,5.0,Sample IT support ticket 469: Hardware malfunction
+T0470,Hardware,Low,Closed,2024-01-20 14:00:00,0.6137674449343398,U070,T10,3.9211294941725905,Sample IT support ticket 470: Software installation
+T0471,Security,High,In Progress,2024-01-20 15:00:00,0.5176336240960374,U071,T11,4.015079698355878,Sample IT support ticket 471: Network connectivity issues
+T0472,Network,High,Resolved,2024-01-20 16:00:00,1.4454588237644392,U072,T12,4.5665715386052455,Sample IT support ticket 472: Network connectivity issues
+T0473,Security,Medium,Closed,2024-01-20 17:00:00,0.42609281420624595,U073,T13,4.186572905010801,Sample IT support ticket 473: Software installation
+T0474,Network,Medium,Resolved,2024-01-20 18:00:00,4.712717879712733,U074,T14,4.762509307130596,Sample IT support ticket 474: Software installation
+T0475,Security,Low,Resolved,2024-01-20 19:00:00,0.25726585519810835,U075,T15,4.229699332161459,Sample IT support ticket 475: Network connectivity issues
+T0476,Hardware,High,Resolved,2024-01-20 20:00:00,2.8486850097385474,U076,T16,3.51005010028765,Sample IT support ticket 476: Software installation
+T0477,Security,Low,In Progress,2024-01-20 21:00:00,22.85151954719974,U077,T17,4.289202820164881,Sample IT support ticket 477: Login problems
+T0478,Hardware,High,Closed,2024-01-20 22:00:00,6.727395106706862,U078,T18,3.0850190341434707,Sample IT support ticket 478: Hardware malfunction
+T0479,Security,High,Resolved,2024-01-20 23:00:00,3.8203283064794946,U079,T19,4.0868477646212185,Sample IT support ticket 479: Hardware malfunction
+T0480,Security,High,Resolved,2024-01-21 00:00:00,1.462595332347941,U080,T00,3.9734160074844316,Sample IT support ticket 480: Hardware malfunction
+T0481,Software,Low,In Progress,2024-01-21 01:00:00,3.9115565712760945,U081,T01,3.8335065141819684,Sample IT support ticket 481: Login problems
+T0482,Hardware,Medium,In Progress,2024-01-21 02:00:00,2.994990223518137,U082,T02,3.8971699908488553,Sample IT support ticket 482: Printer not working
+T0483,Software,Medium,Open,2024-01-21 03:00:00,2.221084645266783,U083,T03,2.494520763601889,Sample IT support ticket 483: Software installation
+T0484,Hardware,Medium,Resolved,2024-01-21 04:00:00,0.5603157034413805,U084,T04,3.5610200738072306,Sample IT support ticket 484: Security alert
+T0485,Software,Low,Resolved,2024-01-21 05:00:00,8.70748423924819,U085,T05,4.074275920912892,Sample IT support ticket 485: Software installation
+T0486,Network,Medium,Resolved,2024-01-21 06:00:00,2.389782119171129,U086,T06,4.12788511359792,Sample IT support ticket 486: Network connectivity issues
+T0487,Security,Low,Resolved,2024-01-21 07:00:00,0.8657767282456543,U087,T07,3.1778598872592334,Sample IT support ticket 487: Email problems
+T0488,Hardware,Medium,Closed,2024-01-21 08:00:00,1.833940733531741,U088,T08,5.0,Sample IT support ticket 488: System slow performance
+T0489,Hardware,Medium,In Progress,2024-01-21 09:00:00,2.138627738480536,U089,T09,3.3070601214283992,Sample IT support ticket 489: System slow performance
+T0490,Security,Medium,Resolved,2024-01-21 10:00:00,7.030311004362133,U090,T10,4.775565760421389,Sample IT support ticket 490: Hardware malfunction
+T0491,Hardware,Medium,Resolved,2024-01-21 11:00:00,5.291241291437113,U091,T11,4.341755489497348,Sample IT support ticket 491: Software installation
+T0492,Hardware,Medium,Resolved,2024-01-21 12:00:00,5.866633304680767,U092,T12,3.4830181521249575,Sample IT support ticket 492: Security alert
+T0493,Software,Medium,Resolved,2024-01-21 13:00:00,0.04437024008613545,U093,T13,5.0,Sample IT support ticket 493: Network connectivity issues
+T0494,Hardware,High,Resolved,2024-01-21 14:00:00,2.1524721057639016,U094,T14,3.045090534594816,Sample IT support ticket 494: Login problems
+T0495,Network,Low,Resolved,2024-01-21 15:00:00,2.6260588841526427,U095,T15,4.735323338888001,Sample IT support ticket 495: Printer not working
+T0496,Network,Medium,In Progress,2024-01-21 16:00:00,0.0775153578657852,U096,T16,4.800465854434383,Sample IT support ticket 496: Login problems
+T0497,Security,Medium,Open,2024-01-21 17:00:00,1.2034108160873052,U097,T17,3.463503832738684,Sample IT support ticket 497: Security alert
+T0498,Hardware,Low,Closed,2024-01-21 18:00:00,5.713298726857512,U098,T18,5.0,Sample IT support ticket 498: Network connectivity issues
+T0499,Security,Medium,Resolved,2024-01-21 19:00:00,0.5898708693355571,U099,T19,3.799962788320838,Sample IT support ticket 499: Hardware malfunction
